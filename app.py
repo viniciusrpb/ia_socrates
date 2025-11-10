@@ -13,20 +13,30 @@ st.title("IAssistente Sócrates - IAgora Brasil")
 client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
 
 def flatten_hierarchy(obj, path=""):
-
     chunks = []
     if isinstance(obj, dict):
-        current_title = obj.get("título") or obj.get("capítulo") or path
+        current_title = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
         new_path = f"{path} > {current_title}" if path else current_title
 
+        textos = []
         if "parágrafos" in obj:
-            texto = " ".join(obj["parágrafos"])
-            chunks.append({"titulo": new_path, "texto": texto})
+            textos.extend(obj["parágrafos"])
+        if "descrição" in obj:
+            textos.append(obj["descrição"])
+        if "habilidades" in obj:
+            for h in obj["habilidades"]:
+                textos.append(h.get("descrição") or h.get("texto") or "")
+        if "direitos" in obj:
+            textos.extend(obj["direitos"])
 
-        for key in ["seções", "subseções", "subsubseções", "capítulos"]:
+        if textos:
+            chunks.append({"titulo": new_path, "texto": " ".join(textos)})
+
+        for key in ["seções", "subseções", "subsubseções", "capítulos", "eixos"]:
             if key in obj:
                 for sub in obj[key]:
                     chunks.extend(flatten_hierarchy(sub, new_path))
+
     elif isinstance(obj, list):
         for item in obj:
             chunks.extend(flatten_hierarchy(item, path))
@@ -94,7 +104,7 @@ def setup_retriever():
     st.info("Indexando documentos da BNCC...")
     docs = load_jsons(SOURCE_DIR)
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=70)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=150)
     split_docs = splitter.split_documents(docs)
 
     embeddings = HuggingFaceEmbeddings(
