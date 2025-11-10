@@ -79,20 +79,16 @@ def load_jsons(folder_path):
 
     for filename in arquivos:
         file_path = os.path.join(folder_path, filename)
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                chunks = flatten_hierarchy(data)
-                for c in chunks:
-                    documentos.append(
-                        Document(
-                            page_content=c["texto"],
-                            metadata={"titulo": c["titulo"], "fonte": filename},
-                        )
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            chunks = flatten_hierarchy(data)
+            for c in chunks:
+                documentos.append(
+                    Document(
+                        page_content=c["texto"],
+                        metadata={"titulo": c["titulo"], "fonte": filename},
                     )
-            st.write(f"📄 {filename}: {len(chunks)} seções lidas.")
-        except Exception as e:
-            st.warning(f" Erro ao ler {filename}: {e}")
+                )
 
     return documentos
 
@@ -101,14 +97,13 @@ def setup_retriever():
 
     SOURCE_DIR = 'source'
 
-    st.info("Indexando documentos da BNCC...")
     docs = load_jsons(SOURCE_DIR)
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=150)
     split_docs = splitter.split_documents(docs)
 
     embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        model_name="neuralmind/bert-base-portuguese-cased"
     )
     db = FAISS.from_documents(split_docs, embedding=embeddings)
     st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
