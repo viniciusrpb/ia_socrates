@@ -94,7 +94,7 @@ def setup_retriever():
     )
 
     db = FAISS.from_documents(split_docs, embedding=embeddings)
-    st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
+    #st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
     return db.as_retriever(search_kwargs={"k": 7})
 
 retriever = setup_retriever()
@@ -136,8 +136,8 @@ Resposta:
         st.subheader("Resposta:")
         st.write(resposta)
 
-        with st.expander("Contextos utilizados"):
+        '''with st.expander("Contextos utilizados"):
             for d in docs:
                 st.markdown(f"**{d.metadata['titulo']}** — {d.metadata['fonte']}")
-                st.caption(d.page_content[:400] + "...")
+                st.caption(d.page_content[:400] + "...")''''
 
