@@ -1,0 +1,107 @@
+{
+  "capítulo": "2. Estrutura da BNCC",
+  "parágrafos": [
+    "A Base Nacional Comum Curricular (BNCC) está estruturada de modo a explicitar as competências que devem ser desenvolvidas ao longo de toda a Educação Básica e em cada etapa da escolaridade, como expressão dos direitos de aprendizagem e desenvolvimento de todos os estudantes.",
+    "A estrutura organiza-se de acordo com os fundamentos pedagógicos apresentados na introdução e contempla as três etapas da Educação Básica: Educação Infantil, Ensino Fundamental e Ensino Médio.",
+    "A BNCC apresenta também como as aprendizagens estão organizadas em cada uma dessas etapas e explica a composição dos códigos alfanuméricos criados para identificar as aprendizagens."
+  ],
+  "seções": [
+    {
+      "título": "Estrutura geral da Educação Básica",
+      "descrição": "Visão panorâmica das três etapas da Educação Básica e suas relações com as competências gerais.",
+      "subseções": [
+        {
+          "título": "Educação Infantil",
+          "parágrafos": [
+            "Na Educação Infantil, os direitos de aprendizagem e desenvolvimento estão organizados em torno de seis direitos fundamentais: Conviver, Brincar, Participar, Explorar, Expressar e Conhecer-se.",
+            "Esses direitos são vivenciados por meio de cinco campos de experiências, em que as crianças podem aprender e se desenvolver.",
+            "Em cada campo de experiências, são definidos objetivos de aprendizagem e desenvolvimento organizados em três grupos por faixa etária: bebês (0–1 ano e 6 meses), crianças bem pequenas (1 ano e 7 meses a 3 anos e 11 meses) e crianças pequenas (4 a 5 anos e 11 meses)."
+          ],
+          "itens": [
+            "Campos de experiências: O eu, o outro e o nós; Corpo, gestos e movimentos; Traços, sons, cores e formas; Escuta, fala, pensamento e imaginação; Espaços, tempos, quantidades, relações e transformações.",
+            "Cada objetivo de aprendizagem e desenvolvimento é identificado por um código alfanumérico, cuja estrutura indica a etapa, o grupo etário, o campo de experiências e a posição sequencial do objetivo."
+          ],
+          "exemplo_de_código": "EI02TS01 — Educação Infantil, grupo 02 (crianças bem pequenas), campo TS (Traços, sons, cores e formas), objetivo 01."
+        },
+        {
+          "título": "Ensino Fundamental",
+          "parágrafos": [
+            "O Ensino Fundamental está organizado em cinco áreas do conhecimento: Linguagens, Matemática, Ciências da Natureza, Ciências Humanas e Ensino Religioso.",
+            "As áreas favorecem a comunicação entre conhecimentos e saberes dos diferentes componentes curriculares, preservando suas especificidades e saberes próprios.",
+            "Cada área explicita seu papel na formação integral dos alunos, destacando as particularidades dos anos iniciais e finais do Ensino Fundamental, de acordo com as características e demandas pedagógicas de cada fase."
+          ],
+          "itens": [
+            "Linguagens — Língua Portuguesa, Arte, Educação Física, Língua Inglesa.",
+            "Matemática — Matemática.",
+            "Ciências da Natureza — Ciências.",
+            "Ciências Humanas — Geografia e História.",
+            "Ensino Religioso — Ensino Religioso."
+          ],
+          "subsubseções": [
+            {
+              "título": "Competências específicas de área e de componente",
+              "parágrafos": [
+                "Cada área do conhecimento estabelece competências específicas de área, que explicitam como as dez competências gerais se expressam na prática disciplinar.",
+                "Nas áreas que abrigam mais de um componente curricular, também são definidas competências específicas de componente a serem desenvolvidas pelos alunos ao longo da etapa.",
+                "Essas competências permitem a articulação horizontal (entre áreas) e vertical (entre anos), garantindo progressão e continuidade das aprendizagens."
+              ]
+            },
+            {
+              "título": "Unidades temáticas, objetos de conhecimento e habilidades",
+              "parágrafos": [
+                "Para garantir o desenvolvimento das competências, cada componente curricular apresenta um conjunto de habilidades relacionadas a diferentes objetos de conhecimento.",
+                "Os objetos de conhecimento — compreendidos como conteúdos, conceitos e processos — são organizados em unidades temáticas.",
+                "Cada unidade temática contempla uma quantidade variável de objetos de conhecimento, e cada objeto pode se associar a uma ou mais habilidades."
+              ],
+              "exemplo": {
+                "disciplina": "Ciências – 1º ano",
+                "unidades_temáticas": [
+                  {
+                    "unidade": "Vida e evolução",
+                    "objetos_de_conhecimento": ["Corpo humano", "Respeito à diversidade"],
+                    "habilidades": [
+                      "(EF01CI02) Localizar e nomear partes do corpo humano e explicar suas funções.",
+                      "(EF01CI03) Discutir a importância dos hábitos de higiene para a saúde.",
+                      "(EF01CI04) Comparar características físicas entre colegas, reconhecendo e respeitando as diferenças."
+                    ]
+                  }
+                ]
+              },
+              "descrição_da_estrutura_de_habilidade": {
+                "verbo": "explicita o processo cognitivo envolvido na habilidade",
+                "complemento": "define o objeto de conhecimento mobilizado",
+                "modificadores": "contextualizam ou especificam a aprendizagem esperada"
+              },
+              "explicação_dos_códigos": {
+                "formato": "EFXXYYZZ",
+                "exemplo": "EF67EF01 — etapa EF (Ensino Fundamental), bloco 6º-7º anos (67), componente EF (Educação Física), habilidade 01.",
+                "observação": "A numeração sequencial não implica hierarquia entre as habilidades."
+              }
+            }
+          ]
+        },
+        {
+          "título": "Ensino Médio",
+          "parágrafos": [
+            "O Ensino Médio organiza-se por áreas do conhecimento, cada uma com competências específicas de área, que articulam aprendizagens comuns e itinerários formativos.",
+            "As áreas seguem a mesma lógica estrutural das etapas anteriores, promovendo continuidade e aprofundamento das aprendizagens da Educação Básica."
+          ],
+          "itens": [
+            "Linguagens e suas Tecnologias.",
+            "Matemática e suas Tecnologias.",
+            "Ciências da Natureza e suas Tecnologias.",
+            "Ciências Humanas e Sociais Aplicadas."
+          ]
+        }
+      ]
+    },
+    {
+      "título": "Codificação das aprendizagens essenciais",
+      "parágrafos": [
+        "As habilidades da BNCC são identificadas por códigos alfanuméricos, cuja estrutura indica a etapa, o componente curricular, o ano (ou bloco de anos) e a ordem da habilidade.",
+        "Os códigos permitem localizar e relacionar as aprendizagens dentro da hierarquia da BNCC, garantindo consistência entre áreas e etapas.",
+        "A sequência numérica não representa hierarquia ou ordem obrigatória, mas apenas identificação única para referência curricular e organizacional."
+      ]
+    }
+  ]
+}

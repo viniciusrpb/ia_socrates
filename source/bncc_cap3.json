@@ -1,0 +1,116 @@
+{
+  "capítulo": "3. A Etapa da Educação Infantil",
+  "seções": [
+    {
+      "título": "A Educação Infantil na Base Nacional Comum Curricular",
+      "parágrafos": [
+        "A Educação Infantil, primeira etapa da Educação Básica, tem como finalidade o desenvolvimento integral da criança até seis anos de idade, em seus aspectos físico, psicológico, intelectual e social, complementando a ação da família e da comunidade.",
+        "A BNCC define os direitos de aprendizagem e desenvolvimento que devem ser garantidos a todas as crianças, reconhecendo-as como sujeitos históricos e de direitos, que aprendem e se desenvolvem nas interações e nas brincadeiras.",
+        "As instituições de Educação Infantil devem assegurar condições e recursos para que as crianças tenham experiências que promovam o bem-estar, o cuidado, a ludicidade, a criatividade e a participação ativa no processo educativo."
+      ]
+    },
+    {
+      "título": "A Educação Infantil no contexto da Educação Básica",
+      "parágrafos": [
+        "A BNCC reafirma a Educação Infantil como parte integrante da Educação Básica, articulando-se com o Ensino Fundamental em uma perspectiva de continuidade das aprendizagens.",
+        "O atendimento à criança pequena deve ocorrer em contextos educativos planejados, intencionais e afetivos, que considerem a indissociabilidade entre educar e cuidar.",
+        "O trabalho pedagógico deve se fundamentar em interações e brincadeiras como eixos estruturantes, garantindo experiências que estimulem a curiosidade, a imaginação, a expressão e a autonomia.",
+        "As aprendizagens esperadas devem respeitar as singularidades das infâncias, as diversidades culturais, sociais, linguísticas e os tempos próprios de cada criança."
+      ]
+    },
+    {
+      "título": "Direitos de aprendizagem e desenvolvimento na Educação Infantil",
+      "descrição": "Direitos fundamentais que asseguram condições para o desenvolvimento pleno das crianças na Educação Infantil.",
+      "direitos": [
+        "Conviver – com outras crianças e adultos em pequenos e grandes grupos, utilizando diferentes linguagens e ampliando seu repertório cultural.",
+        "Brincar – cotidianamente de diversas formas em espaços e tempos organizados, com diferentes parceiros e materiais.",
+        "Participar – ativamente de situações do cotidiano, escolhas, decisões e avaliações, valorizando suas iniciativas e opiniões.",
+        "Explorar – movimentos, gestos, sons, formas, texturas, cores, palavras, emoções, transformações e relações.",
+        "Expressar – sentimentos, pensamentos, desejos e necessidades por meio de diferentes linguagens.",
+        "Conhecer-se – como pessoa com identidade, características, sentimentos e formas de agir próprias."
+      ],
+      "parágrafos": [
+        "Os direitos de aprendizagem e desenvolvimento orientam a prática pedagógica e asseguram que as experiências da infância se realizem de forma plena e significativa.",
+        "Esses direitos se concretizam nos cinco campos de experiências definidos pela BNCC, que articulam saberes e aprendizagens de forma integrada."
+      ]
+    },
+    {
+      "título": "3.1. Os campos de experiências",
+      "parágrafos": [
+        "Os campos de experiências constituem a base curricular da Educação Infantil e integram diferentes dimensões do desenvolvimento infantil.",
+        "Cada campo expressa um conjunto de práticas, saberes e valores que orientam a organização das atividades e a seleção de conteúdos e materiais.",
+        "Os cinco campos de experiências definidos pela BNCC são apresentados a seguir."
+      ],
+      "campos_de_experiência": [
+        {
+          "nome": "O eu, o outro e o nós (EO)",
+          "descrição": "Explora as relações das crianças consigo mesmas, com os outros e com o mundo, promovendo empatia, respeito, solidariedade e cooperação."
+        },
+        {
+          "nome": "Corpo, gestos e movimentos (CG)",
+          "descrição": "Valoriza as possibilidades expressivas, criativas e comunicativas do corpo, incentivando o domínio progressivo de gestos e movimentos."
+        },
+        {
+          "nome": "Traços, sons, cores e formas (TS)",
+          "descrição": "Favorece a expressão artística, estética e sensorial das crianças, por meio de experiências com materiais, sons, imagens e movimentos."
+        },
+        {
+          "nome": "Escuta, fala, pensamento e imaginação (EF)",
+          "descrição": "Promove o desenvolvimento da linguagem oral e outras formas de comunicação, estimulando a imaginação, a escuta e a narrativa."
+        },
+        {
+          "nome": "Espaços, tempos, quantidades, relações e transformações (ET)",
+          "descrição": "Estimula o pensamento lógico, a curiosidade e a observação sobre o mundo físico e social, relacionando-se às bases do raciocínio científico e matemático."
+        }
+      ]
+    },
+    {
+      "título": "3.2. Os objetivos de aprendizagem e desenvolvimento para a Educação Infantil",
+      "parágrafos": [
+        "Os objetivos de aprendizagem e desenvolvimento expressam as conquistas esperadas das crianças nas interações cotidianas e nas brincadeiras, ao longo do processo de escolarização.",
+        "São organizados por campos de experiências e faixas etárias, e identificados por códigos alfanuméricos que indicam a etapa, o grupo etário, o campo de experiências e a posição sequencial do objetivo."
+      ],
+      "estrutura_de_código": {
+        "formato": "EIAABBCC",
+        "explicação": {
+          "EI": "Etapa da Educação Infantil",
+          "AA": "Faixa etária (01 = bebês, 02 = crianças bem pequenas, 03 = crianças pequenas)",
+          "BB": "Campo de experiências (EO, CG, TS, EF, ET)",
+          "CC": "Número sequencial do objetivo no campo"
+        },
+        "exemplo": "EI02TS01 — Educação Infantil, grupo 02 (crianças bem pequenas), campo TS (Traços, sons, cores e formas), objetivo 01."
+      },
+      "exemplo_de_objetivos": [
+        {
+          "campo": "Traços, sons, cores e formas (TS)",
+          "grupo": "Bebês (EI01)",
+          "objetivo": "Explorar sons produzidos com o próprio corpo e com objetos do ambiente."
+        },
+        {
+          "campo": "Traços, sons, cores e formas (TS)",
+          "grupo": "Crianças bem pequenas (EI02)",
+          "objetivo": "Criar sons com materiais, objetos e instrumentos musicais para acompanhar ritmos de música."
+        },
+        {
+          "campo": "Traços, sons, cores e formas (TS)",
+          "grupo": "Crianças pequenas (EI03)",
+          "objetivo": "Utilizar sons produzidos por materiais, objetos e instrumentos musicais durante brincadeiras e criações artísticas."
+        }
+      ],
+      "observações": [
+        "A numeração dos códigos não indica ordem ou hierarquia de aprendizagem.",
+        "Os objetivos de aprendizagem e desenvolvimento articulam-se entre si e devem ser integrados de forma flexível no planejamento pedagógico.",
+        "A BNCC destaca a importância de respeitar o ritmo de desenvolvimento de cada criança, evitando comparações ou padronizações indevidas."
+      ]
+    },
+    {
+      "título": "3.3. A transição da Educação Infantil para o Ensino Fundamental",
+      "parágrafos": [
+        "A transição da Educação Infantil para o Ensino Fundamental deve respeitar a continuidade do processo de aprendizagem, sem rupturas bruscas nas metodologias ou na organização dos tempos e espaços escolares.",
+        "A avaliação na Educação Infantil tem caráter formativo e visa compreender os processos de aprendizagem e desenvolvimento das crianças, não devendo ter função de retenção.",
+        "Cabe às instituições garantir práticas de acolhimento e adaptação que assegurem à criança a continuidade do vínculo afetivo, do protagonismo e do prazer em aprender.",
+        "A BNCC enfatiza a importância de que a passagem entre as etapas ocorra de modo integrado, reconhecendo a criança como sujeito ativo, criativo e capaz de pensar, agir e interagir no mundo."
+      ]
+    }
+  ]
+}

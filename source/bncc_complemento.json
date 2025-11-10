@@ -1,0 +1,183 @@
+{
+  "documento": "Computação na Educação Básica - Complemento à BNCC",
+  "capítulos": [
+    {
+      "título": "A Etapa da Educação Infantil",
+      "seções": [
+        {
+          "título": "Premissas",
+          "parágrafos": [
+            "A Computação permite explorar e vivenciar experiências movidas pela ludicidade e interação entre pares.",
+            "Essas experiências se relacionam com diversos campos da Educação Infantil e devem considerar premissas de reconhecimento de padrões, interação com artefatos computacionais, criação de algoritmos e resolução de problemas decompondo-os em partes menores."
+          ],
+          "premissas": [
+            "Desenvolver o reconhecimento e a identificação de padrões.",
+            "Vivenciar formas de interação mediadas por artefatos computacionais.",
+            "Criar e testar algoritmos brincando com objetos e movimentos.",
+            "Solucionar problemas decompondo-os em partes menores."
+          ]
+        },
+        {
+          "título": "Eixos e Objetivos de Aprendizagem",
+          "eixos": [
+            {
+              "nome": "Pensamento Computacional",
+              "habilidades": [
+                { "código": "EI03CO01", "descrição": "Reconhecer padrão de repetição em sequência de sons, movimentos e desenhos." },
+                { "código": "EI03CO02", "descrição": "Expressar etapas de realização de uma tarefa de forma clara e ordenada." },
+                { "código": "EI03CO03", "descrição": "Experienciar a execução de algoritmos brincando com objetos (des)plugados." },
+                { "código": "EI03CO04", "descrição": "Criar e representar algoritmos para resolver problemas." },
+                { "código": "EI03CO05", "descrição": "Comparar soluções algorítmicas para resolver um mesmo problema." },
+                { "código": "EI03CO06", "descrição": "Compreender decisões em dois estados (verdadeiro ou falso)." }
+              ],
+              "exemplos": {
+                "plugados": [
+                  "Criar padrões de repetição em ferramentas online (Pattern Shapes, Shape Pattern, Chicken Dance).",
+                  "Explorar jogos digitais que permitem representar sequências lógicas (LightBot, Scratch Jr)."
+                ],
+                "desplugados": [
+                  "Perceber padrões em tarefas cotidianas e sons do corpo.",
+                  "Criar sequências com blocos de montar ou percursos no chão.",
+                  "Comparar rotas ou tarefas executadas por diferentes colegas."
+                ]
+              }
+            },
+            {
+              "nome": "Mundo Digital",
+              "habilidades": [
+                { "código": "EI03CO07", "descrição": "Reconhecer dispositivos eletrônicos, identificando quando estão ligados ou desligados." },
+                { "código": "EI03CO08", "descrição": "Compreender o conceito de interfaces para comunicação com objetos (des)plugados." },
+                { "código": "EI03CO09", "descrição": "Identificar dispositivos computacionais e diferentes formas de interação." }
+              ],
+              "exemplos": {
+                "plugados": [
+                  "Reconhecer interfaces de aparelhos e representá-las graficamente.",
+                  "Brincar com dispositivos interativos (tablets, robôs, comandos por voz)."
+                ],
+                "desplugados": [
+                  "Brincar de telefone sem fio para discutir interfaces.",
+                  "Simular formas de interação por meio de maquetes e desenhos."
+                ]
+              }
+            },
+            {
+              "nome": "Cultura Digital",
+              "habilidades": [
+                { "código": "EI03CO10", "descrição": "Utilizar tecnologia digital de maneira segura, consciente e respeitosa." },
+                { "código": "EI03CO11", "descrição": "Adotar hábitos saudáveis de uso de artefatos computacionais." }
+              ],
+              "exemplos": {
+                "plugados": [
+                  "Caça ao tesouro digital (Escape Room) sobre segurança online.",
+                  "Produção de portfólio com boas práticas de uso seguro da Internet."
+                ],
+                "desplugados": [
+                  "Caça ao tesouro com pistas sobre segurança digital.",
+                  "Painel físico de dicas para uso saudável de tecnologia."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "título": "A Etapa do Ensino Fundamental",
+      "competências_gerais": [
+        "Compreender a Computação como área que contribui para explicar o mundo atual.",
+        "Reconhecer impactos dos artefatos computacionais na sociedade.",
+        "Expressar ideias e soluções computacionais utilizando diferentes linguagens.",
+        "Aplicar princípios e técnicas da Computação para identificar e resolver problemas.",
+        "Avaliar soluções e processos de resolução computacional.",
+        "Desenvolver projetos cooperativos com base em problemas reais.",
+        "Agir com responsabilidade, autonomia e ética no uso da Computação."
+      ],
+      "anos_iniciais": [
+        {
+          "ano": "1º Ano",
+          "eixos": [
+            {
+              "nome": "Pensamento Computacional",
+              "habilidades": [
+                { "código": "EF01CO01", "descrição": "Organizar objetos considerando diferentes características." },
+                { "código": "EF01CO02", "descrição": "Identificar e seguir sequências de passos para resolver problemas." },
+                { "código": "EF01CO03", "descrição": "Reorganizar e criar sequências de passos, relacionando-as a algoritmos." }
+              ]
+            },
+            {
+              "nome": "Mundo Digital",
+              "habilidades": [
+                { "código": "EF01CO04", "descrição": "Reconhecer o que é informação e como pode ser armazenada ou transmitida." },
+                { "código": "EF01CO05", "descrição": "Representar informação usando diferentes codificações." }
+              ]
+            },
+            {
+              "nome": "Cultura Digital",
+              "habilidades": [
+                { "código": "EF01CO06", "descrição": "Explorar artefatos computacionais para atender necessidades pessoais ou coletivas." },
+                { "código": "EF01CO07", "descrição": "Conhecer práticas de segurança no uso de tecnologias digitais." }
+              ]
+            }
+          ]
+        },
+        {
+          "ano": "2º Ano",
+          "eixos": [
+            {
+              "nome": "Pensamento Computacional",
+              "habilidades": [
+                { "código": "EF02CO01", "descrição": "Criar e comparar modelos de objetos identificando padrões." },
+                { "código": "EF02CO02", "descrição": "Criar e simular algoritmos com repetições simples." }
+              ]
+            },
+            {
+              "nome": "Mundo Digital",
+              "habilidades": [
+                { "código": "EF02CO03", "descrição": "Identificar que máquinas diferentes executam instruções próprias." },
+                { "código": "EF02CO04", "descrição": "Diferenciar hardware e software." }
+              ]
+            },
+            {
+              "nome": "Cultura Digital",
+              "habilidades": [
+                { "código": "EF02CO05", "descrição": "Reconhecer usos das tecnologias computacionais no cotidiano." },
+                { "código": "EF02CO06", "descrição": "Reconhecer cuidados com segurança digital." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "título": "A Etapa do Ensino Médio",
+      "competências": [
+        "Compreender o papel da Computação na sociedade digital e seus impactos sociais, econômicos e éticos.",
+        "Integrar conhecimentos da Computação a diferentes áreas do conhecimento.",
+        "Desenvolver projetos e soluções digitais de forma crítica, criativa e responsável."
+      ],
+      "eixos": [
+        {
+          "nome": "Pensamento Computacional",
+          "habilidades": [
+            { "código": "EM13CO01", "descrição": "Resolver problemas complexos com decomposição e abstração." },
+            { "código": "EM13CO02", "descrição": "Desenvolver algoritmos e programas para situações reais." }
+          ]
+        },
+        {
+          "nome": "Mundo Digital",
+          "habilidades": [
+            { "código": "EM13CO03", "descrição": "Compreender funcionamento de redes, dados e sistemas digitais." },
+            { "código": "EM13CO04", "descrição": "Analisar segurança e privacidade em ambientes virtuais." }
+          ]
+        },
+        {
+          "nome": "Cultura Digital",
+          "habilidades": [
+            { "código": "EM13CO05", "descrição": "Avaliar impactos sociais da tecnologia e da automação." },
+            { "código": "EM13CO06", "descrição": "Criar e compartilhar conteúdos digitais de forma ética e colaborativa." }
+          ]
+        }
+      ]
+    }
+  ]
+}

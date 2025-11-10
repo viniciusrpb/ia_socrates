@@ -1,0 +1,104 @@
+{
+  "capítulo": "1. Introdução",
+  "seções": [
+    {
+      "título": "A Base Nacional Comum Curricular",
+      "parágrafos": [
+        "A Base Nacional Comum Curricular (BNCC) é um documento normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica, assegurando seus direitos de aprendizagem e desenvolvimento conforme o Plano Nacional de Educação (PNE).",
+        "Aplica-se exclusivamente à educação escolar e está orientada pelos princípios éticos, políticos e estéticos das Diretrizes Curriculares Nacionais da Educação Básica (DCN).",
+        "A BNCC é referência nacional para a formulação dos currículos dos sistemas e redes escolares dos Estados, Distrito Federal e Municípios, e das propostas pedagógicas das instituições escolares.",
+        "Seu objetivo é integrar a política nacional da Educação Básica, contribuindo para o alinhamento de políticas e ações de formação docente, avaliação, conteúdos educacionais e infraestrutura.",
+        "A BNCC busca superar a fragmentação das políticas educacionais, fortalecer o regime de colaboração entre as esferas de governo e garantir um patamar comum de aprendizagens a todos os estudantes."
+      ],
+      "subseções": [
+        {
+          "título": "Competências gerais da Educação Básica",
+          "descrição": "Definem as aprendizagens essenciais e articulam conhecimentos, habilidades, atitudes e valores necessários para a vida cotidiana, a cidadania e o trabalho.",
+          "itens": [
+            "1. Valorizar e utilizar os conhecimentos historicamente construídos sobre o mundo físico, social, cultural e digital.",
+            "2. Exercitar a curiosidade intelectual e recorrer à investigação e à criatividade para resolver problemas.",
+            "3. Valorizar e fruir as diversas manifestações artísticas e culturais e participar de práticas diversificadas da produção cultural.",
+            "4. Utilizar diferentes linguagens – verbal, corporal, visual, sonora e digital – para se expressar e partilhar informações.",
+            "5. Compreender, utilizar e criar tecnologias digitais de forma crítica, significativa e ética.",
+            "6. Valorizar a diversidade de saberes e fazer escolhas alinhadas à cidadania e ao projeto de vida.",
+            "7. Argumentar com base em fatos e informações confiáveis, com posicionamento ético e socioambiental.",
+            "8. Conhecer-se, cuidar da saúde física e emocional e lidar com as emoções próprias e alheias.",
+            "9. Exercitar empatia, diálogo e cooperação, promovendo o respeito aos direitos humanos e à diversidade.",
+            "10. Agir com autonomia, responsabilidade, flexibilidade e determinação, com base em princípios éticos e sustentáveis."
+          ]
+        }
+      ]
+    },
+    {
+      "título": "Os marcos legais que embasam a BNCC",
+      "parágrafos": [
+        "A Constituição Federal de 1988 reconhece a educação como direito de todos e dever do Estado e da família, determinando a promoção da formação plena da pessoa e sua qualificação para o trabalho.",
+        "O Artigo 210 estabelece conteúdos mínimos para o ensino fundamental, assegurando formação básica comum e respeito aos valores culturais e regionais.",
+        "A Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1996 atribui à União a competência de estabelecer, em colaboração com Estados e Municípios, as diretrizes para a Educação Infantil, Ensino Fundamental e Ensino Médio.",
+        "A LDB define que as competências e diretrizes são comuns, enquanto os currículos são diversos, e que o foco do currículo é o desenvolvimento de competências e não apenas a transmissão de conteúdos.",
+        "Outros marcos incluem as Diretrizes Curriculares Nacionais (2010), o Plano Nacional de Educação (Lei nº 13.005/2014), e as alterações trazidas pela Lei nº 13.415/2017, que introduz o conceito de direitos e objetivos de aprendizagem."
+      ]
+    },
+    {
+      "título": "Os fundamentos pedagógicos da BNCC",
+      "subseções": [
+        {
+          "título": "Foco no desenvolvimento de competências",
+          "parágrafos": [
+            "O conceito de competência é central na BNCC e orienta as decisões pedagógicas para o desenvolvimento integral dos alunos.",
+            "Competência é entendida como a mobilização de conhecimentos, habilidades, atitudes e valores para resolver demandas complexas da vida cotidiana, da cidadania e do trabalho.",
+            "A abordagem por competências é adotada em diversos países e nas avaliações internacionais como PISA (OCDE) e LLECE (Unesco)."
+          ]
+        },
+        {
+          "título": "O compromisso com a educação integral",
+          "parágrafos": [
+            "A BNCC defende uma formação integral que considere o desenvolvimento cognitivo, social, emocional e físico dos estudantes.",
+            "O conceito de educação integral envolve promover aprendizagens alinhadas às necessidades, possibilidades e interesses dos alunos, respeitando suas singularidades e diversidades.",
+            "A escola deve ser espaço de acolhimento e democracia inclusiva, promovendo o respeito às diferenças e a valorização da diversidade.",
+            "A BNCC propõe superar a fragmentação disciplinar e estimular o protagonismo dos estudantes na construção de seus projetos de vida."
+          ]
+        }
+      ]
+    },
+    {
+      "título": "O pacto interfederativo e a implementação da BNCC",
+      "subseções": [
+        {
+          "título": "Base Nacional Comum Curricular: igualdade, diversidade e equidade",
+          "parágrafos": [
+            "O Brasil, com grande diversidade cultural e desigualdades sociais, deve construir currículos que considerem as necessidades e identidades dos estudantes.",
+            "A BNCC explicita as aprendizagens essenciais e defende igualdade de oportunidades e equidade educacional.",
+            "Decisões pedagógicas devem buscar superar desigualdades históricas e garantir a inclusão de grupos minoritários, povos indígenas e pessoas com deficiência."
+          ]
+        },
+        {
+          "título": "Base Nacional Comum Curricular e currículos",
+          "parágrafos": [
+            "A BNCC e os currículos compartilham princípios e valores orientados pela LDB e pelas DCN, com foco no desenvolvimento humano global.",
+            "Os currículos devem contextualizar os conteúdos, adotar metodologias diversificadas e promover a interdisciplinaridade.",
+            "Cabe aos sistemas de ensino e escolas adaptar as proposições da BNCC à realidade local e às características dos alunos.",
+            "As decisões curriculares devem considerar modalidades específicas, como Educação Especial, Educação do Campo, Indígena, Quilombola e de Jovens e Adultos."
+          ],
+          "itens": [
+            "Contextualizar conteúdos e torná-los significativos para o contexto local.",
+            "Organizar componentes de forma interdisciplinar e colaborativa.",
+            "Selecionar metodologias diversificadas e inclusivas.",
+            "Motivar e engajar os alunos nas aprendizagens.",
+            "Construir avaliações formativas e processos contínuos de melhoria.",
+            "Selecionar e produzir recursos didáticos e tecnológicos adequados.",
+            "Manter formação continuada e processos de aprendizagem docente."
+          ]
+        },
+        {
+          "título": "Base Nacional Comum Curricular e regime de colaboração",
+          "parágrafos": [
+            "A BNCC depende do regime de colaboração entre União, Estados, Distrito Federal e Municípios para sua implementação efetiva.",
+            "A União é responsável por coordenar o processo, revisar a formação inicial e continuada dos professores e apoiar financeiramente as redes de ensino.",
+            "A implementação requer monitoramento contínuo, apoio técnico e disseminação de boas práticas, respeitando a autonomia dos entes federados."
+          ]
+        }
+      ]
+    }
+  ]
+}

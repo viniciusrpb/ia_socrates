@@ -1,0 +1,193 @@
+{
+  "capítulo": "4. A Etapa do Ensino Fundamental",
+  "seções": [
+    {
+      "título": "O Ensino Fundamental no contexto da Educação Básica",
+      "parágrafos": [
+        "O Ensino Fundamental é a segunda etapa da Educação Básica e tem duração de nove anos, com início aos seis anos de idade.",
+        "Seu objetivo é assegurar a formação básica do cidadão, garantindo o desenvolvimento de conhecimentos, habilidades, atitudes e valores necessários ao exercício da cidadania e à continuidade dos estudos.",
+        "A BNCC reafirma a função social da escola e o compromisso com a equidade, a qualidade e a inclusão, assegurando o direito de todos os alunos às aprendizagens essenciais.",
+        "O Ensino Fundamental organiza-se em dois segmentos: Anos Iniciais (1º ao 5º) e Anos Finais (6º ao 9º), considerando as características específicas das faixas etárias e dos contextos socioculturais."
+      ]
+    },
+    {
+      "título": "Estrutura geral das áreas do conhecimento",
+      "parágrafos": [
+        "As aprendizagens do Ensino Fundamental estão estruturadas em cinco áreas do conhecimento, que dialogam entre si e asseguram o desenvolvimento das dez competências gerais da Educação Básica.",
+        "Cada área apresenta competências específicas e componentes curriculares, com habilidades descritas em códigos alfanuméricos que indicam a etapa, o componente e o ano de escolaridade."
+      ],
+      "áreas": [
+        "Linguagens",
+        "Matemática",
+        "Ciências da Natureza",
+        "Ciências Humanas",
+        "Ensino Religioso"
+      ]
+    },
+    {
+      "título": "4.1. A área de Linguagens",
+      "parágrafos": [
+        "A área de Linguagens compreende os componentes curriculares Língua Portuguesa, Arte, Educação Física e Língua Inglesa.",
+        "Seu foco é o desenvolvimento da capacidade de expressão, comunicação e compreensão de diferentes linguagens – verbal, corporal, visual, sonora e digital.",
+        "A área contribui para a ampliação das formas de participação social e cultural dos estudantes, fortalecendo sua identidade, autonomia e senso crítico."
+      ],
+      "competências_específicas": [
+        "Compreender as linguagens como formas de expressão e comunicação humanas.",
+        "Utilizar diferentes linguagens para produzir sentidos e participar de práticas sociais significativas.",
+        "Reconhecer e valorizar as manifestações culturais e artísticas como patrimônio social.",
+        "Desenvolver autonomia e criticidade na recepção e produção de mensagens nas mídias.",
+        "Utilizar a linguagem corporal, artística e verbal para resolver problemas e construir conhecimentos."
+      ],
+      "componentes": [
+        {
+          "nome": "Língua Portuguesa",
+          "parágrafos": [
+            "A Língua Portuguesa constitui o eixo central da área de Linguagens e é fundamental para a aprendizagem nas demais áreas.",
+            "Seu ensino deve promover o domínio da leitura, escrita, oralidade e análise linguística, articulando diferentes gêneros discursivos e práticas sociais de linguagem."
+          ],
+          "subseções": [
+            {
+              "título": "Competências específicas de Língua Portuguesa para o Ensino Fundamental",
+              "itens": [
+                "Compreender a língua como fenômeno social, histórico, cultural e cognitivo.",
+                "Utilizar a linguagem oral e escrita em diferentes contextos e mídias.",
+                "Apreciar a literatura como forma de conhecimento, fruição estética e ampliação da visão de mundo.",
+                "Analisar criticamente discursos e textos, identificando perspectivas e intenções comunicativas."
+              ]
+            },
+            {
+              "título": "Língua Portuguesa no Ensino Fundamental – Anos Iniciais e Finais",
+              "parágrafos": [
+                "A BNCC organiza as práticas de linguagem em quatro eixos: leitura/escuta, produção, oralidade e análise linguística/semiótica.",
+                "As habilidades são descritas por códigos do tipo EFxxLPyy, onde LP indica o componente Língua Portuguesa."
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Arte",
+          "parágrafos": [
+            "A Arte na BNCC compreende múltiplas linguagens – artes visuais, dança, música e teatro – e contribui para o desenvolvimento da sensibilidade, da imaginação e da expressão estética dos estudantes."
+          ],
+          "competências_específicas": [
+            "Experimentar e criar em diferentes linguagens artísticas.",
+            "Apreciar produções artísticas diversas e contextualizá-las historicamente.",
+            "Refletir sobre as funções sociais, políticas e culturais da arte."
+          ],
+          "exemplo_de_código": "EF15AR01 — Ensino Fundamental, anos iniciais (1º ao 5º), Arte, habilidade 01."
+        },
+        {
+          "nome": "Educação Física",
+          "parágrafos": [
+            "A Educação Física aborda o corpo e o movimento como expressões culturais e sociais, promovendo práticas corporais diversificadas.",
+            "Valoriza o respeito à diversidade, a cooperação, o autocuidado e a apropriação crítica da cultura corporal de movimento."
+          ],
+          "competências_específicas": [
+            "Compreender o corpo como dimensão constitutiva da identidade humana.",
+            "Participar de práticas corporais de forma solidária, respeitando as diferenças.",
+            "Planejar e avaliar atividades físicas voltadas à saúde e à qualidade de vida."
+          ],
+          "exemplo_de_código": "EF35EF04 — Ensino Fundamental, 3º ao 5º anos, Educação Física, habilidade 04."
+        },
+        {
+          "nome": "Língua Inglesa",
+          "parágrafos": [
+            "A Língua Inglesa promove a ampliação das possibilidades de comunicação e de acesso à cultura global.",
+            "Seu ensino deve favorecer o uso do idioma em práticas sociais de linguagem significativas e contextualizadas."
+          ],
+          "competências_específicas": [
+            "Compreender e usar a Língua Inglesa para interagir em contextos multiculturais.",
+            "Reconhecer o inglês como língua de comunicação internacional.",
+            "Apreciar produções culturais de diferentes países de língua inglesa."
+          ],
+          "exemplo_de_código": "EF69LI01 — Ensino Fundamental, anos finais (6º ao 9º), Língua Inglesa, habilidade 01."
+        }
+      ]
+    },
+    {
+      "título": "4.2. A área de Matemática",
+      "parágrafos": [
+        "A Matemática é essencial para o desenvolvimento do raciocínio lógico, da argumentação, da criatividade e da capacidade de resolver problemas.",
+        "A BNCC organiza a área em cinco unidades temáticas, que articulam conhecimentos e habilidades ao longo dos nove anos do Ensino Fundamental."
+      ],
+      "unidades_temáticas": [
+        "Números",
+        "Álgebra",
+        "Geometria",
+        "Grandezas e Medidas",
+        "Probabilidade e Estatística"
+      ],
+      "competências_específicas": [
+        "Compreender conceitos e procedimentos matemáticos e aplicá-los na resolução de problemas.",
+        "Reconhecer a Matemática como linguagem para interpretar e representar situações do cotidiano.",
+        "Desenvolver o raciocínio lógico, crítico e criativo.",
+        "Utilizar tecnologias digitais para explorar e representar conceitos matemáticos."
+      ],
+      "exemplo_de_código": "EF04MA10 — Ensino Fundamental, 4º ano, Matemática, habilidade 10."
+    },
+    {
+      "título": "4.3. A área de Ciências da Natureza",
+      "parágrafos": [
+        "A área de Ciências da Natureza tem como foco o desenvolvimento de conhecimentos, habilidades e atitudes que permitam compreender fenômenos naturais, sociais e tecnológicos.",
+        "Contribui para a formação de cidadãos críticos, capazes de tomar decisões fundamentadas e éticas sobre questões socioambientais e científicas."
+      ],
+      "componentes": [
+        {
+          "nome": "Ciências",
+          "competências_específicas": [
+            "Compreender a Ciência como empreendimento humano em constante construção.",
+            "Utilizar procedimentos de investigação científica para compreender o mundo natural.",
+            "Relacionar conhecimentos científicos às práticas cotidianas e à sustentabilidade."
+          ],
+          "unidades_temáticas": [
+            "Matéria e Energia",
+            "Vida e Evolução",
+            "Terra e Universo"
+          ],
+          "exemplo_de_código": "EF06CI03 — Ensino Fundamental, 6º ano, Ciências, habilidade 03."
+        }
+      ]
+    },
+    {
+      "título": "4.4. A área de Ciências Humanas",
+      "parágrafos": [
+        "A área de Ciências Humanas tem como finalidade promover a compreensão do ser humano em sua dimensão histórica, social, geográfica, cultural e política.",
+        "Articula os componentes de Geografia e História, valorizando o pensamento crítico e o respeito à diversidade."
+      ],
+      "componentes": [
+        {
+          "nome": "Geografia",
+          "competências_específicas": [
+            "Compreender as relações entre sociedade e natureza.",
+            "Utilizar linguagens cartográficas e tecnológicas para representar fenômenos geográficos.",
+            "Valorizar a diversidade cultural e ambiental do território brasileiro."
+          ],
+          "exemplo_de_código": "EF07GE09 — Ensino Fundamental, 7º ano, Geografia, habilidade 09."
+        },
+        {
+          "nome": "História",
+          "competências_específicas": [
+            "Compreender o tempo histórico e a multiplicidade das experiências humanas.",
+            "Analisar criticamente fontes e narrativas históricas.",
+            "Valorizar o patrimônio cultural e a memória coletiva como dimensões da cidadania."
+          ],
+          "exemplo_de_código": "EF06HI14 — Ensino Fundamental, 6º ano, História, habilidade 14."
+        }
+      ]
+    },
+    {
+      "título": "4.5. A área de Ensino Religioso",
+      "parágrafos": [
+        "O Ensino Religioso integra a formação básica do cidadão, promovendo o diálogo entre diferentes tradições religiosas e culturais.",
+        "A BNCC propõe uma abordagem laica, plural e não proselitista, fundamentada no respeito aos direitos humanos e na valorização da diversidade.",
+        "O componente visa ao desenvolvimento de valores éticos, de convivência e de respeito à alteridade."
+      ],
+      "competências_específicas": [
+        "Conhecer as diferentes tradições religiosas e filosofias de vida.",
+        "Promover o respeito à diversidade de crenças e convicções.",
+        "Refletir sobre valores humanos e espirituais que orientam a vida em sociedade."
+      ],
+      "exemplo_de_código": "EF09ER01 — Ensino Fundamental, 9º ano, Ensino Religioso, habilidade 01."
+    }
+  ]
+}

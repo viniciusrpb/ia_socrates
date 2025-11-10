@@ -1,0 +1,107 @@
+{
+  "capítulo": "5. A Etapa do Ensino Médio",
+  "seções": [
+    {
+      "título": "O Ensino Médio no contexto da Educação Básica",
+      "parágrafos": [
+        "O Ensino Médio constitui a etapa final da Educação Básica e tem como finalidade consolidar e aprofundar os conhecimentos adquiridos no Ensino Fundamental, preparando os estudantes para o exercício da cidadania e para o mundo do trabalho.",
+        "A BNCC propõe uma formação integral que articula saberes científicos, tecnológicos, artísticos e culturais, promovendo a autonomia intelectual, o pensamento crítico e a responsabilidade social.",
+        "O Ensino Médio deve proporcionar ao jovem condições de desenvolver seu projeto de vida, fortalecendo sua capacidade de fazer escolhas éticas e sustentáveis.",
+        "A organização curricular está baseada nas áreas do conhecimento, articuladas com os itinerários formativos definidos pela Lei nº 13.415/2017, garantindo flexibilidade e aprofundamento progressivo das aprendizagens."
+      ]
+    },
+    {
+      "título": "A BNCC do Ensino Médio",
+      "parágrafos": [
+        "A BNCC define as aprendizagens essenciais que todos os estudantes devem desenvolver no Ensino Médio, de modo a consolidar as dez competências gerais da Educação Básica.",
+        "As aprendizagens estão organizadas por áreas do conhecimento, cada uma com competências específicas que orientam o trabalho pedagógico e dialogam com as áreas do Ensino Fundamental.",
+        "As áreas do conhecimento também se articulam com os itinerários formativos, que permitem ao estudante aprofundar ou ampliar suas aprendizagens de acordo com seus interesses e projetos de vida."
+      ],
+      "competências_gerais_do_ensino_médio": [
+        "Compreender e utilizar conhecimentos científicos, tecnológicos e culturais para analisar e transformar a realidade.",
+        "Valorizar e utilizar diferentes linguagens para expressar-se e interagir criticamente com o mundo.",
+        "Agir pessoal e coletivamente com responsabilidade, ética e solidariedade.",
+        "Reconhecer a diversidade e a complexidade das sociedades contemporâneas, valorizando a pluralidade cultural e a sustentabilidade.",
+        "Planejar e realizar projetos que integrem saberes, tecnologias e práticas sociais relevantes."
+      ]
+    },
+    {
+      "título": "Currículos: BNCC e itinerários formativos",
+      "parágrafos": [
+        "Os currículos do Ensino Médio devem integrar as aprendizagens essenciais da BNCC com os itinerários formativos, garantindo uma formação comum e flexível.",
+        "Os itinerários permitem aos estudantes aprofundar seus conhecimentos em áreas de maior interesse, como Linguagens, Matemática, Ciências da Natureza, Ciências Humanas e Sociais Aplicadas, ou em formação técnica e profissional.",
+        "Essa estrutura busca promover autonomia, protagonismo juvenil e o alinhamento entre formação escolar e projetos de vida."
+      ]
+    },
+    {
+      "título": "5.1. A área de Linguagens e suas Tecnologias",
+      "parágrafos": [
+        "A área de Linguagens e suas Tecnologias integra Língua Portuguesa, Língua Inglesa, Arte, Educação Física e outras formas de expressão humana.",
+        "Seu foco é a ampliação das possibilidades de comunicação, expressão, produção cultural e análise crítica das linguagens nas diferentes esferas sociais."
+      ],
+      "competências_específicas": [
+        "Compreender as linguagens como fenômenos humanos, históricos e culturais.",
+        "Utilizar linguagens para participar de práticas sociais e interagir de forma ética, crítica e criativa.",
+        "Produzir, fruir e analisar manifestações artísticas e culturais em diferentes contextos.",
+        "Aplicar conhecimentos linguísticos, corporais e artísticos em situações diversas, presenciais e digitais."
+      ],
+      "componentes": [
+        {
+          "nome": "Linguagens e suas Tecnologias no Ensino Médio",
+          "descrição": "Articulação das competências específicas e habilidades comuns às diversas linguagens.",
+          "exemplo_de_código": "EM13LGG201 — Ensino Médio, área de Linguagens, competência geral 2, habilidade 01."
+        },
+        {
+          "nome": "Língua Portuguesa",
+          "parágrafos": [
+            "A Língua Portuguesa continua como eixo estruturante da área, favorecendo a ampliação da leitura crítica e da produção textual.",
+            "A BNCC organiza as práticas em campos de atuação social, como vida pública, artístico-literário e jornalístico-midiático."
+          ],
+          "exemplo_de_código": "EM13LP02 — Ensino Médio, Língua Portuguesa, habilidade 02."
+        }
+      ]
+    },
+    {
+      "título": "5.2. A área de Matemática e suas Tecnologias",
+      "parágrafos": [
+        "A Matemática e suas Tecnologias contribui para o desenvolvimento do pensamento lógico e da capacidade de modelar situações do mundo real.",
+        "Seu ensino deve promover a compreensão de estruturas e relações matemáticas, bem como o uso da linguagem simbólica e de tecnologias digitais para resolver problemas."
+      ],
+      "competências_específicas": [
+        "Utilizar a Matemática para interpretar, descrever e transformar fenômenos da natureza, das ciências e da vida cotidiana.",
+        "Analisar dados e informações de forma crítica, fundamentando decisões em evidências quantitativas e lógicas.",
+        "Desenvolver o raciocínio dedutivo, a criatividade e a capacidade de argumentação matemática.",
+        "Empregar ferramentas tecnológicas e recursos visuais para explorar conceitos matemáticos."
+      ],
+      "exemplo_de_código": "EM13MAT405 — Ensino Médio, Matemática e suas Tecnologias, habilidade 05."
+    },
+    {
+      "título": "5.3. A área de Ciências da Natureza e suas Tecnologias",
+      "parágrafos": [
+        "A área de Ciências da Natureza e suas Tecnologias tem como objetivo promover a compreensão dos fenômenos naturais, tecnológicos e ambientais sob a perspectiva científica.",
+        "Os componentes curriculares de Biologia, Física e Química articulam-se em torno da investigação, da experimentação e da resolução de problemas reais."
+      ],
+      "competências_específicas": [
+        "Compreender e aplicar conceitos e processos científicos para interpretar fenômenos da natureza e tecnologias.",
+        "Utilizar métodos e linguagens próprios das ciências para propor soluções a desafios individuais e coletivos.",
+        "Analisar criticamente o impacto da ciência e da tecnologia na vida social e ambiental.",
+        "Atuar com responsabilidade ética e compromisso com a sustentabilidade."
+      ],
+      "exemplo_de_código": "EM13CNT303 — Ensino Médio, Ciências da Natureza e suas Tecnologias, habilidade 03."
+    },
+    {
+      "título": "5.4. A área de Ciências Humanas e Sociais Aplicadas",
+      "parágrafos": [
+        "A área de Ciências Humanas e Sociais Aplicadas articula conhecimentos de História, Geografia, Sociologia e Filosofia.",
+        "Busca compreender o ser humano como sujeito histórico e social, desenvolvendo a capacidade de análise crítica, empatia e participação cidadã."
+      ],
+      "competências_específicas": [
+        "Analisar as transformações sociais, políticas, econômicas e culturais ao longo do tempo.",
+        "Compreender os processos de construção do espaço geográfico e das relações humanas.",
+        "Reconhecer os direitos humanos, a diversidade e a democracia como fundamentos da vida em sociedade.",
+        "Avaliar criticamente informações, discursos e práticas sociais a partir de múltiplas perspectivas."
+      ],
+      "exemplo_de_código": "EM13CHS102 — Ensino Médio, Ciências Humanas e Sociais Aplicadas, habilidade 02."
+    }
+  ]
+}
