@@ -3,6 +3,7 @@ numpy
 pandas
 groq
 langchain
+langchain-text-splitters
 langchain-community
 sentence-transformers
 faiss-cpu
