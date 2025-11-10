@@ -103,6 +103,7 @@ pergunta = st.text_input("Digite sua pergunta:")
 
 if pergunta:
     with st.spinner("Buscando resposta..."):
+
         docs = retriever.invoke(pergunta)
         contexto = "\n\n".join(
             [f"[{doc.metadata['titulo']}]\n{doc.page_content}" for doc in docs]
@@ -135,9 +136,3 @@ Resposta:
 
         st.subheader("Resposta:")
         st.write(resposta)
-
-        '''with st.expander("Contextos utilizados"):
-            for d in docs:
-                st.markdown(f"**{d.metadata['titulo']}** — {d.metadata['fonte']}")
-                st.caption(d.page_content[:400] + "...")''''
-
