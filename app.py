@@ -129,7 +129,7 @@ Resposta:
 """
 
         response = client.chat.completions.create(
-            model="llama3-70b",
+            model="llama-3.3-70b-versatile",
             messages=[
                 {"role": "system", "content": "Você é um assistente confiável que responde em português, com precisão e clareza."},
                 {"role": "user", "content": prompt},
