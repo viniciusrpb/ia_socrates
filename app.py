@@ -54,13 +54,23 @@ def flatten_hierarchy(obj, path=""):
 
 
 @st.cache_data(show_spinner=False)
-def load_jsons(path):
+def load_jsons(folder_path):
 
     documentos = []
-    for filename in os.listdir(path):
-        if filename.endswith(".json"):
-            path = os.path.join(path, filename)
-            with open(path, "r", encoding="utf-8") as f:
+
+    if not os.path.exists(folder_path):
+        st.error(f" A pasta '{folder_path}' não existe.")
+        return []
+
+    arquivos = [f for f in os.listdir(folder_path) if f.endswith(".json")]
+    if not arquivos:
+        st.warning(f" Nenhum arquivo .json encontrado em '{folder_path}'.")
+        return []
+
+    for filename in arquivos:
+        file_path = os.path.join(folder_path, filename)
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
                 chunks = flatten_hierarchy(data)
                 for c in chunks:
@@ -70,6 +80,10 @@ def load_jsons(path):
                             metadata={"titulo": c["titulo"], "fonte": filename},
                         )
                     )
+            st.write(f"📄 {filename}: {len(chunks)} seções lidas.")
+        except Exception as e:
+            st.warning(f" Erro ao ler {filename}: {e}")
+
     return documentos
 
 @st.cache_resource(show_spinner=True)
