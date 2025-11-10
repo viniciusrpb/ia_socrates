@@ -14,71 +14,58 @@ client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
 
 def flatten_hierarchy(obj, path=""):
     chunks = []
+
     if isinstance(obj, dict):
-        current_title = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
-        new_path = f"{path} > {current_title}" if path else current_title
+
+        titulo_atual = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
+        caminho = f"{path} > {titulo_atual}" if path else titulo_atual
 
         textos = []
+
         if "parágrafos" in obj:
             textos.extend(obj["parágrafos"])
+
         if "descrição" in obj:
             textos.append(obj["descrição"])
+
         if "habilidades" in obj:
             for h in obj["habilidades"]:
                 textos.append(h.get("descrição") or h.get("texto") or "")
+
         if "direitos" in obj:
             textos.extend(obj["direitos"])
 
         if textos:
-            chunks.append({"titulo": new_path, "texto": " ".join(textos)})
+            chunks.append({"titulo": caminho, "texto": " ".join(textos)})
 
-        for key in ["seções", "subseções", "subsubseções", "capítulos", "eixos"]:
-            if key in obj:
-                for sub in obj[key]:
-                    chunks.extend(flatten_hierarchy(sub, new_path))
+        for chave in ["capítulos", "seções", "subseções", "subsubseções", "eixos"]:
+            if chave in obj:
+                for sub in obj[chave]:
+                    chunks.extend(flatten_hierarchy(sub, caminho))
 
     elif isinstance(obj, list):
         for item in obj:
             chunks.extend(flatten_hierarchy(item, path))
-    return chunks
 
-
-def flatten_hierarchy(obj, path=""):
-    chunks = []
-    if isinstance(obj, dict):
-        current_title = obj.get("título") or obj.get("capítulo") or path
-        new_path = f"{path} > {current_title}" if path else current_title
-
-        if "parágrafos" in obj:
-            texto = " ".join(obj["parágrafos"])
-            chunks.append({"titulo": new_path, "texto": texto})
-
-        for key in ["seções", "subseções", "subsubseções", "capítulos"]:
-            if key in obj:
-                for sub in obj[key]:
-                    chunks.extend(flatten_hierarchy(sub, new_path))
-    elif isinstance(obj, list):
-        for item in obj:
-            chunks.extend(flatten_hierarchy(item, path))
     return chunks
 
 
 @st.cache_data(show_spinner=False)
-def load_jsons(folder_path):
+def load_jsons(fpath):
 
     documentos = []
 
-    if not os.path.exists(folder_path):
-        st.error(f" A pasta '{folder_path}' não existe.")
+    if not os.path.exists(fpath):
+        st.error(f" A pasta '{fpath}' não existe.")
         return []
 
-    arquivos = [f for f in os.listdir(folder_path) if f.endswith(".json")]
+    arquivos = [f for f in os.listdir(fpath) if f.endswith(".json")]
     if not arquivos:
-        st.warning(f" Nenhum arquivo .json encontrado em '{folder_path}'.")
+        st.warning(f" Nenhum arquivo .json encontrado em '{fpath}'.")
         return []
 
     for filename in arquivos:
-        file_path = os.path.join(folder_path, filename)
+        file_path = os.path.join(fpath, filename)
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
             chunks = flatten_hierarchy(data)
@@ -103,11 +90,12 @@ def setup_retriever():
     split_docs = splitter.split_documents(docs)
 
     embeddings = HuggingFaceEmbeddings(
-        model_name="neuralmind/bert-base-portuguese-cased"
+        model_name="neuralmind/bert-base-portuguese-cased" # atualizei aqui par ao BERTimbau, mas fiquem a vontade para alterar
     )
+
     db = FAISS.from_documents(split_docs, embedding=embeddings)
     st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
-    return db.as_retriever(search_kwargs={"k": 5})
+    return db.as_retriever(search_kwargs={"k": 7})
 
 retriever = setup_retriever()
 
