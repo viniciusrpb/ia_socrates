@@ -1,0 +1,28 @@
+{
+  "secoes": [
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 8",
+      "subsecoes": [],
+      "paragrafos": [
+        "No oitavo ano, os estudantes se aprofundam em técnicas de solução de problemas como recursão, compreendendo-a como uma estratégia de decomposição baseada em autorreferência.",
+        "Passam a formalizar o conceito de listas dinâmicas com tamanho indeterminado e explorar algoritmos de busca e manipulação sobre essas estruturas.",
+        "Os alunos também estudam paralelismo e fundamentos de sistemas distribuídos, compreendendo as vantagens do processamento em múltiplas máquinas.",
+        "Em Cultura Digital, exploram redes sociais, segurança da informação, proteção de dados pessoais e análise crítica das políticas de uso de plataformas."
+      ],
+      "itens": [
+        "Recursão — identificar o conceito em diferentes áreas (leis naturais, artes, literatura e matemática).",
+        "Recursão como técnica de solução — utilizar recursão para compreender problemas estruturados por decomposição.",
+        "Listas — formalizar listas dinâmicas e identificar instâncias em contextos reais.",
+        "Algoritmos sobre listas — conhecer operações e algoritmos de busca e manipulação.",
+        "Programação com listas e recursão — criar soluções individuais e colaborativas envolvendo essas técnicas.",
+        "Paralelismo — compreender o conceito de tarefas executadas simultaneamente.",
+        "Fundamentos de sistemas distribuídos — compreender armazenamento e processamento distribuídos.",
+        "Transmissão de dados — entender o papel de protocolos na comunicação de dados.",
+        "Redes sociais — compreender responsabilidades e riscos dos ambientes virtuais.",
+        "Dados pessoais — distinguir tipos de dados solicitados e riscos associados.",
+        "Segurança da informação — reconhecer problemas e vulnerabilidades.",
+        "Políticas de uso — analisar criticamente termos de uso e políticas de privacidade das plataformas digitais."
+      ]
+    }
+  ]
+}

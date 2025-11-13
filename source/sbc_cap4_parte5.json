@@ -1,0 +1,26 @@
+{
+  "secoes": [
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 9",
+      "subsecoes": [],
+      "paragrafos": [
+        "No nono ano, os estudantes aprofundam o estudo de estruturas de dados mais complexas, como árvores e grafos, compreendendo sua formalização e aplicações em problemas reais.",
+        "Passam a identificar e aplicar algoritmos básicos de tratamento e busca nessas estruturas, desenvolvendo compreensão de problemas que envolvem redes, caminhos, hierarquias e relações.",
+        "O estudo de generalização torna-se central, permitindo reuso e adaptação de soluções para novos contextos.",
+        "Em programação, o aluno cria soluções usando árvores e grafos, articulando conhecimentos adquiridos ao longo do Ensino Fundamental.",
+        "Em segurança digital, o estudante aprofunda o entendimento de ameaças, criptografia e técnicas de proteção, analisando também impactos sociais e éticos.",
+        "O trabalho com documentação e comunicação de soluções digitais também é fortalecido, preparando o estudante para trabalhos colaborativos e projetos mais complexos."
+      ],
+      "itens": [
+        "Estruturas de dados — formalizar conceitos de grafos e árvores.",
+        "Algoritmos sobre grafos e árvores — conhecer algoritmos básicos de tratamento, navegação e busca.",
+        "Generalização — identificar problemas similares e utilizar soluções gerais adaptáveis.",
+        "Programação com árvores e grafos — criar soluções individuais e colaborativas usando essas estruturas.",
+        "Segurança digital — compreender funcionamento de vírus, malware e outros ataques.",
+        "Criptografia — analisar técnicas para garantir transmissão segura de dados.",
+        "Documentação — criar documentação, conteúdos e divulgação de uma solução digital.",
+        "Uso crítico de tecnologias digitais — avaliar adequação e impacto do uso de tecnologias digitais no cotidiano."
+      ]
+    }
+  ]
+}

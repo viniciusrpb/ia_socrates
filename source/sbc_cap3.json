@@ -1,0 +1,74 @@
+{
+  "capitulo": "3 Competências específicas da Computação",
+  "secoes": [
+    {
+      "titulo": "Apresentação das competências",
+      "subsecoes": [],
+      "paragrafos": [
+        "O ensino de Computação desenvolve uma série de competências nos alunos de forma única e complementar às demais áreas do conhecimento.",
+        "Essas competências estão organizadas em cinco eixos principais que se articulam com as competências gerais da BNCC.",
+        "A seguir são apresentadas as competências específicas desenvolvidas pela Computação."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Competência 1 — Compreensão e transformação do mundo",
+      "subsecoes": [],
+      "paragrafos": [
+        "Aplicar conhecimentos de Computação para compreender o mundo e atuar de maneira consciente na transformação do mundo digital.",
+        "Entender e analisar criticamente os impactos sociais, culturais, econômicos, científicos, tecnológicos, legais e éticos das transformações promovidas pelo uso da Computação."
+      ],
+      "itens": [
+        "Relacionada às competências gerais C1, C2, C6, C7 e C10 da BNCC."
+      ]
+    },
+    {
+      "titulo": "Competência 2 — Aplicação de Computação em diversas áreas",
+      "subsecoes": [],
+      "paragrafos": [
+        "Compreender a influência dos fundamentos da Computação nas diferentes áreas do conhecimento, incluindo o campo artístico-cultural.",
+        "Ser capaz de criar e utilizar ferramentas computacionais em diferentes contextos.",
+        "Reconhecer que a Computação contribui para o desenvolvimento do raciocínio lógico, do pensamento computacional, da criatividade, do espírito investigativo e da capacidade de produzir argumentação coerente."
+      ],
+      "itens": [
+        "Relacionada às competências gerais C2, C3, C6, C7, C8 e C10."
+      ]
+    },
+    {
+      "titulo": "Competência 3 — Formulação, execução e análise do processo de resolução de problemas",
+      "subsecoes": [],
+      "paragrafos": [
+        "Utilizar conceitos, técnicas e ferramentas computacionais para identificar e analisar problemas cotidianos e de diversas áreas do conhecimento.",
+        "Modelar e resolver problemas individualmente ou em colaboração, usando representações e linguagens adequadas para descrever processos e dados.",
+        "Validar estratégias e resultados de soluções, analisando processos e algoritmos."
+      ],
+      "itens": [
+        "Relacionada às competências gerais C2, C4, C5, C6, C9 e C10."
+      ]
+    },
+    {
+      "titulo": "Competência 4 — Desenvolvimento de projetos envolvendo Computação",
+      "subsecoes": [],
+      "paragrafos": [
+        "Desenvolver e discutir projetos de diversas naturezas envolvendo Computação, levando em consideração princípios éticos, democráticos, sustentáveis e solidários.",
+        "Valorizar a diversidade de opiniões e a participação de indivíduos e grupos sociais, sem preconceito de qualquer natureza.",
+        "Participar de processos colaborativos para criação e implementação de soluções computacionais."
+      ],
+      "itens": [
+        "Relacionada às competências gerais C2, C5, C6, C7, C9 e C10."
+      ]
+    },
+    {
+      "titulo": "Competência 5 — Compreensão dos princípios da ciência da Computação",
+      "subsecoes": [],
+      "paragrafos": [
+        "Compreender os fundamentos da Computação e reconhecê-la como uma ciência que explica e transforma o mundo.",
+        "Reconhecer que a Computação contribui na solução de problemas das mais variadas áreas do conhecimento.",
+        "Entender como a Computação fundamenta processos, descobertas científicas e aplicações do cotidiano e do mundo do trabalho."
+      ],
+      "itens": [
+        "Relacionada às competências gerais C1, C2, C4 e C5."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "capitulo": "6 Considerações Finais",
+  "secoes": [
+    {
+      "titulo": "Síntese Geral",
+      "subsecoes": [],
+      "paragrafos": [
+        "A Computação está cada vez mais presente na vida cotidiana, não apenas em computadores pessoais, mas também em celulares, eletrodomésticos, veículos, sistemas públicos e na infraestrutura digital que sustenta a sociedade contemporânea.",
+        "É fundamental que as pessoas desenvolvam a capacidade de utilizar esse poder computacional para resolver problemas do cotidiano e do trabalho.",
+        "Como ciência que estuda formas de representação da informação e o processo de resolução de problemas, a Computação é transversal: ela pode ser aplicada em Matemática, Física, Biologia, Filosofia, História e diversas outras áreas.",
+        "O domínio dos conceitos computacionais fornece habilidades e conhecimentos que ampliam a capacidade das pessoas de criar, inovar e atuar de forma crítica e informada em diferentes contextos.",
+        "Ensinar Computação com intencionalidade é fundamental: é preciso definir claramente quais habilidades devem ser desenvolvidas, como elas se articulam com a formação do aluno e de que maneira contribuem para sua compreensão de mundo."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "A Computação como componente essencial da Educação Básica",
+      "subsecoes": [],
+      "paragrafos": [
+        "Para que a Computação seja efetivamente integrada à formação básica, é necessário definir diretrizes claras que orientem redes e escolas sobre quais objetos de conhecimento devem ser trabalhados e como podem ser distribuídos ao longo da educação básica.",
+        "O documento defende que a Computação não seja inserida como subparte de outras disciplinas da BNCC, mas sim como um conjunto próprio de objetos de conhecimento e habilidades.",
+        "Essa abordagem oferece às redes escolares flexibilidade para construir currículos adequados às suas realidades, projetos pedagógicos e recursos disponíveis.",
+        "Com diretrizes bem estabelecidas, a implementação da Computação na Educação Básica torna-se viável e favorece a formação integral dos estudantes."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Implementação e formação docente",
+      "subsecoes": [],
+      "paragrafos": [
+        "A implementação da Computação na Educação Básica pode ser realizada por professores licenciados em diferentes áreas, desde que recebam a capacitação necessária.",
+        "Formação docente adequada é um elemento essencial para garantir que os conceitos de Pensamento Computacional, Mundo Digital e Cultura Digital sejam trabalhados de forma consistente."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Computação para o Brasil do século XXI",
+      "subsecoes": [],
+      "paragrafos": [
+        "Para que o Brasil avance no cenário mundial e alcance melhores indicadores de qualidade de vida, é necessário investir em Educação — especialmente na capacidade criativa, investigativa e inovadora dos estudantes.",
+        "No século XXI, a Computação é um elemento determinante desse processo.",
+        "Por isso, é essencial que Computação seja ensinada para todos os alunos da Educação Básica, tanto no Ensino Fundamental quanto no Ensino Médio.",
+        "A Computação contribui para reduzir desigualdades, formar cidadãos críticos e preparar futuros profissionais capazes de atuar em uma sociedade altamente digital e conectada."
+      ],
+      "itens": []
+    }
+  ]
+}

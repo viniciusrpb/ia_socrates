@@ -1,0 +1,134 @@
+{
+  "capitulo": "2 Computação",
+  "secoes": [
+    {
+      "titulo": "Computação como área e fundamento",
+      "subsecoes": [],
+      "paragrafos": [
+        "A Computação é uma área consolidada e independente que investiga processos de informação, desenvolvendo linguagens e técnicas para descrever processos existentes e métodos de resolução e análise de problemas.",
+        "Computação desenvolve novos processos por meio de abstrações e da criação de máquinas capazes de armazenar informação e automatizar a execução de processos.",
+        "O aprimoramento e disseminação dessas máquinas ao longo dos últimos 50 anos afetou profundamente o mundo em aspectos econômicos, científicos, tecnológicos, sociais e culturais.",
+        "Para resolver problemas em diferentes áreas e compreender o mundo contemporâneo, todo cidadão do século XXI deve dominar fundamentos da Computação."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Abstração e modelagem",
+      "subsecoes": [],
+      "paragrafos": [
+        "O pilar fundamental da solução de problemas é a abstração.",
+        "Dado um problema, é necessário construir um modelo abstrato da realidade, incluindo apenas os aspectos relevantes.",
+        "O modelo auxilia na compreensão do problema e nas condições necessárias para a solução.",
+        "Para ser compreensível e analisável, o modelo deve ser descrito em linguagem precisa.",
+        "A Matemática fornece linguagem formal para criar modelos abstratos.",
+        "A Computação usa a Matemática para construir modelos computacionais chamados algoritmos."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Objetos computacionais e algoritmos",
+      "subsecoes": [],
+      "paragrafos": [
+        "Objetos computacionais, como os objetos matemáticos, são entidades abstratas e não acessíveis diretamente.",
+        "Eles são representações de processos de informação, isto é, algoritmos que combinam dados e instruções.",
+        "Para automatizar a execução de processos é necessário formalizar essas abstrações usando linguagens de programação.",
+        "A Computação oferece técnicas e abstrações para auxiliar na construção e análise de soluções, além de linguagens para descrever algoritmos."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Mundo digital e informação",
+      "subsecoes": [],
+      "paragrafos": [
+        "Vivemos na Era da Informação, na qual a informação é um bem precioso.",
+        "O Mundo Digital foi criado para armazenar, processar e distribuir informação.",
+        "A Revolução Digital gerou impacto profundo na sociedade.",
+        "Para utilizar tecnologia digital de forma adequada, é preciso compreender como o mundo digital funciona.",
+        "É necessário compreender o que é informação, sua importância, por que armazená-la e como transmiti-la.",
+        "O Mundo Digital é um ecossistema composto por elementos físicos (máquinas) e virtuais (dados e programas).",
+        "Os componentes virtuais são onipresentes, mas não visíveis ou tangíveis.",
+        "A interface com o mundo digital ocorre por meio de processadores de informação presentes em computadores, celulares, sensores, lâmpadas e eletrodomésticos."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Impactos do Pensamento Computacional",
+      "subsecoes": [],
+      "paragrafos": [
+        "O Pensamento Computacional fortalece a comunicação e a informação, democratizando o acesso à produção e distribuição de conteúdo.",
+        "Hoje, todos são produtores de informação, não apenas autores de livros ou especialistas.",
+        "Existem ferramentas avançadas que tornam o processamento e a distribuição de informação parte intrínseca das relações humanas.",
+        "A Computação impacta dimensões cognitivas, sociais e econômicas da vida humana.",
+        "Questões como direitos autorais, privacidade, segurança digital, cyberbullying e ética digital fazem parte do novo cenário da cultura digital."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Eixos da Computação",
+      "subsecoes": [
+        {
+          "titulo": "Pensamento Computacional",
+          "subsecoes": [],
+          "paragrafos": [
+            "Refere-se à capacidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas e soluções de forma metódica e sistemática.",
+            "É considerado um dos pilares fundamentais do intelecto humano, juntamente com leitura, escrita e aritmética.",
+            "Envolve abstrações e técnicas para descrever e analisar informações (dados) e processos, além de automatizar soluções.",
+            "O conceito de algoritmo está presente em todas as áreas e está intrinsecamente ligado à resolução de problemas."
+          ],
+          "itens": []
+        },
+        {
+          "titulo": "Mundo Digital",
+          "subsecoes": [],
+          "paragrafos": [
+            "A compreensão do Mundo Digital é essencial para que o estudante entenda os processos que ocorrem no mundo real e digital.",
+            "Existem três pilares principais: codificação, processamento e distribuição de informação.",
+            "Codificação: representação digital de diferentes tipos de informação.",
+            "Processamento: capacidade de manipular dados com agilidade.",
+            "Distribuição: capacidade de transmitir dados rapidamente, permitindo novos paradigmas, como a comunicação muitos-para-muitos."
+          ],
+          "itens": []
+        },
+        {
+          "titulo": "Cultura Digital",
+          "subsecoes": [],
+          "paragrafos": [
+            "Envolve o letramento em tecnologias digitais para comunicação e expressão no mundo digital.",
+            "Inclui análises críticas sobre comportamentos e questões éticas surgidas com o uso das tecnologias digitais.",
+            "Destaca o papel interdisciplinar da Computação, promovendo fluência no uso do conhecimento computacional."
+          ],
+          "itens": []
+        }
+      ],
+      "paragrafos": [],
+      "itens": []
+    },
+    {
+      "titulo": "Computação e as Competências Gerais da Educação Básica",
+      "subsecoes": [],
+      "paragrafos": [
+        "A Computação contribui com o desenvolvimento das competências gerais da BNCC.",
+        "Compreender o Mundo Digital é essencial para entender o mundo do século XXI.",
+        "O Pensamento Computacional desenvolve a capacidade de analisar problemas e soluções.",
+        "Tecnologias digitais podem ser usadas para analisar e criar no mundo artístico e cultural.",
+        "Computação desenvolve fluência em linguagens computacionais usadas para representar informação e processos.",
+        "Computação contribui para uma compreensão crítica do mundo e prepara o aluno para o trabalho.",
+        "A análise e construção de algoritmos desenvolvem a capacidade de construir argumentações consistentes.",
+        "A Computação promove cooperação, cidadania e ação consciente."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Por que Computação é essencial para a formação?",
+      "subsecoes": [],
+      "paragrafos": [
+        "Computação permite compreensão plena do mundo cada vez mais conectado.",
+        "Aumenta a capacidade de aprendizagem e resolução de problemas.",
+        "É ferramenta de apoio ao aprendizado em todas as disciplinas.",
+        "Aproxima os estudantes de práticas atuais do mundo do trabalho.",
+        "Desenvolve autonomia, criatividade e pensamento crítico."
+      ],
+      "items": []
+    }
+  ]
+}

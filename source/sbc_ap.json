@@ -1,0 +1,94 @@
+{
+  "apendices": [
+    {
+      "capitulo": "Apêndice A – Objetos de Conhecimento",
+      "secoes": [
+        {
+          "titulo": "Pensamento Computacional",
+          "subsecoes": [
+            {
+              "titulo": "Conceitos Principais",
+              "subsecoes": [],
+              "paragrafos": [
+                "Os diagramas apresentados no Apêndice A sintetizam os objetos de conhecimento associados ao eixo Pensamento Computacional ao longo de todo o Ensino Fundamental.",
+                "Os conceitos estão organizados em progressão, conectando habilidades desde o reconhecimento de padrões e algoritmos simples até a compreensão de estruturas complexas, recursão e grafos."
+              ],
+              "itens": [
+                "Identificação de padrões",
+                "Algoritmos: sequência, seleção e repetição",
+                "Decomposição de problemas",
+                "Reconhecimento de entradas e saídas",
+                "Estruturas de dados estáticas (registros, vetores, matrizes)",
+                "Estruturas de dados dinâmicas (listas, grafos, árvores)",
+                "Modelagem de problemas",
+                "Generalização de algoritmos",
+                "Recursão",
+                "Análise e depuração",
+                "Paralelismo",
+                "Programação estruturada"
+              ]
+            },
+            {
+              "titulo": "Progressão dos Conceitos",
+              "subsecoes": [],
+              "paragrafos": [
+                "A progressão apresentada no Apêndice estabelece dependências entre conceitos ao longo dos anos.",
+                "Alguns conceitos servem de base para outros mais avançados, refletindo a estrutura ensinada no capítulo 4."
+              ],
+              "itens": [
+                "Anos Iniciais — uso de algoritmos simples, organização, padrões e instruções",
+                "Anos Finais — abstrações formais: tipos, variáveis, técnicas de solução, estruturas de dados",
+                "Transição para Ensino Médio — refinamento, eficiência, recursão, estruturas avançadas"
+              ]
+            }
+          ],
+          "paragrafos": [],
+          "itens": []
+        },
+        {
+          "titulo": "Mundo Digital",
+          "subsecoes": [
+            {
+              "titulo": "Conceitos Principais",
+              "subsecoes": [],
+              "paragrafos": [
+                "Os diagramas do Apêndndice A para o eixo Mundo Digital apresentam os principais objetos de conhecimento relacionados ao funcionamento das máquinas, representação da informação, transmissão de dados e redes.",
+                "Os conceitos abrangem desde a compreensão básica de hardware e software até codificação digital, arquitetura de computadores, sistemas distribuídos e segurança."
+              ],
+              "itens": [
+                "Dispositivos digitais (entrada, saída e processamento)",
+                "Informação e dados",
+                "Codificação digital (binário, ASCII, RGB, atributos de pixel)",
+                "Hardware e software",
+                "Arquitetura básica de computadores",
+                "Sistemas operacionais",
+                "Armazenamento de dados",
+                "Transmissão de dados e protocolos",
+                "Internet e redes",
+                "Sistemas distribuídos",
+                "Segurança digital",
+                "Privacidade e proteção de dados",
+                "Direitos autorais e ética digital"
+              ]
+            },
+            {
+              "titulo": "Progressão dos Conceitos",
+              "subsecoes": [],
+              "paragrafos": [
+                "O diagrama do Apêndice mostra a organização dos conteúdos de Mundo Digital, destacando o avanço da compreensão do estudante sobre informação, máquinas e redes.",
+                "Essa progressão articula-se diretamente com as habilidades distribuídas por ano no Capítulo 4."
+              ],
+              "itens": [
+                "Anos Iniciais — conceito de informação, dispositivos e primeiros usos da tecnologia digital",
+                "Anos Finais — codificação, hardware, armazenamento, protocolos e compreensão da Internet",
+                "Transição à etapa seguinte — sistemas distribuídos, segurança e análise crítica da infraestrutura digital"
+              ]
+            }
+          ],
+          "paragrafos": [],
+          "itens": []
+        }
+      ]
+    }
+  ]
+}

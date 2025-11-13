@@ -1,0 +1,66 @@
+{
+  "secoes": [
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 3",
+      "subsecoes": [],
+      "paragrafos": [
+        "No terceiro ano, os estudantes começam a relacionar o conceito de informação com o de dado, compreendendo que dados são informações codificadas e armazenadas.",
+        "Eles passam a definir problemas em termos de entradas e saídas, reconhecendo situações onde algoritmos são necessários.",
+        "Também são introduzidos à lógica básica, ao conceito de interface e ao uso crítico e consciente da internet.",
+        "O foco é desenvolver autonomia inicial para executar algoritmos com seleções e iterações simples."
+      ],
+      "itens": [
+        "Definição de problemas — identificar problemas cuja solução envolve algoritmos e definir entradas e saídas.",
+        "Introdução à lógica — compreender valores verdade e operações lógicas básicas.",
+        "Algoritmos: seleção — definir e executar algoritmos com sequências, repetições simples e seleções.",
+        "Dado — relacionar informação a sua representação armazenada em dispositivos.",
+        "Algoritmos: entradas e saídas — reconhecer formatos específicos de armazenamento.",
+        "Interface — compreender dispositivos de entrada e saída na comunicação com a máquina.",
+        "Fluência digital — pesquisar, acessar, analisar e registrar informações digitais.",
+        "Uso crítico da internet — julgamento apropriado na navegação.",
+        "Rastro digital — compreender trilhas digitais deixadas por usuários.",
+        "Tecnologia digital, economia e sociedade — relacionar tecnologia às questões socioeconômicas locais."
+      ]
+    },
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 4",
+      "subsecoes": [],
+      "paragrafos": [
+        "No quarto ano, os estudantes começam a trabalhar com estruturas de dados estáticas, como registros e matrizes.",
+        "Aprendem a simular, analisar e depurar algoritmos que utilizam essas estruturas.",
+        "O estudo de codificação digital se aprofunda com representações numéricas e formatos como ASCII e RGB.",
+        "Há uma ampliação do trabalho com linguagens midiáticas, tecnologias digitais e direitos autorais online."
+      ],
+      "itens": [
+        "Estruturas de dados estáticas — compreender registros e matrizes por meio de experiências concretas.",
+        "Representações visuais — utilizar diagramas para representar matrizes e registros.",
+        "Algoritmos: repetição — definir e executar algoritmos com iterações simples e aninhadas.",
+        "Depuração — simular e depurar algoritmos que incluem sequências, seleções e repetições.",
+        "Codificação digital — compreender formas de codificar dados para armazenamento e transmissão.",
+        "Linguagens midiáticas — uso expressivo de tecnologias digitais e simuladores educacionais.",
+        "Direitos autorais — reconhecer e refletir sobre direitos autorais de dados online."
+      ]
+    },
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 5",
+      "subsecoes": [],
+      "paragrafos": [
+        "No quinto ano, os estudantes começam a compreender estruturas de dados dinâmicas, como listas e grafos.",
+        "Desenvolvem a capacidade de reconhecer instâncias reais e digitais que podem ser representadas por essas estruturas.",
+        "Aprendem algoritmos simples de busca e manipulação sobre listas.",
+        "O estudo se aprofunda também em arquitetura básica de computadores, sistemas operacionais, mídias digitais e segurança da informação."
+      ],
+      "itens": [
+        "Estruturas dinâmicas — compreender listas e grafos e identificar exemplos no mundo real.",
+        "Representação visual — utilizar diagramas para representar listas e grafos.",
+        "Algoritmos sobre estruturas dinâmicas — executar e analisar algoritmos simples de busca.",
+        "Arquitetura básica — identificar componentes de computadores e sua função.",
+        "Sistemas operacionais — compreender sua relação com hardware e software.",
+        "Mídias digitais — utilizar compactadores e integrar diferentes formatos de arquivos.",
+        "Informação online — distinguir informações confiáveis e citar fontes adequadamente.",
+        "Proteção da informação — reconhecer riscos e vulnerabilidades em jogos online.",
+        "Impactos da tecnologia digital — expressar-se criticamente sobre mudanças no mundo do trabalho e sociedade."
+      ]
+    }
+  ]
+}

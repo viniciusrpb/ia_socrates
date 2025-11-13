@@ -1,0 +1,63 @@
+{
+  "capitulo": "4 Computação no Ensino Fundamental",
+  "secoes": [
+    {
+      "titulo": "Introdução ao Ensino Fundamental",
+      "subsecoes": [],
+      "paragrafos": [
+        "As figuras apresentadas no documento ilustram os principais conceitos a serem trabalhados no Ensino Fundamental nos eixos Pensamento Computacional, Mundo Digital e Cultura Digital.",
+        "Nos Anos Iniciais devem ser trabalhados conceitos relacionados às estruturas abstratas necessárias à resolução de problemas, enfatizando que o estudante compreenda o processo de resolução de problemas e a importância de descrevê-los em forma de algoritmo.",
+        "Os estudantes devem compreender noções básicas de algoritmos a partir de instruções passo a passo, como em construções, atividades de orientação espacial e execução de receitas.",
+        "O foco é dominar as operações fundamentais para a construção de algoritmos — sequências, seleções e repetições — com experiências concretas que permitam a formação de modelos mentais sólidos.",
+        "É importante que o Pensamento Computacional seja inicialmente trabalhado de forma desplugada, sem o uso de computadores.",
+        "No eixo de Mundo Digital, os alunos começam a compreender o conceito de informação, sua representação, proteção e comunicação, e a relação entre dados, máquinas e armazenamento.",
+        "No eixo de Cultura Digital, a ênfase é o uso consciente e crítico das tecnologias digitais."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Anos Finais — Visão Geral",
+      "subsecoes": [],
+      "paragrafos": [
+        "Nos Anos Finais, espera-se que os estudantes selecionem e utilizem modelos e representações adequadas para descrever informações e processos.",
+        "Os estudantes devem dominar técnicas para construir soluções algorítmicas e descrever soluções de forma executável em máquinas.",
+        "É esperado que compreendam como informações são armazenadas, protegidas, transmitidas e distribuídas, incluindo o funcionamento da internet.",
+        "Em Cultura Digital, trabalha-se com uma visão global envolvendo redes sociais e impactos sociais, econômicos e culturais da tecnologia."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 1",
+      "subsecoes": [],
+      "paragrafos": [
+        "Nesta etapa, o estudante realiza atividades concretas para compreender conceitos de organização, algoritmos simples, informação, códigos e uso básico de tecnologia.",
+        "Ele identifica dispositivos computacionais, compreende funções de entrada e saída e entende noções iniciais de proteção de informação."
+      ],
+      "itens": [
+        "Organização de objetos — organizar objetos concretos por características como cor, tamanho, forma e textura.",
+        "Algoritmos: definição — compreender a necessidade de algoritmos e resolver problemas passo a passo.",
+        "Máquina: terminologia e dispositivos — nomear dispositivos e identificar funções de entrada e saída.",
+        "Informação — compreender a importância da descrição e armazenamento da informação.",
+        "Códigos — representar informação usando símbolos.",
+        "Proteção de informação — compreender a necessidade de senhas e proteção.",
+        "Tecnologia digital — reconhecer e explorar tecnologias digitais presentes no cotidiano."
+      ]
+    },
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 2",
+      "subsecoes": [],
+      "paragrafos": [
+        "No segundo ano, o estudante passa a identificar padrões, criar e simular algoritmos simples, compreender modelos de objetos e entender instruções de máquina.",
+        "Também inicia interações com mídias digitais, produção de textos curtos e navegação segura."
+      ],
+      "itens": [
+        "Identificação de padrões de comportamento.",
+        "Algoritmos: construção e simulação com sequências e repetições simples.",
+        "Modelos de objetos — criação e comparação identificando atributos essenciais.",
+        "Noção de instrução de máquina e relação software–hardware.",
+        "Uso básico de tecnologia digital — produção de textos, pesquisas e interação.",
+        "Impacto da tecnologia digital no dia a dia — análise de trilhas digitais deixadas pelos usuários."
+      ]
+    }
+  ]
+}

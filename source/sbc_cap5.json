@@ -1,0 +1,229 @@
+{
+  "capitulo": "5 Computação no Ensino Médio",
+  "secoes": [
+    {
+      "titulo": "Introdução ao Ensino Médio",
+      "subsecoes": [],
+      "paragrafos": [
+        "No Ensino Médio, a ênfase está na elaboração de projetos que utilizem as habilidades e conhecimentos desenvolvidos no Ensino Fundamental.",
+        "O estudante deve desenvolver competências relacionadas à análise crítica, argumentação, modelagem computacional, inteligência artificial, robótica, redes, segurança digital e ciência de dados.",
+        "Os conceitos de Pensamento Computacional são aprofundados com técnicas como transformação de problemas, metaprogramação, análise de algoritmos e refinamento.",
+        "A compreensão dos impactos sociais, econômicos, éticos e culturais relacionados às tecnologias digitais torna-se essencial nesta etapa."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Técnica de solução de problemas: Transformação",
+      "subsecoes": [],
+      "paragrafos": [
+        "Compreender a técnica de solução de problemas através de transformações, reconhecendo que problemas diferentes podem compartilhar estruturas semelhantes.",
+        "A transformação permite reusar soluções existentes, adaptando-as a novos problemas de forma eficiente."
+      ],
+      "itens": [
+        "Comparar problemas para identificar possibilidades de reuso.",
+        "Aplicar transformações estruturais para converter um problema em outro equivalente."
+      ]
+    },
+    {
+      "titulo": "Técnica de solução de problemas: Refinamento",
+      "subsecoes": [],
+      "paragrafos": [
+        "Refinamento consiste no uso de múltiplos níveis de abstração para construir soluções detalhadas a partir de formulações gerais.",
+        "O estudante compreende que soluções para problemas complexos exigem quebrar tarefas em camadas de abstração sucessivas."
+      ],
+      "itens": [
+        "Construir soluções progressivamente mais detalhadas.",
+        "Usar abstrações de alto nível antes de aplicar detalhes operacionais."
+      ]
+    },
+    {
+      "titulo": "Avaliação de algoritmos e programas",
+      "subsecoes": [],
+      "paragrafos": [
+        "O estudante analisa algoritmos considerando custo computacional em termos de tempo, espaço, energia e outros recursos.",
+        "Entende que escolhas entre algoritmos dependem dos requisitos do problema e das restrições de execução.",
+        "Além disso, o aluno deve argumentar sobre a correção de algoritmos, justificando formalmente que uma solução realmente resolve o problema proposto.",
+        "Também deverá avaliar programas e projetos com relação à qualidade, usabilidade, organização, documentação e aspectos éticos."
+      ],
+      "itens": [
+        "Analisar complexidade temporal e espacial.",
+        "Comparar diferentes algoritmos para a mesma tarefa.",
+        "Argumentar sobre correção e validade de soluções.",
+        "Avaliar programas quanto à clareza, documentação e ética."
+      ]
+    },
+    {
+      "titulo": "Metaprogramação",
+      "subsecoes": [],
+      "paragrafos": [
+        "Metaprogramação é o conceito de permitir que algoritmos recebam outros algoritmos como entrada ou produzam algoritmos como saída.",
+        "Essa técnica amplia drasticamente a capacidade de generalização e automação, sendo utilizada em compiladores, interpretadores e linguagens modernas."
+      ],
+      "itens": [
+        "Reconhecer algoritmos que manipulam outros algoritmos.",
+        "Entender metaprogramação como forma de generalização avançada."
+      ]
+    },
+    {
+      "titulo": "Limites da computação",
+      "subsecoes": [],
+      "paragrafos": [
+        "O estudante explora o que pode ou não ser computado, entendendo que alguns problemas não admitem solução mecanizável.",
+        "A compreensão dos limites formais da computação envolve discutir problemas indecidíveis e tarefas que excedem capacidades algorítmicas tradicionais.",
+        "Essas reflexões ampliam a compreensão dos processos mentais envolvidos na resolução de problemas."
+      ],
+      "itens": [
+        "Diferenciar problemas computáveis e não computáveis.",
+        "Reconhecer limites formais de modelos computacionais."
+      ]
+    },
+    {
+      "titulo": "Modelagem computacional",
+      "subsecoes": [],
+      "paragrafos": [
+        "Modelagem computacional envolve a construção de modelos que representam fenômenos ou processos complexos.",
+        "Os estudantes devem ser capazes de criar modelos, simular cenários, fazer predições e analisar resultados.",
+        "Modelagem é um elemento central para a resolução de problemas em diversas áreas, especialmente no contexto científico e tecnológico."
+      ],
+      "itens": [
+        "Criar modelos computacionais apropriados ao problema.",
+        "Usar simulações para análise e predição.",
+        "Interpretar resultados gerados por modelos digitais."
+      ]
+    },
+    {
+      "titulo": "Inteligência artificial e robótica",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes devem compreender os fundamentos da inteligência artificial e da robótica.",
+        "Devem entender como algoritmos de inteligência artificial podem identificar padrões em conjuntos de dados e resolver problemas reais.",
+        "Também devem compreender implicações éticas, legais e sociais do uso de IA e robótica.",
+        "A discussão envolve responsabilidade, transparência, justiça, impactos no trabalho e nas interações humanas."
+      ],
+      "itens": [
+        "Compreender conceitos básicos de IA e aprendizado de máquina.",
+        "Identificar aplicações reais da IA e da robótica.",
+        "Analisar desafios éticos e legais em sistemas inteligentes."
+      ]
+    },
+    {
+      "titulo": "Análise de redes",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes analisam redes considerando escalabilidade, confiabilidade e desempenho.",
+        "Devem compreender conceitos como roteadores, switches, topologia, latência, banda, carga e delay.",
+        "Também analisam impactos da arquitetura de redes no funcionamento da comunicação digital."
+      ],
+      "itens": [
+        "Avaliar redes quanto à confiabilidade e desempenho.",
+        "Interpretar parâmetros como latência, banda e topologia.",
+        "Compreender funcionamento básico de roteadores e switches."
+      ]
+    },
+    {
+      "titulo": "Análise de segurança digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes devem comparar medidas de segurança digital considerando o equilíbrio entre usabilidade e proteção.",
+        "Devem compreender autenticação, criptografia, integridade, disponibilidade e ataques comuns.",
+        "A análise ética e social da segurança digital também é enfatizada."
+      ],
+      "itens": [
+        "Comparar técnicas de segurança digital.",
+        "Reconhecer vulnerabilidades e ataques.",
+        "Avaliar impacto social da segurança e privacidade."
+      ]
+    },
+    {
+      "titulo": "Ciência de Dados",
+      "subsecoes": [],
+      "paragrafos": [
+        "O estudante compreende o conceito de Ciência de Dados e sua importância na sociedade contemporânea.",
+        "Deve utilizar ferramentas computacionais para extrair, representar, manipular, analisar e visualizar dados massivos.",
+        "A integração de matemática, estatística e computação é fundamental nessa etapa.",
+        "Ao final, o aluno deve ser capaz de examinar grandes conjuntos de dados para entender padrões, fazer predições e tomar decisões fundamentadas."
+      ],
+      "itens": [
+        "Usar ferramentas para análise e visualização de dados.",
+        "Interpretar padrões e tendências.",
+        "Integrar estatística básica e algoritmos para resolver problemas com dados reais."
+      ]
+    },
+    {
+      "titulo": "Desenvolvimento de sites",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes aprendem a criar e manter sites e blogs com conteúdo individual e coletivo.",
+        "Devem compreender princípios básicos de usabilidade, organização e clareza na comunicação digital."
+      ],
+      "itens": [
+        "Criar sites e blogs.",
+        "Organizar conteúdos de forma clara e acessível."
+      ]
+    },
+    {
+      "titulo": "Animação digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os alunos produzem animações digitais, explorando ferramentas e técnicas de criação visual.",
+        "O foco está na expressão criativa e na combinação de elementos multimídia."
+      ],
+      "itens": [
+        "Produzir animações com ferramentas digitais.",
+        "Compor elementos visuais, sonoros e gráficos."
+      ]
+    },
+    {
+      "titulo": "Impactos da tecnologia digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes devem analisar criticamente o tempo de vivência online, o uso de redes sociais e de jogos digitais.",
+        "Devem refletir sobre impactos da tecnologia na sociedade, na economia, nas profissões e na cultura.",
+        "O estudo envolve ainda questões éticas, responsabilidade digital e bem-estar."
+      ],
+      "itens": [
+        "Analisar tempo de exposição digital.",
+        "Refletir sobre impactos da tecnologia no trabalho e na sociedade.",
+        "Avaliar responsabilidade individual no uso de tecnologias."
+      ]
+    },
+    {
+      "titulo": "Direito digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "Compreender o direito digital e suas relações com o cotidiano.",
+        "O aluno deve reconhecer questões de privacidade, direitos autorais, responsabilidade civil e segurança de dados."
+      ],
+      "itens": [
+        "Identificar direitos e deveres no ambiente digital.",
+        "Compreender legislação relacionada à tecnologia."
+      ]
+    },
+    {
+      "titulo": "Gerência de projetos",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes devem ser capazes de gerenciar projetos digitais colaborativos, utilizando ferramentas de computação em nuvem.",
+        "Devem planejar tarefas, distribuir responsabilidades, acompanhar progresso e documentar resultados."
+      ],
+      "itens": [
+        "Planejar e gerenciar projetos colaborativos.",
+        "Utilizar ferramentas em nuvem para coordenação e versionamento."
+      ]
+    },
+    {
+      "titulo": "Elaboração de projetos integradores",
+      "subsecoes": [],
+      "paragrafos": [
+        "Os estudantes devem elaborar e executar projetos computacionais integrados às áreas curriculares.",
+        "Devem ser capazes de identificar problemas reais, criar modelos computacionais, propor soluções e comunicar resultados.",
+        "Esses projetos reforçam colaboração, criatividade, pensamento crítico e aplicação prática da Computação."
+      ],
+      "itens": [
+        "Criar modelos computacionais para simular fenômenos.",
+        "Integrar Computação com outras áreas do currículo.",
+        "Executar projetos usando computadores, celulares e outros dispositivos."
+      ]
+    }
+  ]
+}

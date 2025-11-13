@@ -1,0 +1,52 @@
+{
+  "secoes": [
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 6",
+      "subsecoes": [],
+      "paragrafos": [
+        "No sexto ano, os estudantes aprofundam sua compreensão de tipos de dados e começam a formalizar o conceito de variável como parâmetro para generalização de algoritmos.",
+        "Passam a utilizar linguagens visuais de programação para descrever soluções, aplicando técnicas de decomposição de problemas.",
+        "Também compreendem o processo de transmissão de dados e iniciam estudos de proteção da informação, segurança digital e ética em ambientes virtuais.",
+        "O aluno deve compreender os impactos sociais, econômicos e ambientais relacionados ao uso crescente da tecnologia digital."
+      ],
+      "itens": [
+        "Tipos de dados — reconhecer que entradas e saídas são elementos pertencentes a conjuntos específicos.",
+        "Formalização de tipos — compreender tipos como conjuntos (números, strings, booleanos etc.).",
+        "Generalização — identificar que algoritmos podem ser soluções genéricas para várias instâncias de um problema.",
+        "Linguagem visual de programação — utilizar blocos para compor sequências, repetições e seleções.",
+        "Relacionar programas visuais com textos precisos em português.",
+        "Decomposição — dividir problemas complexos em partes menores e solucionáveis.",
+        "Fundamentos de transmissão de dados — compreender fragmentação, envio em pacotes e reconstrução.",
+        "Proteção de dados — identificar problemas de segurança e propor medidas preventivas.",
+        "Segurança em ambientes virtuais — aplicar protocolos de privacidade.",
+        "Tecnologia digital e sociedade — analisar problemas sociais a partir de ambientes digitais.",
+        "Tecnologia digital e sustentabilidade — comparar sistemas antigos e atuais considerando impacto econômico, político e ecológico."
+      ]
+    },
+    {
+      "titulo": "ENSINO FUNDAMENTAL — Ano 7",
+      "subsecoes": [],
+      "paragrafos": [
+        "No sétimo ano, os estudantes aprofundam o conceito de automatização, relacionando representações de dados e algoritmos.",
+        "Passam a formalizar estruturas estáticas como registros e vetores, ampliando o uso de técnicas de decomposição e reuso.",
+        "O estudo de programação progride para identificação de subproblemas, depuração e argumentação sobre corretude.",
+        "Também se aprofundam nos conceitos de internet, redes, armazenamento e segurança digital.",
+        "Há forte ênfase na ética digital, cyberbullying e impactos socioambientais da tecnologia."
+      ],
+      "itens": [
+        "Automatização — compreender que automatizar envolve definir dados e processos.",
+        "Estruturas estáticas — formalizar registros e vetores (arrays).",
+        "Técnicas de decomposição e reuso — identificar subproblemas comuns.",
+        "Programação estruturada — decompor problemas, reutilizar soluções e depurar programas.",
+        "Depuração — detectar erros e garantir corretude.",
+        "Internet — compreender estrutura, funcionamento e fragmentação das fontes de informação.",
+        "Análise crítica de fontes — avaliar confiabilidade e adequação de conteúdos.",
+        "Armazenamento de dados — compreender sistemas de arquivos e nuvens.",
+        "Documentação de projetos — sequenciar tarefas e registrar etapas.",
+        "Cyberbullying — reconhecer, refletir e propor ações preventivas.",
+        "Impactos ambientais — compreender descarte de resíduos eletrônicos e sustentabilidade.",
+        "Tecnologia e sociedade — analisar como avanços digitais modificam estruturas sociais."
+      ]
+    }
+  ]
+}

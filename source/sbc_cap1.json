@@ -1,0 +1,62 @@
+{
+  "capitulo": "1 Terminologia",
+  "secoes": [
+    {
+      "titulo": "Tecnologia",
+      "subsecoes": [],
+      "paragrafos": [
+        "A palavra tem origem no latim 'tekhne', que significa técnica, arte ou ofício, e 'logia', que significa estudo.",
+        "Tecnologia é um produto da ciência e da engenharia, envolvendo um conjunto de instrumentos, técnicas e métodos que visam resolver problemas.",
+        "É a aplicação prática do conhecimento científico.",
+        "Exemplos de tecnologia incluem a descoberta do fogo, a invenção da roda, da escrita, a criação de armas, os meios de transporte e, no final do século XX e início do século XXI, destacam-se a biotecnologia, a nanotecnologia, a tecnologia digital e a tecnologia da informação e comunicação."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Tecnologia digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "Tecnologia digital codifica, processa e transmite informação usando números (que usualmente são 0s e 1s, mas pode-se usar como base qualquer conjunto contável).",
+        "Refere-se às tecnologias utilizadas para construir equipamentos digitais, como computadores e máquinas fotográficas digitais.",
+        "A palavra 'digital' vem do latim 'digitus', que significa dedo, em referência a uma das formas mais antigas de contagem."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "TIC (Tecnologia da Informação e Comunicação)",
+      "subsecoes": [],
+      "paragrafos": [
+        "Compreende tanto a infraestrutura física (componentes que permitem codificar, armazenar, processar e transmitir a informação) quanto o software (aplicações e sistemas).",
+        "TIC inclui tanto tecnologias digitais quanto analógicas, embora grande parte das tecnologias de TIC esteja migrando para digitais."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Fluência digital",
+      "subsecoes": [],
+      "paragrafos": [
+        "É a habilidade de encontrar, avaliar, produzir e comunicar informação usando plataformas digitais, englobando diferentes dispositivos de hardware e software.",
+        "Refere-se, por exemplo, ao uso de computadores e aplicativos, como software para formatar textos, produzir apresentações, buscar informações e insumos na internet."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Tecnologia educacional",
+      "subsecoes": [],
+      "paragrafos": [
+        "Hoje em dia, refere-se usualmente à aplicação da fluência digital aos conteúdos escolares de qualquer área.",
+        "Também pode englobar o uso de outros recursos tecnológicos — como recursos audiovisuais — para auxiliar no processo educacional."
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "Pensamento computacional",
+      "subsecoes": [],
+      "paragrafos": [
+        "É a habilidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas (e soluções) de forma metódica e sistemática.",
+        "Envolve técnicas e métodos para descrever problemas e processos de solução utilizando modelos computacionais."
+      ],
+      "itens": []
+    }
+  ]
+}
