@@ -61,25 +61,29 @@ def load_jsons(fpath):
 
     documentos = []
 
-    if not os.path.exists(fpath):
-        st.error(f" A pasta '{fpath}' não existe.")
-        return []
-
     arquivos = [f for f in os.listdir(fpath) if f.endswith(".json")]
-    if not arquivos:
-        st.warning(f" Nenhum arquivo .json encontrado em '{fpath}'.")
-        return []
 
     for filename in arquivos:
-        file_path = os.path.join(fpath, filename)
-        with open(file_path, "r", encoding="utf-8") as f:
+
+        with open(os.path.join(fpath, filename), "r", encoding="utf-8") as f:
+
             data = json.load(f)
-            chunks = flatten_hierarchy(data)
-            for c in chunks:
+
+            for p in data.get("paragrafos", []):
+
+                texto = p.get("texto", "").strip()
+
+                if not texto:
+                    continue
+
                 documentos.append(
                     Document(
-                        page_content=c["texto"],
-                        metadata={"titulo": c["titulo"], "fonte": filename},
+                        page_content=texto,
+                        metadata={
+                            "fonte": filename,
+                            "pagina": p.get("pagina"),
+                            "habilidades": p.get("habilidades", [])
+                        },
                     )
                 )
 
