@@ -1,0 +1,501 @@
+{
+  "documento": "BNCC",
+  "paragrafos": [
+    {
+      "texto": "Diretrizes da Sociedade Brasileira d Leila Ribeiro (Diretora) Alberto Castro Antônio Augusto Fröhlich Carlos Andre Guimaraes Ferraz Carlos Eduardo Ferreira Dalton Serey Daniel de Angelis Cordeiro José Aires Nara Bigolin Simone Cavalheiro Sociedade Brasileira de Computação Diretora de Ensino de Computação na Educação Básica Relatório Técnico n° 001/2019 2019",
+      "pagina": 0
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Diretrizes da Sociedade Brasileira de Computação para o Ensino de Computação na Educação Básica Computação é uma ciência: possui fundamentos e princípios organizando de forma sistemática parte do conhecimento da humanidade. Computação pode ser considerada uma ciência natural: computação já existia muito antes de computadores (máquinas) serem inventados. Por exemplo, em Biologia, informação é codificada de forma digital no DNA (usando 4 símbolos) e processada usando procedimentos e métodos computacionais bem definidos. Os fluxos de informação da Economia e Administração são processos computacionais. Uma receita de bolo, um roteiro turístico, as instruções de como usar uma cafeteira são processos computacionais. Computação está em todos os lugares, em tudo que fazemos. A Ciência da Computação explica uma parte (abstrata) do mundo real: os processos de informação. Mas Computação também é uma ciência do artificial porque ela pode ser usada para investigar problemas e construir soluções, gerando processos que não existiam no mundo real, criando um mundo artificial, virtual, um mundo que é hoje presente e fundamental na vida de grande parte das pessoas (por exemplo, a internet é um componente do mundo virtual). A Computação provê, portanto, não somente explicação, como também ferramentas para transformar o mundo.",
+      "pagina": 1
+    },
+    {
+      "texto": "Mesmo sendo uma área altamente inovadora e tecnológica, os princípios da Computação são os mesmos há décadas. O empoderamento dos conceitos fundamentais da Computação permitirá que estudantes compreendam de forma mais completa o mundo e tenham, consequentemente, maior autonomia, flexibilidade, resiliência, pró-atividade e criatividade. A proposta apresentada aqui sugere que os fundamentos da área sejam ensinados na profundidade compatível com a Educação Básica.",
+      "pagina": 1
+    },
+    {
+      "texto": "Este documento está organizado da seguinte forma: · Seção 1 - Terminologia: Define alguns termos usados comumente na área de Computação, para deixar explícita a interpretação do vocabulário a ser utilizado no restante do documento; · Seção 2 - Computação: Explica o que é Computação e como os conceitos da área foram organizados para o seu ensino na Educação Básica; · Seção 3 - Competências específicas da Computação: apresenta as competências específicas que são desenvolvidas pela Computação; · Seção 4 - Computação no Ensino Fundamental: descreve os objetos de conhecimentos e habilidades da área de Computação, organizados por ano do Ensino Fundamental; · Seção 5 - Computação no Ensino Médio: descreve os objetos de conhecimentos e habilidades da área de Computação no Ensino Médio; · Seção 6 - Considerações Finais: contém uma breve discussão sobre a inserção de Computação na Educação Básica.",
+      "pagina": 1
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 1 Terminologia Tecnologia: A palavra tem origem no latim \"tekhne\", que significa \"técnica, arte, ofício\" e \"logia\" , que significa \"estudo\". Tecnologia é um produto da ciência e da engenharia envolvendo um conjunto de instrumentos, técnicas e métodos que visam resolver problemas. É a aplicação prática do conhecimento científico. Exemplos de tecnologia são a descoberta do fogo, invenção da roda, da escrita, criação de armas, de meios de transporte e, no final do século XX e início do século XXI, destacam-se a biotecnologia, nanotecnologia, a tecnologia digital e tecnologia da informação e comunicação.",
+      "pagina": 2
+    },
+    {
+      "texto": "Tecnologia digital: Tecnologia digital codifica, processa e transmite informação usando números (que usualmente são 0s e 1s, mas pode-se usar como base qualquer conjunto contável). Se refere à tecnologia utilizada para a construção de equipamentos digitais, como os computadores, máquinas fotográficas digitais, etc.. A palavra \"digital\" vem do latim \"digitus\", que significa dedo, em referência a uma das mais antigas formas de contagem.",
+      "pagina": 2
+    },
+    {
+      "texto": "TIC (Tecnologia da Informação e Comunicação): Compreende tanto a infraestrutura física (componentes que permitem codificar, armazenar, processar e transmitir a informação) quanto o software (aplicações e sistemas). TIC inclui tanto tecnologias digitais quanto analógicas (embora grande parte das tecnologias de TIC estejam migrando para digitais).",
+      "pagina": 2
+    },
+    {
+      "texto": "Fluência digital: Habilidade de encontrar, avaliar, produzir e comunicar informação usando plataformas digitais (englobando tanto diferentes dispositivos de hardware quanto de software). Se refere, por exemplo, ao uso de computadores e aplicativos, como software para formatar textos, produzir apresentações, buscar informações e insumos na internet, etc.",
+      "pagina": 2
+    },
+    {
+      "texto": "Tecnologia educacional: Hoje em dia, usualmente se refere à aplicação da fluência digital aos conteúdos escolares, de qualquer área, mas pode também englobar o uso de outros recursos tecnológicos (por exemplo, audiovisuais) para auxiliar na Educação.",
+      "pagina": 2
+    },
+    {
+      "texto": "Pensamento computacional: Habilidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas (e soluções) de forma metódica e sistemática.",
+      "pagina": 2
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 2 Computação A Computação é uma área consolidada e independente. A Computação investiga processos de informação, desenvolvendo linguagens e técnicas para descrever processos existentes e também e métodos de resolução e análise de problemas, gerando novos processos. Além disso, foram criadas máquinas para armazenar a informação e automatizar a execução de processos. O aprimoramento e disseminação dessas máquinas (computadores) ao longo dos últimos 50 anos afetou profundamente o mundo sob vários aspectos: econômico, científico, tecnológico, social e cultural. Portanto, tanto para resolver de problemas em todas as áreas quanto para ter uma compreensão do mundo em que vivemos, todo cidadão do século XXI deve dominar os fundamentos da Computação.",
+      "pagina": 3
+    },
+    {
+      "texto": "O pilar fundamental da solução de problemas é a abstração. Dado um problema a ser resolvido, é necessário que se construa um modelo abstrato da realidade, incluindo apenas aspectos estritamente relevantes ao problema. Este modelo nos ajuda a entender o problema e suas condições de contorno, permitindo que tenhamos a clareza necessária para solucioná-lo.",
+      "pagina": 3
+    },
+    {
+      "texto": "Porém, para que se consiga construir um modelo abstrato que possa ser compreendido e analisado, este precisa estar descrito em uma linguagem precisa. A Matemática provê uma linguagem formal e universal, que pode ser usada para construir os mais diferentes tipos de modelos, bem como várias técnicas para analisar modelos com precisão. A Computação, como outras ciências, usa a Matemática para a construção de modelos computacionais, modelos de processos. Esses modelos são chamados de algoritmos, e podem estar descritos em vários níveis de abstração diferentes. A Computação provê técnicas e abstrações para auxiliar no processo de construção e análise de soluções, bem como linguagens para descrever algoritmos. Portanto, Computação provê habilidades distintas das outras áreas de conhecimento. A habilidade de sistematizar a atividade de resolução de problemas, representar e analisar as soluções através de algoritmos é chamada Pensamento Computacional, e esta exige domínio de objetos abstratos que são necessários para descrever tanto a informação quanto os processos que a manipulam. Os objetos computacionais, como os matemáticos, não são acessíveis diretamente. Eles são entes abstratos, que não podem ser tocados, mas não deixam de ser tão reais quanto os elementos físicos. São onipresentes e essenciais, mas somente podem ser acessados por meio de suas representações. Objetos computacionais são descrições de processos de informação, ou seja, algoritmos envolvendo tanto uma representação abstrata da informação (dados) quando do processo em si (instruções). Para automatizar a execução de processos é necessário formalizar essas abstrações (de dados e instruções) usando linguagens extremamente precisas (linguagens de programação).",
+      "pagina": 3
+    },
+    {
+      "texto": "Vive-se hoje na Era da Informação, uma era na qual o homem percebeu que a informação é um bem precioso. Um Mundo Digital foi criado para armazenar, processar e distribuir informação. É inegável que a Revolução Digital gerou um grande impacto na sociedade. Para desenvolver plenamente suas habilidades e conseguir utilizar a tecnologia digital de forma adequada, é necessário que cada pessoa compreenda o funcionamento do “mundo digital” da mesma forma que se tem entendimento do “mundo real” através das ciências da natureza e das ciências humanas. É importante que se compreenda o que é informação, qual a sua importância, porque se quer armazená-la, como se pode fazer isso, porque se deve proteger a informação, bem como as formas de transmitir e distribuir a informação, compreendendo também as questões éticas e impactos sociais e econômicos relacionados ao tratamento da informação. O Mundo Digital é na realidade um ecossistema composto por elementos físicos (máquinas) e também virtuais (dados e programas). Os componentes virtuais não podem ser vistos e nem tocados. Porém, são onipresentes e",
+      "pagina": 3
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica essenciais para a humanidade hoje. Um exemplo de entidade do mundo virtual é a internet. A interface com este mundo é realizada através de processadores de informação (máquinas), que podem estar presentes em computadores, celulares, sensores, lâmpadas, eletrodomésticos, entre outros.",
+      "pagina": 4
+    },
+    {
+      "texto": "O domínio do Pensamento Computacional e a compreensão do Mundo Digital vêm fortalecer a dinâmica da comunicação e informação, dando poder de opinião, que antes era apenas dos livros e seus autores, a todo membro da sociedade digital. Atualmente, existem ferramentas cada vez mais aperfeiçoadas para processar e distribuir informações, tornando esta dinâmica parte intrínseca das relações humanas. Mas não basta ser receptivo. A simples recepção não caracteriza a apropriação. Esta aquisição de culturas é política, social e econômica. A Computação impacta o ser humano em sua totalidade, tanto internamente, em seu sistema nervoso e cognitivo, como no ambiente externo, no seu trabalho e lazer. A tecnologia digital traz consigo uma nova gama de questões envolvendo, por exemplo, direitos autorais de material online, noções de público e privado, cyberbullying, segurança digital, pegadas digitais, redes sociais, ética digital, compras online, dentre outras.",
+      "pagina": 4
+    },
+    {
+      "texto": "Os conhecimentos da área de Computação podem, portanto, ser organizados em 3 eixos:",
+      "pagina": 4
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Pensamento Computacional: O Pensamento Computacional se refere à capacidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas (e soluções) de forma metódica e sistemática, através da construção de algoritmos. Apesar de ser um termo recente, vem sendo considerado como um dos pilares fundamentais do intelecto humano, junto com a leitura, a escrita e a aritmética pois, como estas, serve para descrever, explicar e modelar o universo e seus processos complexos. O Pensamento Computacional envolve abstrações e técnicas necessárias para a descrição e análise de informações (dados) e processos, bem como para a automação de soluções. O conceito de algoritmo está presente em todas as áreas e está intrinsecamente ligado à resolução de problemas, pois um algoritmo é uma descrição de um processo (que resolve um determinado problema).",
+      "pagina": 5
+    },
+    {
+      "texto": "Mundo Digital: A compreensão do mundo digital é importante para que o estudante possa se apropriar dos processos que ocorrem no mundo, tanto digital quanto real, podendo compreender e criticar tendências, sendo ativo neste cenário. Para uma compreensão estruturada do mundo digital, e não apenas efêmera e permeada de tecnologias, identificam-se 3 pilares principais, chamados codificação, processamento e distribuição. A codificação diz respeito à representação, no mundo digital, dos mais diferentes tipos de informação que possam nos interessar. A capacidade de processamento dos dados codificados no mundo digital confere extrema agilidade para desempenhar vários processos assim como habilita vários outros a acontecerem. De forma indissociável neste contexto está a capacidade de distribuição de informação no mundo digital. Esta capacidade é fator fundamental para tamanho impacto do mundo digital. Aqui deve-se prestar atenção que, além de uma facilidade de aceleração do processo de transmissão da informação, testemunhamos dia a dia os impactos de uma mudança singular de paradigma: todos indivíduos são geradores de informação para o consumo de todos os demais. As fontes tradicionais de informação, outrora acreditadas até certo ponto, dão lugar a um ambiente fragmentado, com incontáveis fontes muitas vezes desconhecidas. A compreensão do potencial e riscos desta nova lógica passa pela compreensão do funcionamento da Internet e do mundo digital. Ainda, cabe a compreensão de novos paradigmas permitidos pelo mundo digital onde a computação está imersa de forma transparente no nosso dia a dia.",
+      "pagina": 5
+    },
+    {
+      "texto": "Cultura Digital: Para conseguir estabelecer comunicação e expressão através do Mundo Digital, é necessário um letramento em tecnologias digitais, que neste documento denominou-se de Cultura Digital. Também faz parte da Cultura Digital uma análise dos novos padrões de comportamento e novos questionamentos morais e éticos na sociedade que surgiram em decorrência do Mundo Digital. A Cultura Digital compreende as relações interdisciplinares da Computação com outras áreas do conhecimento, buscando promover a fluência no uso do conhecimento computacional para expressão de soluções e manifestações culturais de forma contextualizada e crítica.",
+      "pagina": 5
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 2 Computação e as Competências Gerais da SBC Computação contribui no desenvolvimento das competências gerais da BNCC:",
+      "pagina": 6
+    },
+    {
+      "texto": "A compreensão do Mundo Digital é essencial para entender o mundo do século XXI O Pensamento Computacional desenvolve a capacidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas (e soluções) de forma metódica e sistemática, através da construção de algoritmos.",
+      "pagina": 6
+    },
+    {
+      "texto": "Tecnologias digitais podem ser usadas para analisar e criar no mundo- artístico e cultural Computação desenvolve uma maior compreensão do conceito de linguagem e do seu uso, e prove fluência em linguagens computacionais (usadas para representar informações e processos) Computação prove fluência digital e a habilidade de criar soluções para diversos tipos de problemas (do mundo do trabalho e cotidiano) com o auxílio de computadores O domínio do conhecimento sobre o mundo, que é hoje imensamente influenciado pelas tecnologias digitais, e a capacidade de criar e analisar criticamente soluções neste contexto dá liberdade, autonomia e consciência crítica, além de preparar o aluno para o mundo do trabalho O Pensamento Computacional desenvolve a habilidade de construir argumentações consistentes e sólidas A construção e análise de algoritmos instiga questões sobre como o ser humano pensa e constrói soluções O desenvolvimento de soluções algorítmicas é um processo que permite exercitar a cooperação de forma sistemática A Computação, através do desenvolvimento do Pensamento Computacional, domínio do Mundo Digital e compreensão da Cultura Digital, dá ao aluno condições de agir com consciência e cidadania no mundo do século XXI Computação contribui na formação do jovem do século XXI pois: Permite a compreensão plena do mundo, cada vez mais conectado e imerso em tecnologias digitais essencialmente; Aumenta a capacidade de aprendizagem e resolução de problemas dos alunos, provendo novas formas de expressão e pensamento; Serve como ferramenta de apoio ao aprendizado das demais disciplinas.",
+      "pagina": 6
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 3 Competências específicas da Computação A seguir serão apresentadas a competências específicas desenvolvidas pela Computação, bem como os objetos de conhecimento e habilidades a serem trabalhados ao longo do Ensino Fundamental e Médio nos três eixos da Computação para que estas competências sejam atingidas (seções 5 e 6). A descrição do eixo de Cultura Digital é baseada na proposta apresentada pelo CIEB (Centro de Inovação para a Educação Brasileira).",
+      "pagina": 7
+    },
+    {
+      "texto": "O ensino de Computação desenvolve uma série de competências nos alunos de forma única e complementar à formação dada pelas outras áreas do conhecimento. Essas competências estão sumarizadas nas 5 competências específicas listadas a seguir (o código entre parênteses estabelece a relação das competências específicas com as competências gerais da BNCC): 1.",
+      "pagina": 7
+    },
+    {
+      "texto": "Compreensão e transformação do mundo (C1, C2, C6, C7, C10): Aplicar conhecimentos de Computação para compreender o mundo e ser um agente ativo e consciente de transformação do mundo digital, capaz de entender e analisar criticamente os impactos sociais, culturais, econômicos, científicos, tecnológicos, legais e éticos destas transformações. 2.",
+      "pagina": 7
+    },
+    {
+      "texto": "Aplicação de Computação em diversas áreas (C2, C3, C6, C7, C8, C10): Compreender a influência dos fundamentos da Computação nas diferentes áreas do conhecimento, incluindo o mundo artístico-cultural, sendo capaz de criar e utilizar ferramentas computacionais em diversos contextos, reconhecendo que a Computação contribui no desenvolvimento do raciocínio lógico, do pensamento computacional, do espírito de investigação, da criatividade, e da capacidade de produzir argumentação coerente. 3.",
+      "pagina": 7
+    },
+    {
+      "texto": "Formulação, execução e análise do processo de resolução de problemas (C2, C4, C5, C6, C9, C10): Utilizar conceitos, técnicas e ferramentas computacionais para identificar e analisar problemas cotidianos e de todas áreas de conhecimento, modelá-los e resolvê-los, individual e/ou cooperativamente, usando representações e linguagens adequadas para descrever processos (algoritmos) e informação (dados), validando estratégias e resultados. 4.",
+      "pagina": 7
+    },
+    {
+      "texto": "Desenvolvimento de projetos envolvendo Computação (C2, C5, C6, C7, C9, C10):",
+      "pagina": 7
+    },
+    {
+      "texto": "Desenvolver e/ou discutir projetos de diversas naturezas envolvendo Computação, com base em princípios éticos, democráticos, sustentáveis e solidários, valorizando a diversidade de opiniões de indivíduos e de grupos sociais, sem preconceitos de qualquer natureza. 5.",
+      "pagina": 7
+    },
+    {
+      "texto": "Compreensão dos princípios da ciência da Computação (C1, C2, C4, C5): Compreender os fundamentos da Computação e reconhecê-la como uma ciência que contribui para explicar e transformar o mundo, solucionar problemas de diversas áreas do conhecimento e para alicerçar descobertas, com impactos no mundo cotidiano e do trabalho.",
+      "pagina": 7
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 4 Computação no Ensino Fundamental As figuras 2, 3 e 4 ilustram os principais conceitos a serem trabalhados no Ensino Fundamental.",
+      "pagina": 8
+    },
+    {
+      "texto": "Figura 2: Conceitos do eixo Pensamento Computacional no Ensino Fundamental Figura 3: Conceitos do eixo Mundo Digital no Ensino Fundamental",
+      "pagina": 8
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Figura 4: Conceitos do eixo Cultura Digital no Ensino Fundamental Nos Anos Iniciais devem ser trabalhados conceitos relacionados às estruturas abstratas necessárias à resolução de problemas no eixo de Pensamento Computacional. É importante que o aluno tome consciência do processo de resolução de problemas, e compreenda a importância de ser capaz de descrever a solução em forma de algoritmo. Nesta etapa, os alunos já são expostos à noção básica de algoritmos quando, por exemplo, ensinam-se as operações aritméticas básicas. A expectativa é que isso seja enfatizado, de forma que os estudantes entendam noção básica de algoritmo, sendo capazes de, a partir de conjuntos de instruções diversos, seguir e elaborar algoritmos para solucionar diferentes tipos de problemas, usando linguagem natural e linguagens pictográficas. Devem dominar as principais operações para a construção de algoritmos (composição sequencial, seleção e repetição) e ter noções de técnicas de decomposição de problemas. Além disso, espera-se que os estudantes reconheçam a necessidade de classificar objetos em conjuntos, cujos elementos podem ser atômicos (como números, palavras, valores-verdade) ou estruturados (como registros, listas e grafos), sendo capazes de trabalhar com elementos destes conjuntos e identificar situações concretas nas quais dados atômicos ou estruturados possam ser utilizados. O essencial, nesta etapa, é que os conceitos sejam dominados através de experiências concretas, que permitirão ao estudante construir modelos mentais para as abstrações computacionais, que serão formalizadas na próxima etapa do ensino fundamental (Anos Finais) com o uso de linguagens de programação. Ou seja, é muito importante que o Pensamento Computacional seja trabalhado (pelo menos inicialmente) de forma desplugada (sem o uso de computadores) nos Anos Iniciais.",
+      "pagina": 9
+    },
+    {
+      "texto": "No eixo de Mundo Digital, inicia-se trabalhando o conceito de informação: o que é, sua importância, porque descrevê-la, protegê-la, comunicá-la. Naturalmente, surge a noção de código e também de máquina, que pode ser usada para armazenar e processar informação (computador), bem como a relação entre a máquina e o algoritmo (software e hardware).",
+      "pagina": 9
+    },
+    {
+      "texto": "No eixo de Cultura Digital a ênfase nos Anos Iniciais é na fluência nas principais tecnologias digitais, visando uma utilização consciente e crítica.",
+      "pagina": 9
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Nos Anos Finais, espera-se que os estudantes sejam capazes de selecionar e utilizar modelos e representações adequadas para descrever informações e processos, bem como dominem as principais técnicas para construir soluções algorítmicas. Além disso, devem conseguir descrever as soluções, de forma que máquinas possam executar partes ou todo o algoritmo proposto; construir modelos computacionais de sistemas complexos e analisar criticamente os problemas e suas soluções. Nesta etapa, deve ser adquirido também um entendimento de como informações podem ser armazenadas, protegidas e transmitidas, e da estrutura e funcionamento da internet, permitindo que o aluno tenha plena compreensão do Mundo Digital, suas potencialidades e seus limites. Com relação à Cultura Digital, trabalha-se uma visão mais global, envolvendo redes sociais e os impactos das tecnologias digitais em diversas áreas.",
+      "pagina": 10
+    },
+    {
+      "texto": "A seguir são listados os objetos de conhecimento e habilidades por ano do Ensino Fundamental, sendo que objetos e habilidades relacionadas mais fortemente ao Pensamento Computacional estão destacadas em verde, ao Mundo Digital em azul e à Cultura Digital em laranja. O apêndice A traz diagramas contendo todos os objetos de conhecimento de Pensamento Computacional e Mundo Digital, ilustrando as dependências entre eles (os números no canto inferior direito são se referem à seriação aconselhada).",
+      "pagina": 10
+    },
+    {
+      "texto": "COMPUTAÇÃO: ENSINO FUNDAMENTAL ANO Objeto de conhecimento Habilidades 1 Organização de objetos Organizar objetos concretos de maneira lógica utilizando diferentes características (por exemplo: cor, tamanho, forma, texturas, detalhes, etc.).",
+      "pagina": 10
+    },
+    {
+      "texto": "Algoritmos: definição Compreender a necessidade de algoritmos para resolver problemas Compreender a definição de algoritmos resolvendo problemas passo-a-passo (exemplos: construção de origamis, orientação espacial, execução de uma receita, etc.).",
+      "pagina": 10
+    },
+    {
+      "texto": "Máquina: Terminologia e uso de dispositivos computacionais Nomear dispositivos capazes de computar (desktop, notebook, tablet, smartphone, drone, etc.) e identificar e descrever a função de dispositivos de entrada e saída (monitor, teclado, mouse, impressora, microfone, etc.).",
+      "pagina": 10
+    },
+    {
+      "texto": "Informação Compreender o conceito de informação, a importância da descrição da informação (usando linguagem oral, textos, imagens, sons, números, etc.) e a necessidade de armazená-la e transmiti-la para a comunicação.",
+      "pagina": 10
+    },
+    {
+      "texto": "Códigos Representar informação usando símbolos ou códigos escolhidos Proteção de informação Compreender a necessidade de proteção da informação. Por exemplo, usar senhas adequadas para proteger aparelhos e informações de acessos indevidos Introdução à tecnologia digital Reconhecer e explorar tecnologias digitais Reconhecer a relação entre idades e usos em meio digital Identificar a presença de tecnologia digital no cotidiano",
+      "pagina": 10
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 2 Identificação de padrões de comportamento Identificar padrões de comportamento (exemplos: jogar jogos, rotinas do dia-a-dia, etc.).",
+      "pagina": 11
+    },
+    {
+      "texto": "Algoritmos: construção e simulação Definir e simular algoritmos (descritos em linguagem natural ou pictográfica) construídos como sequências e repetições simples de um conjunto de instruções básicas (avance, vire à direita, vire à esquerda, etc.).",
+      "pagina": 11
+    },
+    {
+      "texto": "Elaborar e escrever histórias a partir de um conjunto de cenas.",
+      "pagina": 11
+    },
+    {
+      "texto": "Modelos de objetos Criar e comparar modelos de objetos identificando padrões e atributos essenciais (exemplos: veículos terrestres, construções habitacionais, etc.).",
+      "pagina": 11
+    },
+    {
+      "texto": "Noção de instrução de máquina Compreender que máquinas executam instruções, criar diferentes conjuntos de instruções e construir programas simples com elas.",
+      "pagina": 11
+    },
+    {
+      "texto": "Hardware e software Diferenciar hardware (componentes físicos) e software (programas que fornecem as instruções para o hardware) Uso básico de tecnologia digital Interagir com as diferentes mídias Produzir textos curtos em meio digital Realizar pesquisas na internet Impacto de tecnologia digital no dia a dia Reconhecer e analisar a apropriação da tecnologia digital pela família e pelos alunos no dia a dia Analisar e refletir sobre as trilhas de impressões no meio digital",
+      "pagina": 11
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 3 Definição de problemas Identificar problemas cuja solução é um processo (algoritmo), definindo- os através de suas entradas (recursos/insumos) e saídas esperadas.",
+      "pagina": 12
+    },
+    {
+      "texto": "Introdução à lógica Compreender o conjunto dos valores verdade e as operações básicas sobre eles (operações lógicas).",
+      "pagina": 12
+    },
+    {
+      "texto": "Algoritmos: seleção Definir e executar algoritmos que incluam sequências, repetições simples (iteração definida) e seleções (descritos em linguagem natural e/ou pictográfica) para realizar uma tarefa, de forma independente e em colaboração.",
+      "pagina": 12
+    },
+    {
+      "texto": "Dado Relacionar o conceito de informação com o de dado (dado é a informação codificada e processada/armazenada em um dispositivo) Algoritmos: entradas e saídas Reconhecer o espaço de dados de um indivíduo, organização ou estado e que este espaço pode estar em diversas mídias Compreender que existem formatos específicos para armazenar diferentes tipos de informação (textos, figuras, sons, números, etc.) Interface Compreender que para se comunicar e realizar tarefas o computador utiliza uma interface física: o computador reage a estímulos do mundo exterior enviados através de seus dispositivos de entrada (teclado, mouse, microfone, sensores, antena, etc.) , e comunica as reações através de dispositivos de saída (monitor, alto-falante, antena, etc.) Fluência digital Investigar e experimentar novos formatos de leitura da realidade Pesquisar, acessar e reter informações de diferentes fontes digitais para autoria de documentos Usar software educacional Uso crítico da internet Apresentar julgamento apropriado quando da navegação em sites diversos Rastro digital Compreender trilhas de impressões em meio digital deixadas pelas pessoas em jogos on-line, bem como a presença de pessoas de várias idades no mesmo ambiente Tecnologia digital, economia e sociedade Relacionar o uso da tecnologia digital com as questões socioeconômicas locais e regionais",
+      "pagina": 12
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 4 Estruturas de dados estáticas: registros e matrizes Compreender que a organização dos dados facilita a sua manipulação (exemplo: verificar que um baralho está completo dividindo por naipes, e seguida ordenando) Dominar o conceito de estruturas de dados estáticos homogêneos (matrizes) através da realização de experiências com materiais concretos (por exemplo, jogo da senha para matrizes unidimensionais, batalha naval, etc) Dominar o conceito de estruturas de dados estáticos heterogêneos (registros) através da realização de experiências com materiais concretos Utilizar uma representação visual para as abstrações computacionais estáticas (registros e matrizes).",
+      "pagina": 13
+    },
+    {
+      "texto": "Algoritmos: repetição Definir e executar algoritmos que incluem sequências e repetições (iterações definidas e indefinidas, simples e aninhadas) para realizar uma tarefa, de forma independente e em colaboração.",
+      "pagina": 13
+    },
+    {
+      "texto": "Simular, analisar e depurar algoritmos incluindo sequências, seleções e repetições, e também algoritmos utilizando estruturas de dados estáticas Codificação em formato digital Compreender que para guardar, manipular e transmitir dados precisamos codifica-los de alguma forma que seja compreendida pela máquina (formato digital) Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB, etc.). Em particular, na representação de números discutir representação decimal, binária, etc.",
+      "pagina": 13
+    },
+    {
+      "texto": "Linguagens midiáticas e tecnologias digitais Expressar-se usando tecnologias digitais Agregar diferentes conhecimentos para explorar linguagens midiáticas Usar recursos midiáticos para agrupar informações para apresentações Usar simuladores educacionais Direitos autorais de dados online Reconhecer e refletir sobre direitos autorais Demonstrar postura apropriada nas atividades de coleta, transferência, guarda e uso de dados, considerando suas fontes",
+      "pagina": 13
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 5 Estruturas de dados dinâmicas: listas e grafos Entender o que são estruturas dinâmicas e sua utilidade para representar informação.",
+      "pagina": 14
+    },
+    {
+      "texto": "Conhecer o conceito de listas, sendo capaz de identificar instâncias do mundo real e digital que possam ser representadas por listas (por exemplo, lista de chamada, fila, pilha de cartas, lista de supermercado, etc.) Conhecer o conceito de grafo, sendo capaz de identificar instâncias do mundo real e digital que possam ser representadas por grafos (por exemplo, redes sociais, mapas, etc.) Utilizar uma representação visual para as abstrações computacionais dinâmicas (listas e grafos).",
+      "pagina": 14
+    },
+    {
+      "texto": "Algoritmos sobre estruturas dinâmicas Executar e analisar algoritmos simples usando listas / grafos, de forma independente e em colaboração.",
+      "pagina": 14
+    },
+    {
+      "texto": "Identificar, compreender e comparar diferentes métodos (algoritmos) de busca de dados em listas (sequencial, binária, hashing, etc.).",
+      "pagina": 14
+    },
+    {
+      "texto": "Arquitetura básica de computadores Identificar os componentes básicos de um computador (dispositivos de entrada/ saída, processadores e armazenamento).",
+      "pagina": 14
+    },
+    {
+      "texto": "Sistema operacional Compreender relação entre hardware e software (camadas/sistema operacional) em um nível elementar.",
+      "pagina": 14
+    },
+    {
+      "texto": "Mídias digitais Utilizar compactadores de arquivos Integrar os diferentes formatos de arquivos Experimentar as mídias digitais e suas convergências Informação online e direitos autorais Distinguir informações verdadeiras das falsas, conteúdos bons dos prejudiciais, e conteúdos confiáveis Citar fonte e materiais utilizados, levando em consideração o respeito à privacidade dos usuários e as restrições pertinentes Proteção da informação em jogos online Reconhecer e refletir sobre os jogos on-line e as informações do usuário Impactos da tecnologia digital Expressar-se critica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade",
+      "pagina": 14
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 6 Tipos de dados Reconhecer que entradas e saídas de algoritmos são elementos de tipos de dados.",
+      "pagina": 15
+    },
+    {
+      "texto": "Formalizar o conceito de tipos de dados como conjuntos.",
+      "pagina": 15
+    },
+    {
+      "texto": "Introdução à generalização Identificar que um algoritmo pode ser uma solução genérica para um conjunto de instâncias de um mesmo problema, e usar variáveis (no sentido de parâmetros) para descrever soluções genéricas Compreender a definição de problema como uma relação entre entrada (insumos) e saída (resultado), identificando seus tipos (tipos de dados, por exemplo, número, string, etc.).",
+      "pagina": 15
+    },
+    {
+      "texto": "Linguagem visual de programação Utilizar uma linguagem visual para descrever soluções de problemas envolvendo instruções básicas de processos (composição, repetição e seleção).",
+      "pagina": 15
+    },
+    {
+      "texto": "Relacionar programas descritos em linguagem visual com textos precisos em português Técnicas de solução de problemas: decomposição Identificar problemas de diversas áreas do conhecimento e criar soluções usando a técnica de decomposição de problemas.",
+      "pagina": 15
+    },
+    {
+      "texto": "Fundamentos de transmissão de dados Entender o processo de transmissão de dados: a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+      "pagina": 15
+    },
+    {
+      "texto": "Proteção de dados Atribuir propriedade (direito sobre) aos dados de uma pessoa ou organização.",
+      "pagina": 15
+    },
+    {
+      "texto": "Identificar problemas de segurança de dados do mundo real e sugerir formas de proteger dados (criar senhas fortes, não compartilhar senhas, fazer backup, usar antivírus, etc.).",
+      "pagina": 15
+    },
+    {
+      "texto": "Segurança em ambientes virtuais Aplicar protocolos de segurança e privacidade em ambientes virtuais Tecnologia digital e sociedade Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções Tecnologia digital e sustentabilidade Analisar as tomadas de decisão sobre usos da tecnologia digital e suas relações com a sustentabilidade Comparar sistemas de informação do passado e do presente, considerando questões de sustentabilidade econômica, política e social",
+      "pagina": 15
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 7 Automatização Compreender que automatizar a solução de um problema envolve tanto a definição de dados (representações abstratas da realidade) quanto do processo (algoritmo) Estruturas de dados: registros e vetores Formalizar o conceito de registros e vetores Técnicas de solução de problemas: decomposição e reuso Criar soluções para problemas envolvendo a definição de dados usando estruturas estáticas (registros e vetores) e algoritmos e sua implementação em uma linguagem de programação Programação: decomposição e reuso Identificar subproblemas comuns em problemas maiores e a possibilidade do reuso de soluções.",
+      "pagina": 16
+    },
+    {
+      "texto": "Colaborar e cooperar na proposta e execução de soluções algorítmicas utilizando decomposição e reuso no processo de solução.",
+      "pagina": 16
+    },
+    {
+      "texto": "Depurar a solução de um problema para detectar possíveis erros e garantir sua corretude.",
+      "pagina": 16
+    },
+    {
+      "texto": "Internet Entender como é a estrutura e funcionamento da internet Compreender a passagem da sociedade de um modelo de poucas fontes de informação acreditadas para um modelo de fragmentação de fontes e desconhecimento de sua qualidade Analisar fontes de informação e a existência de conteúdos inadequados Armazenamento de dados Compreender e utilizar diferentes formas de armazenamento de dados (sistemas de arquivos, nuvens de dados, etc.).",
+      "pagina": 16
+    },
+    {
+      "texto": "Documentação de projetos Documentar e sequenciar tarefas em uma atividade ou projeto Cyberbyllying Demonstrar empatia sobre opiniões divergentes na web Identificar e refletir sobre cyberbullying, propondo ações Impactos da tecnologia digital Compreender os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade de forma mais ampla Analisar o papel da industrialização e dos avanços da tecnologia digital e sua relação com as mudanças na sociedade",
+      "pagina": 16
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 8 Técnicas de solução de problemas: recursão Identificar o conceito de recursão em diversas áreas (Artes, Literatura, Matemática, etc.).",
+      "pagina": 17
+    },
+    {
+      "texto": "Empregar o conceito de recursão, para a compreensão mais profunda da técnica de solução através de decomposição de problemas.",
+      "pagina": 17
+    },
+    {
+      "texto": "Estruturas de dados: listas Formalizar o conceito de listas de tamanho indeterminado (listas dinâmicas).",
+      "pagina": 17
+    },
+    {
+      "texto": "Conhecer algoritmos de manipulação e busca sobre listas.",
+      "pagina": 17
+    },
+    {
+      "texto": "Programação: listas e recursão Identificar problemas de diversas áreas e criar soluções, de forma individual e colaborativa, usando algoritmos sobre listas e recursão Paralelismo Compreender o conceito de paralelismo, identificando partes de uma tarefa que podem ser realizadas concomitantemente.",
+      "pagina": 17
+    },
+    {
+      "texto": "Fundamentos de sistemas distribuídos Compreender os conceitos de armazenamento e processamento distribuídos, e suas vantagens.",
+      "pagina": 17
+    },
+    {
+      "texto": "Compreender o papel de protocolos para a transmissão de dados Redes sociais e segurança da informação Compartilhar informações por meio de redes sociais Compreender e analisar a vivencia em redes sociais, em especial sobre as responsabilidades e os perigos dos ambientes virtuais Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados Reconhecer e analisar os problemas de segurança de dados pessoais Analisar e refletir sobre as políticas de termos de uso das redes sociais",
+      "pagina": 17
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica ANO Objeto de conhecimento Habilidades 9 Estruturas de dados: grafos e árvores Formalizar os conceitos de grafo e árvore.",
+      "pagina": 18
+    },
+    {
+      "texto": "Conhecer algoritmos básicos de tratamento das estruturas árvores e grafos.",
+      "pagina": 18
+    },
+    {
+      "texto": "Técnica de construção de algoritmos:",
+      "pagina": 18
+    },
+    {
+      "texto": "Generalização Identificar problemas similares e a possibilidade do reuso de soluções, usando a técnica de generalização.",
+      "pagina": 18
+    },
+    {
+      "texto": "Programação: generalização e grafos Construir soluções de problemas usando a técnica de generalização, permitindo o reuso de soluções de problemas em outros contextos, aperfeiçoando e articulando saberes escolares.",
+      "pagina": 18
+    },
+    {
+      "texto": "Identificar problemas de diversas áreas do conhecimento e criar soluções, de forma individual e colaborativa, através de programas de computador usando grafos e árvores.",
+      "pagina": 18
+    },
+    {
+      "texto": "Segurança digital Compreender o funcionamento de vírus, malware e outros ataques a dados Analisar técnicas de criptografia para transmissão de dados segura Documentação Criar documentação, conteúdo e propaganda de uma solução digital Uso crítico de tecnologias digitais Avaliar a escolha e o uso de tecnologias digitais pelo ser humano em seu cotidiano",
+      "pagina": 18
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 4 Computação no Ensino Médio A figura 5 ilustra os principais conceitos a serem trabalhados no Ensino Médio nos eixos Pensamento Computacional, Mundo Digital e Cultura Digital.",
+      "pagina": 19
+    },
+    {
+      "texto": "Figura 5: Conceitos de Computação no Ensino Médio No Ensino Médio a ênfase é na elaboração de projetos aplicando as diversas habilidades e conhecimentos adquiridos na etapa do Ensino Fundamental, e no desenvolvimento de habilidades relacionadas à análise crítica e argumentação, sob diferentes aspectos.",
+      "pagina": 19
+    },
+    {
+      "texto": "No eixo de Pensamento Computacional, são trabalhadas a técnica de transformação de problemas e o paradigma de metaprogramação (algoritmos que recebem outros algoritmos como entrada), que são conceitos necessários para a compreensão dos limites da computação, ou seja, dos limites da formalização/racionalização. Este entendimento, aliado aos fundamentos de inteligência artificial e robótica, provê a base necessária para uma discussão mais consubstanciada sobre o que é o Homem e o que é a Máquina, quais as similaridades e diferenças, não somente do ponto de vista físico, mas do ponto de vista filosófico, entendendo também as grandes questões éticas envolvidas na inteligência artificial.",
+      "pagina": 19
+    },
+    {
+      "texto": "Outro conceito fundamental é a análise de algoritmos, tanto do ponto de vista de correção quanto de eficiência.",
+      "pagina": 19
+    },
+    {
+      "texto": "Ao final do Ensino Médio, o aluno deve ter a habilidade de argumentar sobre algoritmos (processos), tendo meios de justificar porque a sua solução resolve de fato o problema, bem como analisar os tipos e quantidade de recursos necessários à sua execução. Além destas habilidades, o aluno deverá dominar a técnica de refinamento, compreendendo que a solução",
+      "pagina": 19
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica de problemas complexos normalmente exige não somente decomposição, mas também que se utilize várias camadas de abstração diferentes.",
+      "pagina": 20
+    },
+    {
+      "texto": "No que diz respeito à inteligência artificial, é importante que o estudante entenda o que fazem suas principais linhas, a relação da inteligência artificial com o pensamento computacional, como ela pode resolver problemas reais utilizando aprendizado de máquina para encontrar padrões em conjuntos de dados e seu uso responsável, respeitando limites legais e éticos, e gerando soluções transparentes, justas e não preconceituosas.",
+      "pagina": 20
+    },
+    {
+      "texto": "Complementarmente, no eixo de Mundo Digital também devem ser trabalhadas habilidades que envolvem análise: análise crítica de redes e de segurança digital, envolvendo tanto aspectos tecnológicos quanto suas implicações na sociedade.",
+      "pagina": 20
+    },
+    {
+      "texto": "No Ensino Médio é importante, também, dominar conceitos básicos de Ciência de Dados tendo em vista a utilização de dados massivos na resolução de problemas. Para ser capaz de extrair, agrupar, processar e analisar dados, o aluno necessita ter uma base matemática e estatística, bem como conhecimento de estruturas de dados e algoritmos (habilidades trabalhadas no Ensino Fundamental). Ao concluir o Ensino Médio, o estudante deve ser capaz de examinar uma grande quantidade de dados para entendê-los, descobrir padrões, analisar situações, fazer predições, utilizando a informação extraída para tomar decisões do forma fundamentada e crítica.",
+      "pagina": 20
+    },
+    {
+      "texto": "Deve-se ter sempre em mente que a compreensão dos conceitos precisa estar vinculada a discussões sobre seus impactos sociais, econômicos e científicos. Em especial, Ciência de Dados, Inteligência Artificial e Automação suscitam diversas questões que envolvem costumes, ética, direito, responsabilidade, entre outros aspectos, que só podem ser tratadas de forma madura, racional e consciente por estudantes do Ensino Médio que tenham uma fundamentação científica adequada em Computação.",
+      "pagina": 20
+    },
+    {
+      "texto": "Finalmente, a elaboração de projetos de modelagem computacional envolvendo conceitos de Pensamento Computacional, Mundo Digital e Cultura Digital é de extrema relevância para os alunos trabalharem colaborativamente na busca de soluções para problemas de diversas áreas, compreendendo como a Computação pode ser usada tanto no seu dia a dia quanto no mundo do trabalho, provendo ferramentas e habilidades essenciais.",
+      "pagina": 20
+    },
+    {
+      "texto": "A seguir, a descrição dos objetos de conhecimento e habilidades da Computação no Ensino Médio.",
+      "pagina": 20
+    },
+    {
+      "texto": "COMPUTAÇÃO: ENSINO MÉDIO Objeto de conhecimento Habilidades Técnica de solução de problemas: Transformação Compreender a técnica de solução de problemas através de transformações: comparar problemas para reusar soluções.",
+      "pagina": 20
+    },
+    {
+      "texto": "Técnica de solução de problemas: Refinamento Compreender a técnica de solução de problemas através de refinamentos: utiliza diversos níveis de abstração no processo de construção de soluções.",
+      "pagina": 20
+    },
+    {
+      "texto": "Avaliação de algoritmos e programas Analisar algoritmos quanto ao seu custo (tempo, espaço, energia, …) para justificar a adequação das soluções a requisitos e escolhas entre diferentes soluções.",
+      "pagina": 20
+    },
+    {
+      "texto": "Argumentar sobre a correção de algoritmos, permitindo justificar que uma solução de fato resolve o problema proposto",
+      "pagina": 20
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Avaliar programas e projetos feitos por outras equipes com relação a qualidade, usabilidade, facilidade de leitura, questões éticas, etc.",
+      "pagina": 21
+    },
+    {
+      "texto": "Metaprogramação Reconhecer o conceito de metaprogramação como uma forma de generalização, que permite que algoritmos tenham como entrada (ou saída) outros algoritmos.",
+      "pagina": 21
+    },
+    {
+      "texto": "Limites da computação Entender os limites da Computação para diferenciar o que pode ou não ser mecanizado, buscando uma compreensão mais ampla dos processos mentais envolvidos na resolução de problemas.",
+      "pagina": 21
+    },
+    {
+      "texto": "Modelagem computacional Inteligência artificial e robótica Análise de redes Avaliar a escalabilidade e confiabilidade de redes, compreendendo as noções dos diferentes equipamentos envolvidos (como roteadores, switchs, etc) bem como de topologia, endereçamento, latência, banda, carga, delay Análise de segurança digital Comparar medidas de segurança digital, considerando o equilíbrio entre usabilidade e segurança Ciência de Dados Entender o conceito de Ciência de Dados e utilizar ferramentas para representar, manipular , analisar e visualizar dados massivos Desenvolvimento de sites Criar e manter sites e blogs com conteúdo individual e/ou coletivo Animação digital Produzir animações digitais Impactos da tecnologia digital Analisar e refletir sobre o tempo de vivencia on-line, em jogos, em redes sociais, dentre outros Reconhecer a influência dos avanços tecnológicos no surgimento de novas atividades profissionais Direito digital Compreender o direito digital e suas relações com o cotidiano do universo digital Gerência de projetos Gerenciar projetos digitais colaborativos usando computação em nuvem Elaboração de projetos Criar modelos computacionais para simular e fazer predições sobre diferentes fenômenos e processos.",
+      "pagina": 21
+    },
+    {
+      "texto": "Compreender os fundamentos da inteligência artificial e da robótica e como elas podem ser utilizadas para resolver problemas reais.",
+      "pagina": 21
+    },
+    {
+      "texto": "Elaborar e executar projetos integrados às áreas de conhecimento curriculares, em equipes, solucionando problemas, usando computadores, celulares, e outras máquinas processadoras de instruções.",
+      "pagina": 21
+    },
+    {
+      "texto": "Criar e manter sites e blogs com conteúdo individual e/ou coletivo Produzir animações digitais",
+      "pagina": 21
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica 5 Considerações Finais A Computação está cada vez mais presente na vida de todos. Os dispositivos capazes de computar estão hoje não somente na mesa do escritório ou nos laboratórios de escolas, mas no nosso bolso, na cozinha, no automóvel, na roupa, … É muito importante que as pessoas tenham a capacidade de usar todo esse poder computacional para resolver seus problemas, tanto do cotidiano quanto do trabalho.",
+      "pagina": 22
+    },
+    {
+      "texto": "Computação é uma Ciência que estuda as formas de representação da informação e o processo de resolução de problemas em si, e por isso ela é transversal às outras ciências, pode ser usada na Matemática, Física, Biologia, Filosofia, História, etc. A área da Computação provê habilidades e conhecimento para tornar as pessoas muito mais capazes de criar e inovar em todas as áreas. Serão melhores médicos, advogados, filósofos, professores, serão mais capazes de executar as tarefas do cotidiano. Terão uma capacidade muito maior de criar soluções, inclusive tecnológicas, usando os recursos computacionais disponíveis, quando possível.",
+      "pagina": 22
+    },
+    {
+      "texto": "Computação é transversal porque Computação é essencial!",
+      "pagina": 22
+    },
+    {
+      "texto": "Porém, Computação precisa ser ensinada com intencionalidade, ou seja, precisamos dizer aos professores quais habilidades precisam ser trabalhadas, e como estas habilidades contribuem na formação do aluno. Ou seja, é essencial que se definam diretrizes para o ensino de Computação na Educação Básica para guiar as redes escolares. Quanto à implementação, professores licenciados em várias áreas, com a devida capacitação em Computação, poderiam ministrar os objetos de conhecimento da área. Portanto, o ideal seria que Computação não fosse inserida dentro de outras áreas da BNCC, e sim como objetos de conhecimento e habilidades que devem ser trabalhados, mas sem especificar em qual(quais) disciplina(s). Isso daria às redes de ensino a total flexibilidade para construírem seus currículos da forma que acharem mais adequada, levando em consideração seus projetos pedagógicos e recursos, tornado, portanto, a implementação da Computação na Educação Básica mais fácil.",
+      "pagina": 22
+    },
+    {
+      "texto": "Para que o Brasil seja um protagonista no cenário mundial e sua população atinja os melhores patamares de qualidade de vida, diminuindo as desigualdades sociais e econômicas, o caminho é através da Educação, do desenvolvimento da capacidade criativa e de inovação.",
+      "pagina": 22
+    },
+    {
+      "texto": "No século XXI, Computação é fundamental neste processo e é por isso que é essencial que Computação seja ensinada para todos os alunos da Educação Básica, tanto do Ensino Fundamental quanto no Ensino Médio.",
+      "pagina": 22
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Apêndice A Objetos de Conhecimento “Pensamento Computacional” e “Mundo Digital”",
+      "pagina": 23
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Pensamento Computacional",
+      "pagina": 24
+    },
+    {
+      "texto": "Diretrizes da SBC para ensino de Computação na Educação Básica Mundo Digital",
+      "pagina": 25
+    }
+  ]
+}

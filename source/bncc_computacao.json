@@ -1,0 +1,2071 @@
+{
+  "documento": "BNCC",
+  "paragrafos": [
+    {
+      "texto": "A ETAPA DA EDUCAÇÃO INFANTIL 1 EDUCAÇÃO INFANTIL 2 A ETAPA DO ENSINO FUNDAMENTAL 11 1º ANO 12 2º ANO 16 3º ANO 18 4º ANO 24 5º ANO 28 POR ETAPA - 1º ao 5º ANO 34 6º ANO 38 7º ANO 42 8º ANO 48 9º ANO 52 POR ETAPA - 6º ao 9º ANO 56 A ETAPA DO ENSINO MÉDIO 61 ENSINO MÉDIO 62",
+      "pagina": 2
+    },
+    {
+      "texto": "1 A ETAPA DA EDUCAÇÃO INFANTIL PREMISSAS A Computação permite explorar e vivenciar experiências, sempre movidas pela ludicidade por meio da interação com seus pares. Estas experiências se relacionam com diversos dos campos de experiência da Educação Infantil e devem considerar as seguintes premissas. 1.",
+      "pagina": 4
+    },
+    {
+      "texto": "Desenvolver o reconhecimento e a identificação de padrões, construindo conjuntos de objetos com base em diferentes critérios como: quantidade, forma, tamanho, cor e comportamento. 2.",
+      "pagina": 4
+    },
+    {
+      "texto": "Vivenciar e identificar diferentes formas de interação mediadas por artefatos computacionais. 3.",
+      "pagina": 4
+    },
+    {
+      "texto": "Criar e testar algoritmos brincando com objetos do ambiente e com movimentos do corpo de maneira individual ou em grupo. 4.",
+      "pagina": 4
+    },
+    {
+      "texto": "Solucionar problemas decompondo-os em partes menores identificando passos, etapas ou ciclos que se repetem e que podem ser generalizadas ou reutilizadas para outros problemas.",
+      "pagina": 4
+    },
+    {
+      "texto": "2 COMPUTAÇÃO EIXO OBJETIVO DE APRENDIZAGEM PENSAMENTO COMPUTACIONAL (EI03CO01) Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos. (EI03CO02) Expressar as etapas para a realização de uma tarefa de forma clara e ordenada. (EI03CO03) Experienciar a execução de algoritmos brincando com objetos (des)plugados.",
+      "pagina": 5
+    },
+    {
+      "texto": "COMPUTAÇÃO - EDUCAÇÃO INFANTIL",
+      "pagina": 5
+    },
+    {
+      "texto": "EXEMPLOS Computação plugada: 1) Criar padrões de repetição em sequência com formas e cores diferentes: (i) por meio de editor de desenho; (ii) por meio de ferramenta online (Pattern Shapes: https://apps.mathlearningcenter.org/pattern-shapes/). 2) Completar a sequência de figuras de acordo com o padrão estabelecido por meio de jogo online: (i) Shape Pattern (https://www.topmarks.co.uk/ordering-and-sequencing/shape-patterns); (ii) Chicken Dance (https://pbskids.org/peg/games/chicken-dance).",
+      "pagina": 6
+    },
+    {
+      "texto": "Computação desplugada: 1) Perceber, por meio de tarefas de sua rotina, a repetição de movimentos: (i) comer um sanduíche (morder, mastigar, engolir); (ii) respirar (inspirar, expirar). 2) Reconhecer padrão por meio de sons do próprio corpo: (i) Perguntar às crianças se sabem o que é um padrão; (ii) Escolher uma música produzida com sons do corpo; (iii) E, após ouvir, fazer questionamentos como: Alguma coisa nessa música repete? O quê? Qual padrão você conseguiu observar? Você consegue reproduzir? 3) Criar uma sequência a partir de um padrão de cores ou formas semelhantes, indicando a quantidade de repetições por meio de blocos de montar ou outros materiais Computação plugada: 1) Experienciar as etapas de execução de tarefas, discutindo como as tarefas são divididas em etapas a partir de jogos digitais como: (i) Cookie Monsters Foodie Truck (https://pbskids.org/sesame/games/cookie-monsters-foodie-truck/); (ii) Ready Set Grow (https://pbskids.org/sesame/games/ready-set-grow/).",
+      "pagina": 6
+    },
+    {
+      "texto": "Computação desplugada: 1) Expressar as etapas de realização de tarefas diárias por meio de desenhos ou de forma oral; 2) Ordenar uma sequência de imagens que representam as etapas de uma tarefa diária.",
+      "pagina": 6
+    },
+    {
+      "texto": "Exemplo de uma tarefa diária - Hora de dormir: (i) tomar banho, (ii) colocar pijama, (iii) escovar os dentes, (iv) ouvir uma história, (v) dormir.",
+      "pagina": 6
+    },
+    {
+      "texto": "Computação plugada: 1) Experienciar a execução de algoritmos por meio de (i) jogos digitais (e.g. Follow the Code: https://www.mathplayground.com/follow_the_code.html); (ii) brinquedos robóticos (e.g. Rope: http://smartfunbrasil.com/).",
+      "pagina": 6
+    },
+    {
+      "texto": "Computação desplugada: 1) Experienciar a execução de algoritmos por meio de percursos realizados a partir de desenhos no chão (ou maquetes) como, por exemplo: (i) jogos de labirinto; (ii) amarelinha; (iii) sequências de números; (iv) sequências de cores; 2) Experienciar a execução de algoritmos por meio de atividades manuais (e.g. dobraduras, bordado, costura).",
+      "pagina": 6
+    },
+    {
+      "texto": "Exemplo: Executar o seguinte algoritmo Passo (1) - Pegar uma folha de papel sulfite; Passo (2) - Dobrar esta folha ao meio; Passo (3) - Dobrar novamente ao meio; Passo (4) - Dobrar novamente ao meio; Avaliar o resultado refletindo sobre: (a) Quantas vezes pode-se repetir este passo? e (b) Existem formas diferentes de dobrar o papel ao meio? 3 EDUCAÇÃO INFANTIL",
+      "pagina": 6
+    },
+    {
+      "texto": "4 COMPUTAÇÃO EIXO OBJETIVO DE APRENDIZAGEM PENSAMENTO COMPUTACIONAL (EI03CO04) Criar e representar algoritmos para resolver problemas. (EI03CO05) Comparar soluções algorítmicas para resolver um mesmo problema. (EI03CO06) Compreender decisões em dois estados (verdadeiro ou falso).",
+      "pagina": 7
+    },
+    {
+      "texto": "COMPUTAÇÃO - EDUCAÇÃO INFANTIL (CONTINUAÇÃO)",
+      "pagina": 7
+    },
+    {
+      "texto": "EXEMPLOS Computação Plugada: 1) Explorar jogos digitais, puzzles e jogos de programar que permitem representar uma sequência lógica para resolver problemas. Como exemplos de recursos, temos: (i) Jogos de sequência lógica (https://www.smartkids.com.br/jogos-educativos/c/jogos-sequencia-logica); (ii) LightBot (https://lightbot.com/); (iii) Scratch Jr. (https://www.scratchjr.org/).",
+      "pagina": 8
+    },
+    {
+      "texto": "Computação Desplugada: 1) Preparar uma receita (e.g. bolo, sorvete) com as crianças, evidenciando os passos para o preparo (algoritmo). Dialogar com elas sobre a ordem das etapas. Como sugestão de material de apoio pedagógico, temos a \"Minha Fábrica de Comida\" (https://lifes.dc.ufscar.br/computar/minha-fabrica-de-comida/). 2) Criar percursos, de uma origem até um destino, em um tabuleiro (e.g. papel, chão), representando os passos do trajeto. Como sugestão de material de apoio pedagógico, temos o “AlgoCards” (http:// www.computacional.com.br/) e \"Segue o Trilho\" (https://lifes.dc.ufscar.br/computar/segue-o-trilho/).",
+      "pagina": 8
+    },
+    {
+      "texto": "Computação Plugada: 1) Comparar diferentes rotas executadas pelas crianças a partir de um jogo digital de labirinto.",
+      "pagina": 8
+    },
+    {
+      "texto": "Computação Desplugada: 1) Comparar diferentes rotas executadas pelas crianças a partir de um labirinto marcado no chão; 2) Comparar diferentes formas de se realizar tarefas diárias como: (i) escovar os dentes, (ii) tomar banho, (iii) colocar roupa.",
+      "pagina": 8
+    },
+    {
+      "texto": "Computação plugada: 1) Criar um jogo digital a partir de um conjunto de perguntas com base em uma história, personagens ou tema de interesse da turma e avaliar as perguntas respondendo verdadeiro ou falso. Como sugestão de ferramentas para criação da atividade, temos: (i) Wordwall (https://wordwall.net/pt), e (ii) Jamboard (https://jamboard.google.com/).",
+      "pagina": 8
+    },
+    {
+      "texto": "Computação desplugada: 1) Criar um conjunto de perguntas com base em uma história, personagens ou tema de interesse da turma.",
+      "pagina": 8
+    },
+    {
+      "texto": "Cada criança recebe duas cartas, uma verde (verdadeiro) e uma vermelha (falso). Para cada pergunta, a criança apresenta o resultado da sua avaliação e, em conjunto, discutem os erros e acertos. 2) Realizar a brincadeira popular de “morto e vivo” (e suas variações) em que, ao invés de morto e vivo, sejam utilizadas frases passíveis de ser julgadas como verdadeiras (vivo) ou falsas (morto). 3) “Verdadeiro ou Falso” / “Isso no meu mundo” (https://lifes.dc.ufscar.br/computar/verdadeiro-ou-falso/).\" 5 EDUCAÇÃO INFANTIL",
+      "pagina": 8
+    },
+    {
+      "texto": "6 COMPUTAÇÃO EIXO OBJETIVO DE APRENDIZAGEM MUNDO DIGITAL (EI03CO07) Reconhecer dispositivos eletrônicos (e não-eletrônicos), identificando quando estão ligados ou desligados (abertos ou fechados). (EI03CO08) Compreender o conceito de interfaces para comunicação com objetos (des)plugados. (EI03CO09) Identificar dispositivos computacionais e as diferentes formas de interação.",
+      "pagina": 9
+    },
+    {
+      "texto": "COMPUTAÇÃO - EDUCAÇÃO INFANTIL (CONTINUAÇÃO)",
+      "pagina": 9
+    },
+    {
+      "texto": "EXEMPLOS Computação (Des)plugada: 1) Propor atividades de visualização ou exploração de dispositivos eletrônicos (e.g. lanterna, calculadora, televisão, celular, rádio, tablets) de forma a: (i) possibilitar que as crianças possam ligar e desligar os aparelhos, (ii) reconhecer quando estão ligados ou desligados, e (iii) diferenciar dos dispositivos não-eletrônicos. 2) Participar de brincadeiras que demonstrem dois estados (ligado e desligado). Como brincadeiras de exemplo: (i) Seu Mestre Mandou; (ii) Pega-gelo / Pega-congelou; (iii) Estátua.",
+      "pagina": 10
+    },
+    {
+      "texto": "Computação Plugada 1) Reconhecer as diferentes interfaces de aparelhos (e.g. micro-ondas, computador, projetor, controle remoto etc.) e suas partes, diferenciando as formas de comunicar ações. 2) Representar, por meio de editores gráficos (e.g. Paint), as diferentes interfaces de aparelhos e suas partes.",
+      "pagina": 10
+    },
+    {
+      "texto": "Computação Desplugada 1) Brincar de \"telefone sem fio\" (brincadeira popular), dialogando sobre o conceito de interface; 2) Criar desenhos representando diferentes formas de interface dos aparelhos e suas partes (e.g. criar as teclas de um telefone).",
+      "pagina": 10
+    },
+    {
+      "texto": "Computação Plugada: 1) Brincar com dispositivos (e.g. tablets, mesas e telas interativas, computador, dispositivos robóticos, tecnologias assistivas) por meio de jogos educacionais ou situações de aprendizagem, a fim de que as crianças possam verificar as diferentes formas de utilização de cada uma delas, como: (i) toque de tela em tablets, (ii) uso do mouse no computador, (iii) manipulação de um robô, (iv) comando por voz, (v) reconhecimento facial, (vi) reconhecimento de gestos.",
+      "pagina": 10
+    },
+    {
+      "texto": "Computação Desplugada: 1) Simular um jogo de perguntas e respostas ou adivinhação usando imagens que representam as diferentes formas de interação entre os dispositivos; 2) Representar as diferentes formas de interação (e.g. narrativas, storyboards) com dispositivos por meio de atividades manuais (e.g. desenhos, maquetes, colagem, modelagem). 7 EDUCAÇÃO INFANTIL",
+      "pagina": 10
+    },
+    {
+      "texto": "8 COMPUTAÇÃO COMPUTAÇÃO - EDUCAÇÃO INFANTIL (CONTINUAÇÃO) EIXO OBJETIVO DE APRENDIZAGEM CULTURA DIGITAL (EI03CO10) Utilizar tecnologia digital de maneira segura, consciente e respeitosa. (EI03CO11) Adotar hábitos saudáveis de uso de artefatos computacionais, seguindo recomendações de órgãos de saúde competentes.",
+      "pagina": 11
+    },
+    {
+      "texto": "EXEMPLOS Computação plugada: 1) Propor um caça ao tesouro (e.g. escape room) com desafios que retratam situações reais de uso de tecnologia, segurança e ética. É possível criar ambientes como esse gratuitamente pelo Google Forms, Escape Factory ou Genial.ly; 2) Adaptar o caça ao tesouro para ser jogado de forma cooperativa ou competitiva, individual ou em grupo, podendo ser online, híbrido ou presencial. 3) Produzir um portfólio com dicas para manter-se seguro ao assistir vídeos, jogar online, registrar vídeos e fotos e compartilhar informações na internet. O portfólio deve ser produzido pelas crianças e pode incluir vídeos, imagens, desenhos e escrita espontânea. Como opções para produzir um portfólio online, tem-se: Book Creator, Flipgrid, Canva, entre outros.",
+      "pagina": 12
+    },
+    {
+      "texto": "Computação desplugada: 1) Propor um caça ao tesouro onde as pistas são situações reais de uso de tecnologia, segurança e ética. Para avançar para a próxima pista, as crianças devem demonstrar ou oralizar o que fariam em cada situação. 2) Produzir um portfólio físico a partir da mesma realidade apresentada no exemplo plugado.",
+      "pagina": 12
+    },
+    {
+      "texto": "Situações de exemplo (caça ao tesouro): (i) você está jogando e aparece uma propaganda que deixa você com medo. O que você deve fazer? (ii) Você está participando de uma interação na internet. Alguém que você não conhece pergunta onde você mora. Você conta? (iii) Todo jogo pode ser jogado por crianças da sua idade? Como você descobre se ele será legal ou não?",
+      "pagina": 12
+    },
+    {
+      "texto": "Computação plugada: 1) Compreender a importância do tempo de exposição à tela por meio de um óculos sem grau: (i) Utilizar um óculos usado e sem grau; (ii) Pedir que as crianças visualizem alguns objetos na tela do computador; (iii) Depois que todos visualizaram, utilizar tampões de tamanhos diferentes, aumentando o grau de dificuldade da visualização; (iv) Quando todos visualizaram com o último tampão (o mais fechado), explicar que o grau de dificuldade simboliza o tempo de permanência na frente da tela, de forma que quanto maior o tempo, maior a dificuldade de visualizar nitidamente. 2) Compreender os potenciais efeitos do uso prolongado de jogos digitais. Como por exemplo: i) Fazer um levantamento sobre os jogos que as crianças jogam; ii) Acessar um jogo em um dispositivo ilustrando-o para as crianças; iii) Dialogar sobre características que tornam os jogos estimulantes (visual, sons gráficos etc.); iv) Dialogar sobre estratégias usadas para manter o usuário envolvido com o jogo o maior tempo possível (recompensas, fases, bônus etc.); v) Dialogar sobre a sensação que esses jogos geram nas crianças.",
+      "pagina": 12
+    },
+    {
+      "texto": "Computação desplugada: 1) Utilizar a mesma estratégia plugada (1), substituindo a tela do computador por um painel de fantoches. 9 EDUCAÇÃO INFANTIL",
+      "pagina": 12
+    },
+    {
+      "texto": "10 COMPUTAÇÃO",
+      "pagina": 13
+    },
+    {
+      "texto": "11 A ETAPA DO ENSINO FUNDAMENTAL COMPETÊNCIAS 1.",
+      "pagina": 14
+    },
+    {
+      "texto": "Compreender a Computação como uma área de conhecimento que contribui para explicar o mundo atual e ser um agente ativo e consciente de transformação capaz de analisar criticamente seus impactos sociais, ambientais, culturais, econômicos, científicos, tecnológicos, legais e éticos. 2.",
+      "pagina": 14
+    },
+    {
+      "texto": "Reconhecer o impacto dos artefatos computacionais e os respectivos desafios para os indivíduos na sociedade, discutindo questões socioambientais, culturais, científicas, políticas e econômicas. 3.",
+      "pagina": 14
+    },
+    {
+      "texto": "Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes linguagens e tecnologias da Computação de forma criativa, crítica, significativa, reflexiva e ética. 4.",
+      "pagina": 14
+    },
+    {
+      "texto": "Aplicar os princípios e técnicas da Computação e suas tecnologias para identificar problemas e criar soluções computacionais, preferencialmente de forma cooperativa, bem como alicerçar descobertas em diversas áreas do conhecimento seguindo uma abordagem científica e inovadora, considerando os impactos sob diferentes contextos. 5.",
+      "pagina": 14
+    },
+    {
+      "texto": "Avaliar as soluções e os processos envolvidos na resolução computacional de problemas de diversas áreas do conhecimento, sendo capaz de construir argumentações coerentes e consistentes, utilizando conhecimentos da Computação para argumentar em diferentes contextos com base em fatos e informações confiáveis com respeito à diversidade de opiniões, saberes, identidades e culturas. 6.",
+      "pagina": 14
+    },
+    {
+      "texto": "Desenvolver projetos, baseados em problemas, desafios e oportunidades que façam sentido ao contexto ou interesse do estudante, de maneira individual e/ou cooperativa, fazendo uso da Computação e suas tecnologias, utilizando conceitos, técnicas e ferramentas computacionais que possibilitem automatizar processos em diversas áreas do conhecimento com base em princípios éticos, democráticos, sustentáveis e solidários, valorizando a diversidade de indivíduos e de grupos sociais, de maneira inclusiva. 7.",
+      "pagina": 14
+    },
+    {
+      "texto": "Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias para tomar decisões frente às questões de diferentes naturezas.",
+      "pagina": 14
+    },
+    {
+      "texto": "12 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Organização de objetos (EF01CO01) Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+      "pagina": 15,
+      "habilidades": [
+        "EF01CO01"
+      ]
+    },
+    {
+      "texto": "Conceituação de Algoritmos (EF01CO02) Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas. (EF01CO03) Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas sequências à palavra ‘Algoritmos’.",
+      "pagina": 15,
+      "habilidades": [
+        "EF01CO02",
+        "EF01CO03"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Codificação da informação (EF01CO04) Reconhecer o que é a informação, que ela pode ser armazenada, transmitida como mensagem por diversos meios e descrita em várias linguagens. (EF01CO05) Representar informação usando diferentes codificações.",
+      "pagina": 15,
+      "habilidades": [
+        "EF01CO04",
+        "EF01CO05"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 1º ANO",
+      "pagina": 15
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Objetos de um mesmo conjunto podem ser organizados e agrupados de diferentes maneiras, enfatizando as características desejadas. A organização adequada pode facilitar a busca por um objeto específico dentro deste conjunto.",
+      "pagina": 16
+    },
+    {
+      "texto": "O professor pode pedir que os alunos organizem um conjunto de personagens por gênero, cor dos olhos, idade, tamanho, nacionalidade etc.",
+      "pagina": 16
+    },
+    {
+      "texto": "Também pode sugerir que os alunos organizem um conjunto de figuras geométricas por cor, por tipo de figura, por tamanho das figuras etc.",
+      "pagina": 16
+    },
+    {
+      "texto": "O objetivo é que os alunos possam identificar passos que fazem parte da execução de uma tarefa, bem como seguir uma sequência de passos para realizar uma tarefa (resolver um problema).",
+      "pagina": 16
+    },
+    {
+      "texto": "O professor pode fornecer sequências de passos para resolver problemas como construir origamis simples, seguir caminhos, executar uma receita, construir figuras com Tangram, entre outros, e solicitar que os alunos as executem.",
+      "pagina": 16
+    },
+    {
+      "texto": "Ao explicar para alguém como realizar uma tarefa (resolver um problema), se está criando um algoritmo.",
+      "pagina": 16
+    },
+    {
+      "texto": "Esses algoritmos podem ser construídos a partir de um conjunto de passos desordenados, onde o aluno deve identificar a sequência em que esses passos devem ser executados, ou podem ser construídos partindo do zero, na qual esses passos também devem ser determinados, além da sequência desses. Pode-se usar linguagem textual, oral ou pictográfica para descrever os passos de um algoritmo.",
+      "pagina": 16
+    },
+    {
+      "texto": "O professor pode fornecer imagens que descrevem os passos para construir um objeto usando peças do tipo 'Lego' e solicitar que os alunos as organizem em uma sequência que permita construir o objeto. Ou ainda, o professor pode solicitar que os alunos expliquem, oralmente ou através de sequências de desenhos, como se joga esconde-esconde ou qualquer outro tipo de jogo.",
+      "pagina": 16
+    },
+    {
+      "texto": "O objetivo é fazer com que o aluno compreenda o conceito de informação, que uma mesma informação pode ser descrita de diversas formas (usando linguagem oral, imagens, sons etc.) e que tal descrição pode ser armazenada e transmitida. Por exemplo, a informação sobre a existência de um cachorro pode ser representada como uma imagem ou como o som de seu latido, que pode ser transmitida repassando a folha com a imagem para outra pessoa ou reproduzindo o som para outra pessoa (como na brincadeira telefone sem fio) e depois pode ser armazenada em uma pasta ou gravação.",
+      "pagina": 16
+    },
+    {
+      "texto": "Transmitir uma palavra por ‘telefone sem fio’, enviar um desenho para um colega, gravar uma mensagem de áudio e reproduzi-la para um colega, entre outros.",
+      "pagina": 16
+    },
+    {
+      "texto": "Compreender o conceito de representação é um passo importante para a compreensão de como computadores representam as informações e simulam comportamentos, além de ser habilidade importante para o desenvolvimento e uso de abstrações. Um algoritmo executado por um computador opera dados representados de maneira simbólica. Por exemplo, uma imagem pode ser representada por uma grade formada por pequenos quadrados (pixels), cada qual com um número que representa sua cor (por exemplo, 0 branco e 1 preto). Sons podem ser representados por notas musicais etc.",
+      "pagina": 16
+    },
+    {
+      "texto": "Mostrar que ao pintar as áreas de uma imagem com cores pré-definidas (codificação) uma imagem é recuperada (informação) ou mostrar a relação de uma música com suas notas musicais. 13 ENSINO FUNDAMENTAL",
+      "pagina": 16
+    },
+    {
+      "texto": "14 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE CULTURA DIGITAL Uso de artefatos computacionais (EF01CO06) Reconhecer e explorar artefatos computacionais voltados a atender necessidades pessoais ou coletivas.",
+      "pagina": 17,
+      "habilidades": [
+        "EF01CO06"
+      ]
+    },
+    {
+      "texto": "Segurança e responsabilidade no uso de tecnologia computacional (EF01CO07) Conhecer as possibilidades de uso seguro das tecnologias computacionais para proteção dos dados pessoais e para garantir a própria segurança.",
+      "pagina": 17,
+      "habilidades": [
+        "EF01CO07"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 1º ANO (CONTINUAÇÃO)",
+      "pagina": 17
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Esta habilidade tem como proposta a identificação e exploração de tecnologias físicas ou digitais, como por exemplo computador, tablets, brinquedos eletrônicos, ferramentas do cotidiano (martelo, alavancas, rampa).",
+      "pagina": 18
+    },
+    {
+      "texto": "O professor poderá utilizar um jogo educacional em ferramentas como computador, tablet, mesas interativas, celular, em que os alunos possam experimentar seus recursos.",
+      "pagina": 18
+    },
+    {
+      "texto": "Esta habilidade propõe que o aluno possa refletir sobre a importância de resguardar dados pessoais como nome, endereço, idade, onde estuda, quando da utilização de tecnologias como celular, tablets, em que não se pode compartilhar essas informações com qualquer pessoa.",
+      "pagina": 18
+    },
+    {
+      "texto": "Professor poderá fazer um jogo de imagens de dispositivos como celular, tablet, computador dentre outros em que os alunos precisam apresentar o que as pessoas fazem com essas tecnologias. Assim, o professor poderá destacar os cuidados quando usamos esses dispositivos. 15 ENSINO FUNDAMENTAL",
+      "pagina": 18
+    },
+    {
+      "texto": "16 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Modelagem de objetos (EF02CO01) Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO01"
+      ]
+    },
+    {
+      "texto": "Algoritmos com repetições simples (EF02CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO02"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Instrução de máquina (EF02CO03) Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO03"
+      ]
+    },
+    {
+      "texto": "Hardware e software (EF02CO04) Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO04"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Uso de artefatos computacionais (EF02CO05) Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO05"
+      ]
+    },
+    {
+      "texto": "Segurança e responsabilidade no uso de tecnologia computacional (EF02CO06) Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
+      "pagina": 19,
+      "habilidades": [
+        "EF02CO06"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 2º ANO",
+      "pagina": 19
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Um modelo é construído ao se identificar características essenciais de objetos. Modelos são importantes para classificar objetos e a escolha das características define os agrupamentos.",
+      "pagina": 20
+    },
+    {
+      "texto": "O professor pode distribuir um conjunto de imagens de veículos como motos, bicicletas, automóveis, trens, aviões, caminhões, helicópteros, jet-skis, barcos a vela, lanchas etc., e solicitar que os alunos agrupem as imagens dos veículos que voam ou que possuem rodas, ou ainda os que possuem motor, entre outras características. Chamar a atenção de que diferentes características podem gerar diferentes agrupamentos.",
+      "pagina": 20
+    },
+    {
+      "texto": "Usar linguagem oral, textual ou pictográfica para descrever algoritmos, percebendo a importância de descrevê-los com precisão para que possam ser executados por outras pessoas (ou máquinas). Os algoritmos aqui devem ser descritos através de sequências de instruções (preestabelecidas ou criadas pelos alunos) que podem ser repetidas um determinado número de vezes. Os ciclos de repetição devem ser simples, isto é, não devem conter outros ciclos.",
+      "pagina": 20
+    },
+    {
+      "texto": "Os alunos podem construir algoritmos com conjuntos de instruções pré-definidas, como ações para avançar, virar à direita, virar à esquerda, bem como definir seus próprios conjuntos de instruções. Para descrever a tarefa de andar 10 passos, virar a esquerda e andar mais 5 passos, pode-se definir o seguinte algoritmo: 'Ande um passo 10 vezes; vire à esquerda; e ande um passo 5 vezes' Para compreender o funcionamento dos computadores, é importante entender que uma máquina disponibiliza um conjunto de instruções (as operações) que, se realizadas em uma dada sequência (algoritmo), produzem algum resultado.",
+      "pagina": 20
+    },
+    {
+      "texto": "Nesta etapa, o aluno poderia começar a identificar que alguns conjuntos de instruções bem definidos (operações aritméticas simples de uma calculadora, operações de dobradura etc.) podem ser usados em sequências bem definidas para produzir coisas (o cálculo de uma expressão simples, um origami etc.).",
+      "pagina": 20
+    },
+    {
+      "texto": "O objetivo da habilidade é mostrar aos alunos que em seu cotidiano existem dispositivos físicos (celulares, computadores, calculadoras, máquinas de costura etc.) que são controlados por algo que segue uma sequência de passos lógicos (um App do celular, uma pessoa com a calculadora, uma costureira) etc.",
+      "pagina": 20
+    },
+    {
+      "texto": "Pode-se utilizar dispositivos do cotidiano do aluno para diferenciar o dispositivo físico (hardware) daquilo que o controla (software).",
+      "pagina": 20
+    },
+    {
+      "texto": "A proposta nessa habilidade é que o aluno verifique as diferentes características das tecnologias de informação e comunicação, identificando como funcionam, principais aspectos, bem como reconhecendo os diferentes usos no dia a dia das pessoas dentro e fora da escola.",
+      "pagina": 20
+    },
+    {
+      "texto": "O professor pode apresentar imagens de diferentes tecnologias (celular, tablets, computador, dentre outros) destacando características de cada uma delas como tamanho, tipos, bem como diferentes usos do no seu cotidiano, celular para ligações, acessar informações, computador para trabalhar com documentos, produzir conteúdo, dentre outros.",
+      "pagina": 20
+    },
+    {
+      "texto": "Criar um portfólio de tecnologias com imagens de tecnologias; Nesta habilidade temos a perspectiva de trazer um panorama sobre os cuidados com a segurança ao usar dispositivos como celular, tablets, computadores dentre outros (roubo de dados em dispositivos físicos, rastro de dados online quando da utilização de jogos por exemplo etc.).",
+      "pagina": 20
+    },
+    {
+      "texto": "O professor poderá criar um portfólio com alguns cuidados ao jogar nos dispositivos como celular, tablets. 17 ENSINO FUNDAMENTAL",
+      "pagina": 20
+    },
+    {
+      "texto": "18 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Lógica computacional (EF03CO01) Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.",
+      "pagina": 21,
+      "habilidades": [
+        "EF03CO01"
+      ]
+    },
+    {
+      "texto": "Algoritmos com repetições condicionais simples (EF03CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+      "pagina": 21,
+      "habilidades": [
+        "EF03CO02"
+      ]
+    },
+    {
+      "texto": "Decomposição (EF03CO03) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+      "pagina": 21,
+      "habilidades": [
+        "EF03CO03"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 3º ANO",
+      "pagina": 21
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS As sentenças lógicas são sentenças declarativas que representam a constatação de um fato pelo emissor, podendo ser afirmativas ou negativas. Quando se faz uma declaração, ela pode ser \"verdadeira\" ou \"falsa\".",
+      "pagina": 22
+    },
+    {
+      "texto": "Esses termos definem os possíveis valores (verdade) para as sentenças lógicas. Comparações de tamanho, peso ou cor de objetos tem como resultado um valor lógico (\"verdadeiro\" ou \"falso\"). O valor de uma sentença lógica pode ser modificado usando a operação de negação, indicada por termos como NÃO e NÃO É VERDADE QUE.",
+      "pagina": 22
+    },
+    {
+      "texto": "O professor pode apresentar diferentes sentenças lógicas e solicitar que os alunos determinem seus valores verdade, como por exemplo:",
+      "pagina": 22
+    },
+    {
+      "texto": "Cinco é maior que seis. (Falso) Cinco NÃO é maior que seis. (Verdadeiro) A raiz é uma das partes de uma planta. (Verdadeiro) A raiz NÃO é uma das partes de uma planta. (Falso) Os algoritmos aqui devem ser descritos através de sequências de instruções que podem ser repetidas um número de vezes que não é conhecido de antemão.",
+      "pagina": 22
+    },
+    {
+      "texto": "Nestes casos, esta repetição é controlada por alguma condição (sentença lógica). Os ciclos de repetição devem ser simples, isto é, não devem conter outros ciclos.",
+      "pagina": 22
+    },
+    {
+      "texto": "Os alunos podem construir algoritmos com conjuntos de instruções como ações para avançar, virar à direita, virar à esquerda. Para descrever a tarefa de andar em um tabuleiro até encontrar um obstáculo, pode-se definir o seguinte algoritmo: \"Enquanto a próxima posição estiver vazia, ande um passo\". Nesse exemplo, o número de vezes em que a ação \"andar um passo\" será repetida é determinado pelo valor lógico da sentença \"a próxima posição está vazia\". Caso o valor seja \"verdadeiro\", o ciclo de repetição continua, caso contrário ele será interrompido.",
+      "pagina": 22
+    },
+    {
+      "texto": "Decomposição é uma das principais técnicas de resolução de problemas, na qual um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: - permitir uma melhor organização e visualização do problema e da solução; - facilitar o trabalho em grupo; - permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.",
+      "pagina": 22
+    },
+    {
+      "texto": "Criar uma receita (algoritmo) que descreva a tarefa (problema) de preparar o café da manhã, pode-se dividir essa tarefa em duas etapas (subproblemas): preparar o café e fazer um sanduíche. Cada etapa pode ser descrita por receitas independentes, criadas pela mesma pessoa ou pessoas diferentes. A solução do problema inicial é obtida combinando as duas receitas (algoritmos). Uma possível combinação é realizar todos os passos da receita do sanduíche e depois todos os passos da receita do café.",
+      "pagina": 22
+    },
+    {
+      "texto": "Outra combinação poderia intercalar os passos das duas receitas, podendo, por exemplo, iniciar aquecendo a água para o café, após preparar o sanduíche e por fim terminar o café. 19 ENSINO FUNDAMENTAL",
+      "pagina": 22
+    },
+    {
+      "texto": "20 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE MUNDO DIGITAL Codificação da informação (EF03CO04) Relacionar o conceito de informação com o de dado. (EF03CO05) Compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.",
+      "pagina": 23,
+      "habilidades": [
+        "EF03CO04",
+        "EF03CO05"
+      ]
+    },
+    {
+      "texto": "Interface física (EF03CO06) Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior com o uso de interfaces físicas (dispositivos de entrada e saída).",
+      "pagina": 23,
+      "habilidades": [
+        "EF03CO06"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 3º ANO (CONTINUAÇÃO)",
+      "pagina": 23
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso processá-la e representá-la como um conjunto de dados (símbolos). A habilidade trabalha a diferença entre esses dois conceitos.",
+      "pagina": 24
+    },
+    {
+      "texto": "Pode-se mostrar exemplos de dados que individualmente não possuem significado relevante, mas que, em conjunto, definem alguma informação. Por exemplo, cada um dos dados de um endereço (tipo e nome do logradouro, CEP, município etc.), em conjunto, definem a informação de um endereço específico, os dados de dia, mês e ano definem uma data específica, as cores de cada pixel, juntas, definem uma imagem etc.",
+      "pagina": 24
+    },
+    {
+      "texto": "A Computação emprega diferentes técnicas para organizar dados de forma estruturada para representar informação. Cada tipo de informação possui uma estratégia de representação. Textos podem ser representados como uma sequência de números decimais, onde cada número representa um caractere (como é feito com o uso da tabela ASCII), uma imagem pode ser representada como uma sequência de números decimais que definem a cor de cada elemento de um reticulado uniforme que divide a imagem (pixel) etc.",
+      "pagina": 24
+    },
+    {
+      "texto": "Mostrar que para representar informação às vezes é necessário combinar diferentes tipos de dados.",
+      "pagina": 24
+    },
+    {
+      "texto": "A informação sobre uma data pode ser recuperada pelo processamento de uma composição de dados de um dia, de um mês e de um ano em uma determinada ordem. Imagens podem ser representados por composições de cores em determinados pontos (pixels) etc.",
+      "pagina": 24
+    },
+    {
+      "texto": "É importante entender que o computador se comunica com o mundo exterior com dispositivos físicos próprios.",
+      "pagina": 24
+    },
+    {
+      "texto": "Alguns dos dispositivos permitem fornecer informações para os computadores, os dispositivos de entrada (teclado, mouse, microfone, sensores, antena etc.), enquanto outros permitem que o computador transmita informações para o mundo exterior, os dispositivos de saída (monitor, alto-falante, impressora etc.).",
+      "pagina": 24
+    },
+    {
+      "texto": "Exemplificar os diferentes tipos de dispositivos de entrada (teclado, mouse, microfone, sensores, antena etc.) e de dispositivos de saída (monitor, alto-falante, impressora etc.) 21 ENSINO FUNDAMENTAL",
+      "pagina": 24
+    },
+    {
+      "texto": "22 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE CULTURA DIGITAL Uso de tecnologias computacionais (EF03CO07) Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informações. (EF03CO08) Usar ferramentas computacionais em situações didáticas para se expressar em diferentes formatos digitais.",
+      "pagina": 25,
+      "habilidades": [
+        "EF03CO07",
+        "EF03CO08"
+      ]
+    },
+    {
+      "texto": "Segurança e responsabilidade no uso da tecnologia (EF03CO09) Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus pares em meio digital.",
+      "pagina": 25,
+      "habilidades": [
+        "EF03CO09"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 3º ANO (CONTINUAÇÃO)",
+      "pagina": 25
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Nesta habilidade temos a perspectiva que o aluno possa explorar diferentes navegadores e buscadores, conhecendo aspectos gerais das ferramentas de busca como associação de palavras, as abas em cada um deles, filtros, dentre outros. Além disso, por meio das pesquisas apresentar os cuidados na busca das informações desejadas.",
+      "pagina": 26
+    },
+    {
+      "texto": "O professor pode solicitar uma pesquisa simples em algum site de escolha do docente, sobre temas como um personagem de desenho animado por exemplo, em que os alunos poderão verificar os diferentes resultados da busca, verificando filtros de pesquisa, testando novas palavras associadas a escolhida primeiramente e assim os diferentes tipos de informação sobre um mesmo assunto.",
+      "pagina": 26
+    },
+    {
+      "texto": "O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como jogos educacionais, programas de animação, ferramentas de desenho dentre outros, expressar ideias.",
+      "pagina": 26
+    },
+    {
+      "texto": "O professor poderá utilizar uma ferramenta de desenho para os alunos criarem uma figura que represente suas férias ou algum evento importante.",
+      "pagina": 26
+    },
+    {
+      "texto": "A proposta nesta habilidade é que o aluno possa identificar alguns dos principais impactos de compartilhar informações pessoais com colegas ou pessoas em meio digital, como por exemplo endereço, nomes das pessoas da família, onde estuda, onde mora.",
+      "pagina": 26
+    },
+    {
+      "texto": "Essas informações podem ser utilizadas por pessoas de forma mal-intencionadas, quando os alunos trocam informações online por celular, computador ou até mesmo quando estão jogando na internet.",
+      "pagina": 26
+    },
+    {
+      "texto": "O professor poderá apresentar um caso em que foram utilizados dados roubados de pessoas, solicitando aos alunos que destaquem o que pode ter acontecido para que os dados pudessem ter sido roubados. Poderá ainda, a partir do que foi levantado pelos alunos, criar um painel com imagens dos dispositivos computacionais como tablets, celular, computador, apontando em cada um os impactos de acordo com o que mais se utiliza nesses dispositivos. 23 ENSINO FUNDAMENTAL",
+      "pagina": 26
+    },
+    {
+      "texto": "24 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Matrizes e registros (EF04CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matrizes que estabelecem uma organização na qual cada componente está em uma posição definida por coordenadas, fazendo manipulações simples sobre estas representações. (EF04CO02) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de registros que estabelecem uma organização na qual cada componente é identificado por um nome, fazendo manipulações sobre estas representações.",
+      "pagina": 27,
+      "habilidades": [
+        "EF04CO01",
+        "EF04CO02"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 4º ANO",
+      "pagina": 27
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração.",
+      "pagina": 28
+    },
+    {
+      "texto": "Matrizes são um tipo de estrutura de dados organizadas em linhas e colunas assim como as tabelas. As matrizes possuem um tamanho pré-definido e todos os dados que fazem parte da estrutura são do mesmo tipo. Um dado específico é acessado em uma matriz através de coordenadas (x,y) que indicam a linha e a coluna em que esse se localiza. Matrizes compostas de uma única linha são denominadas vetores. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como matrizes e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar e alterar informações nas matrizes. Exemplos de objetos que podem ser caracterizados como matrizes: tabuleiro de batalha naval, tabuleiro de xadrez, caixa de ovos, organização de classes em uma sala, janelas na fachada de um prédio etc.",
+      "pagina": 28
+    },
+    {
+      "texto": "O professor pode solicitar que os alunos construam o tabuleiro (usando uma matriz) e joguem a batalha naval, onde os tiros são dados informando as coordenadas no tabuleiro. Outra atividade que pode ser feita é apresentar diferentes fachadas de prédios e solicitar que os alunos representem a distribuição das janelas por matrizes, registrando nas correspondentes coordenadas as características de cada janela (por exemplo, aberta ou fechada, com cortina ou não, com persiana ou não). Com essas representações, os alunos podem fazer um jogo estilo \"cara a cara\" onde cada jogador escolhe secretamente uma janela (por exemplo 2ª janela do 3º andar) e o adversário deve descobrir a janela escolhida.",
+      "pagina": 28
+    },
+    {
+      "texto": "Para isso, os jogadores devem fazer perguntas, sobre as características das janelas, que permitam ir descartando janelas até descobrir a janela escolhida pelo adversário. O registro das janelas descartadas deve ser feito na matriz que representa a fachada do prédio.",
+      "pagina": 28
+    },
+    {
+      "texto": "Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração.",
+      "pagina": 28
+    },
+    {
+      "texto": "Registros, que são agrupamentos de informações, são um tipo de estrutura de dados que possui um tamanho pré- definido e os dados agrupados podem ser de diferentes tipos. Uma informação específica de um registro é acessada através de um identificador (ou nome) associado a ela. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como registros e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar e alterar informações nos registros.",
+      "pagina": 28
+    },
+    {
+      "texto": "Exemplos de objetos que podem ser caracterizados como registros: carteira de estudante, boletim, ficha de cadastro de aluno, descrição de qualquer objeto/pessoa (escolhendo um conjunto de atributos) etc.",
+      "pagina": 28
+    },
+    {
+      "texto": "O professor pode distribuir imagens de documentos de identidade de pessoas fictícias e solicitar que os alunos identifiquem quais informações estão disponíveis nos documentos, como por exemplo nome, registro geral, filiação, naturalidade, data de nascimento etc. Pedir que os alunos separem os documentos cujas pessoas tenham nascido em um determinado ano ou tenham nascido em uma determinada cidade. O docente pode ainda solicitar que identifiquem qual é a cidade em que a maioria das pessoas nasceu.",
+      "pagina": 28
+    },
+    {
+      "texto": "Outra atividade que pode ser feita é solicitar que os alunos, em grupos, criem um formulário para coletar informações anônimas sobre os colegas como características físicas, gostos sobre comida, time de futebol, jogo/brincadeira, filmes etc.",
+      "pagina": 28
+    },
+    {
+      "texto": "Após distribuir aos colegas de grupos diferentes para que completem e devolvam ao grupo. De posse dos formulários preenchidos, os grupos devem identificar qual o colega que preencheu cada formulário. 25 ENSINO FUNDAMENTAL",
+      "pagina": 28
+    },
+    {
+      "texto": "26 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Algoritmos com repetições simples e aninhadas (EF04CO03) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples e aninhadas (iterações definidas e indefinidas), para resolver problemas de forma independente e em colaboração.",
+      "pagina": 29,
+      "habilidades": [
+        "EF04CO03"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Codificação da informação (EF04CO04) Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma forma que seja compreendida pela máquina (formato digital). (EF04CO05) Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+      "pagina": 29,
+      "habilidades": [
+        "EF04CO04",
+        "EF04CO05"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Uso de tecnologias computacionais (EF04CO06) Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentações, vídeos etc.).",
+      "pagina": 29,
+      "habilidades": [
+        "EF04CO06"
+      ]
+    },
+    {
+      "texto": "Segurança e responsabilidade no uso da tecnologia (EF04CO07) Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados. (EF04CO08) Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas na Internet.",
+      "pagina": 29,
+      "habilidades": [
+        "EF04CO07",
+        "EF04CO08"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 4º ANO (CONTINUAÇÃO)",
+      "pagina": 29
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Os algoritmos aqui devem ser descritos através de sequências de instruções que podem ser repetidas. As repetições, aqui, podem ser aninhadas, isto é, um ciclo de repetição pode conter outro.",
+      "pagina": 30
+    },
+    {
+      "texto": "Imaginando que alguém quer lavar as janelas de um prédio com 10 andares e 20 janelas por andar.",
+      "pagina": 30
+    },
+    {
+      "texto": "A pessoas pode lavar as 20 janelas de um andar, e depois ir para o próximo andar (até chegar ao último andar). Este é um algoritmo que envolve uma repetição aninhada: A pessoa vai repetir 10 vezes a tarefa de lavar 20 janelas, que por sua vez, repete 20 vezes a tarefa de lavar uma janela.",
+      "pagina": 30
+    },
+    {
+      "texto": "Um processador é formado por circuitos eletrônicos que operam apenas em dois níveis de tensão. Por isso, o sistema binário (0 e 1) é o sistema de numeração usado para codificação em formato digital. Isso implica que para que um computador possa guardar, manipular e transmitir dados, precisamos codificá-los utilizando diferentes estratégias.",
+      "pagina": 30
+    },
+    {
+      "texto": "Pode-se utilizar a tabela ASCII de codificação de caracteres. Por exemplo, quando se utiliza a tabela ASCII de codificação, a letra \"A\" é representada pelo número decimal 65, que é codificado em binário como 1000001.",
+      "pagina": 30
+    },
+    {
+      "texto": "Existem diferentes estratégias de representação em formato digital para diferentes tipos de informação.",
+      "pagina": 30
+    },
+    {
+      "texto": "Conhecê-las é um passo importante para o desenvolvimento de algoritmos que trabalhem com tipos diferentes de informação.",
+      "pagina": 30
+    },
+    {
+      "texto": "Pode-se utilizar como exemplos a tabela ASCII, que especifica como codificar caracteres em formato digital, ou os formatos de imagem 'Portable BitMap' e 'Portable GrayMap', que codificam uma imagem de forma simples usando uma matriz de 0 e 1 (branco e preto) ou com uma matriz com valores entre 0 e 255 (tons de cinza), respectivamente.",
+      "pagina": 30
+    },
+    {
+      "texto": "O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como editor de texto, editor de imagem, editor de apresentações, programa de história em quadrinhos, animação dentre outros, para produzir conteúdo em projetos, atividades diversas.",
+      "pagina": 30
+    },
+    {
+      "texto": "O professor poderá propor um projeto de criação de uma história digital ou um vídeo de curta duração, em que os alunos experimentam os recursos de um editor de texto ou de vídeo.",
+      "pagina": 30
+    },
+    {
+      "texto": "Propõe-se que o aluno reflita sobre aspectos éticos relacionados a manipulação de dados, como por exemplo quando assiste e faz download, compartilha uma imagem, dentre outros.",
+      "pagina": 30
+    },
+    {
+      "texto": "Construção de um painel, a partir das imagens de tecnologias como o celular e computador, em que os alunos poderão destacar ações importantes de quando se manipula um dado como imagem, música, vídeo, informação, como verificar as permissões, autoria, dentre outros.",
+      "pagina": 30
+    },
+    {
+      "texto": "Nesta habilidade espera-se que os alunos possam reconhecer que, ao se obter informações na Internet, é preciso identificar as suas fontes e se elas são seguras e a informação é confiável.",
+      "pagina": 30
+    },
+    {
+      "texto": "O professor poderá organizar casos em que se precisa de determinadas informações e ao se deparar com elas, se verifica que muitas dessas informações estão equivocadas, comparando páginas que tratam do mesmo tema, mas com informações diferentes como por exemplo em uma biografia. 27 ENSINO FUNDAMENTAL",
+      "pagina": 30
+    },
+    {
+      "texto": "28 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Listas e grafos (EF05CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações. (EF05CO02) Reconhecer objetos do mundo real e digital que podem ser representados através de grafos que estabelecem uma organização com uma quantidade variável de vértices conectados por arestas, fazendo manipulações simples sobre estas representações.",
+      "pagina": 31,
+      "habilidades": [
+        "EF05CO01",
+        "EF05CO02"
+      ]
+    },
+    {
+      "texto": "Lógica computacional (EF05CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+      "pagina": 31,
+      "habilidades": [
+        "EF05CO03"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 5º ANO",
+      "pagina": 31
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Listas são estruturas de dados que agrupam itens organizados (logicamente) um depois do outro. As listas não têm um tamanho pré- definido, o que permite a resolução de problemas que tratam argumentos de diferentes tamanhos (um algoritmo que descreve como gerenciar uma fila de pessoas em um caixa é o mesmo, independentemente do tamanho da fila). A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como listas e usem algum tipo de representação (podendo ser visual) para ilustrá- los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar, alterar e inserir informações nas listas.",
+      "pagina": 32
+    },
+    {
+      "texto": "Exemplos de objetos que podem ser representados usando listas: filas de pessoas, pilhas de cartas, lista de itens, pilha de pratos, lista de alunos de uma turma, lista de notas musicais etc.",
+      "pagina": 32
+    },
+    {
+      "texto": "O professor pode fornecer um monte de cartas agrupadas por naipes e em cada naipe as cartas estão ordenadas por seus valores. Fornecer novas cartas, solicitar que os alunos as incluam no baralho mantendo a ordem e registrem as cartas vizinhas. O professor também pode solicitar que todas as cartas de um determinado valor sejam substituídas por cartas curingas ou retiradas do monte.",
+      "pagina": 32
+    },
+    {
+      "texto": "Outra tarefa que pode ser dada é fazer a busca por uma carta específica que pode ou não estar no monte de cartas.",
+      "pagina": 32
+    },
+    {
+      "texto": "Grafos são um tipo de estrutura usada para representar relações entre objetos. Eles são descritos por vértices (objetos) e arestas (relações). Os grafos também não têm um tamanho pré-definido, o que permite a resolução de problemas que tratam argumentos de diferentes tamanhos (Um algoritmo que encontra um caminho em um mapa pode ter como entrada tanto um mapa de uma região como um mapa de um país.). A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como grafos e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar informações ou encontrar caminhos nos grafos. Exemplos de objetos que podem ser representados usando grafos: mapas, redes sociais, internet, redes de computadores, árvores genealógicas, chaveamento de times em um campeonato etc.",
+      "pagina": 32
+    },
+    {
+      "texto": "O professor pode distribuir, para diferentes grupos os alunos, mapas do bairro onde alguns prédios estão marcados. Pedir que eles tracem linhas ligando esses prédios sempre que houver um caminho entre eles sem passar na frente de outro (dentre os marcados). Marcar na linha traçada o número de quadras de cada caminho considerado. Pedir que os grupos comparem seus grafos para verificar se todos tem as mesmas arestas ou não e qual o número de quadras dos caminhos encontrados.",
+      "pagina": 32
+    },
+    {
+      "texto": "Depois pode-se construir conjuntamente a representação do grafo, considerando os menores caminhos encontrados dentre os resultados de cada grupo. Com a representação única pedir que tracem rotas passando por determinados prédios, calculando o número de quadras que se deve andar para chegar no destino. Voltar ao mapa e traçar as rotas identificadas no grafo, nas ruas do bairro.",
+      "pagina": 32
+    },
+    {
+      "texto": "O professor pode distribuir os perfis fictícios de diferentes pessoas em alguma rede social, indicando amigos comuns entre os donos dos perfis. Pedir que representem a relação de amizade através de um grafo, no qual as pessoas são representadas por vértices e a amizade pelas arestas.",
+      "pagina": 32
+    },
+    {
+      "texto": "Depois fazer perguntas sobre amigos comuns, \"distância\" de amizades etc.",
+      "pagina": 32
+    },
+    {
+      "texto": "Os valores de sentenças lógicas podem ser modificados ou combinados usando operações lógicas como negação (NÃO), conjunção (E) e disjunção (OU). A operação da negação modifica o valor da sentença lógica invertendo seu valor, isto é, uma sentença verdadeira torna-se falsa quando aplicada a operação de negação e vice- versa.",
+      "pagina": 32
+    },
+    {
+      "texto": "O professor pode apresentar diferentes sentenças lógicas e solicitar que os alunos determinem seus valores verdade, como por exemplo:",
+      "pagina": 32
+    },
+    {
+      "texto": "Cinco é maior que seis. (Falso) Cinco NÃO é maior que seis. (Verdadeiro) Cinco é maior que seis E maior que dois. (Falso) Cinco é maior que seis OU maior que dez. (Falso) Cinco é maior que seis OU maior que dois. (Verdadeiro) 29 ENSINO FUNDAMENTAL",
+      "pagina": 32
+    },
+    {
+      "texto": "30 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Algoritmos com seleção condicional (EF05CO04) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências, repetições e seleções condicionais para resolver problemas de forma independente e em colaboração.",
+      "pagina": 33,
+      "habilidades": [
+        "EF05CO04"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Arquitetura de computadores (EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento).",
+      "pagina": 33,
+      "habilidades": [
+        "EF05CO05"
+      ]
+    },
+    {
+      "texto": "Armazenamento de dados (EF05CO06) Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto.",
+      "pagina": 33,
+      "habilidades": [
+        "EF05CO06"
+      ]
+    },
+    {
+      "texto": "Sistema operacional (EF05CO07) Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenciamento do hardware.",
+      "pagina": 33,
+      "habilidades": [
+        "EF05CO07"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 5º ANO (CONTINUAÇÃO)",
+      "pagina": 33
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Além de construir algoritmos com sequências de instruções, repetidas ou não, muitas vezes é necessário fazer escolhas sobre qual ação a ser executada a seguir. Escolhas são feitas a partir de situações (condições definidas por sentenças lógicas), como, por exemplo, ao chegar em um semáforo, dependendo de sua cor, a ação a ser realizada é diferente.",
+      "pagina": 34
+    },
+    {
+      "texto": "O professor pode solicitar que os alunos simulem um algoritmo que descreve o que fazer para atravessar uma rua com semáforo usando a instrução de seleção condicional: um trecho deste algoritmo poderia ser: \"se o semáforo estiver vermelho OU amarelo, aguardar na calçada, caso contrário, atravessar a rua\". Além disso, pode solicitar que os alunos determinem os passos de um algoritmo que faça uso da seleção condicional, como por exemplo, definir as ações que devem ser realizadas ao chegar em algum local caso este esteja aberto ou fechado.",
+      "pagina": 34
+    },
+    {
+      "texto": "O objetivo é começar a ensinar ao aluno os elementos principais que compõem a arquitetura de um computador: dispositivos de entrada/saída, processadores e dispositivos de armazenamento temporários (ex: memória RAM) e persistentes (ex: disco rígido).",
+      "pagina": 34
+    },
+    {
+      "texto": "Explicar os componentes básicos dos computadores e suas funções: processador, memória, e exemplos de diferentes dispositivos de entrada e saída.",
+      "pagina": 34
+    },
+    {
+      "texto": "Os dispositivos físicos de um computador são gerenciados por um software que denominamos Sistema Operacional. O objetivo da habilidade é explicitar a existência desse software e mostrar que é ele o responsável por gerenciar os recursos de um computador (define qual programa pode utilizar o processador, gerencia os dispositivos físicos da máquina etc.) Os dispositivos físicos que compõem um computador não funcionam sozinhos. É preciso mostrar que a operação desses dispositivos é controlada por um software que denominamos Sistema Operacional. É possível falar sobre algumas das funções de um sistema operacional (gerenciamento da memória, de sistemas de arquivos, de dispositivos de entrada e saída como teclado, mouse, monitores, impressoras etc.).",
+      "pagina": 34
+    },
+    {
+      "texto": "Também é possível mostrar que existem vários Sistemas Operacionais diferentes (Windows, Linux, macOS etc.) Os dados de um usuário podem ser armazenados em um dispositivo de armazenamento acoplado ao computador utilizado (disco rígido, disco SSD etc.), em dispositivos removíveis (pen drives, discos rígidos etc.) ou serem transmitidos e armazenados em outros computadores ligados à Internet (armazenamento na nuvem). Reconhecer a necessidade de armazenar dados em dispositivos de armazenamento permitirá a compreensão do conceito de sistemas de arquivos.",
+      "pagina": 34
+    },
+    {
+      "texto": "Pode-se exemplificar os diferentes dispositivos de armazenamento de dados existentes, mostrar que os arquivos são organizados de forma diferentes neles e, para cada dispositivo, mostrar claramente se o dispositivo é local (acoplado permanentemente ao computador do usuário) ou remoto (removível ou dispositivo de armazenamento na Internet). 31 ENSINO FUNDAMENTAL",
+      "pagina": 34
+    },
+    {
+      "texto": "32 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE CULTURA DIGITAL Segurança e responsabilidade no uso da tecnologia (EF05CO08) Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáveis de não confiáveis. (EF05CO09) Usar informações considerando aplicações e limites dos direitos autorais em diferentes mídias digitais.",
+      "pagina": 35,
+      "habilidades": [
+        "EF05CO08",
+        "EF05CO09"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais (EF05CO10) Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade. (EF05CO011) Identificar a adequação de diferentes tecnologias computacionais na resolução de problemas.",
+      "pagina": 35,
+      "habilidades": [
+        "EF05CO10",
+        "EF05CO01"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 5º ANO (CONTINUAÇÃO)",
+      "pagina": 35
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Nesta habilidade é importante que os alunos possam refletir e acessar informações em buscas na Internet criticamente, identificando características de conteúdos prejudiciais, informações confiáveis, notícias falsas.",
+      "pagina": 36
+    },
+    {
+      "texto": "O professor pode propor um estudo comparativo entre sites de jornais oficiais e blogs para falar sobre as fontes de informação, considerando sua confiabilidade.",
+      "pagina": 36
+    },
+    {
+      "texto": "O objetivo desta habilidade é que o aluno possa utilizar informações e dados na Internet reconhecendo os direitos autorais, como por exemplo de uma música, um filme, um livro, e os cuidados em seu compartilhamento e uso pessoal.",
+      "pagina": 36
+    },
+    {
+      "texto": "O aluno poderá criar um portfólio com imagens de personagens de desenhos animados em que ele poderá citar as fontes e propor um formato em que considera todos os direitos autorais Espera-se que o aluno possa expressar-se crítica e criativamente por meio de dispositivos computacionais ou não, demonstrando compreensão das mudanças que as tecnologias trazem ao cotidiano, incluindo mundo do trabalho.",
+      "pagina": 36
+    },
+    {
+      "texto": "Nessa habilidade, o aluno poderá criar uma animação em computador ou papel sobre alguma impressão que ele tenha sobre um impacto da tecnologia na sociedade, como por exemplo uso do celular para mandar mensagem de áudio ao invés de uma chamada, comum no cotidiano das pessoas.",
+      "pagina": 36
+    },
+    {
+      "texto": "Nesta habilidade propõe-se que os alunos possam compreender diferentes necessidades de uso das tecnologias computacionais, como por exemplo porque usamos um computador para criar uma história em quadrinhos e usamos um celular para fazer uma ligação telefônica.",
+      "pagina": 36
+    },
+    {
+      "texto": "O professor pode propor um jogo em que apresenta alguns problemas que precisam de solução usando diferentes tecnologias e os alunos individualmente ou em grupos buscam a solução escolhendo a melhor tecnologia considerando diferentes critérios. 33 ENSINO FUNDAMENTAL",
+      "pagina": 36
+    },
+    {
+      "texto": "34 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Organização e representação da informação (EF15CO01) Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+      "pagina": 37,
+      "habilidades": [
+        "EF15CO01"
+      ]
+    },
+    {
+      "texto": "Algoritmos (EF15CO02) Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+      "pagina": 37,
+      "habilidades": [
+        "EF15CO02"
+      ]
+    },
+    {
+      "texto": "Lógica computacional (EF15CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+      "pagina": 37,
+      "habilidades": [
+        "EF15CO03"
+      ]
+    },
+    {
+      "texto": "Decomposição (EF15CO04) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+      "pagina": 37,
+      "habilidades": [
+        "EF15CO04"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO / POR ETAPA - 1º ao 5º ANO",
+      "pagina": 37
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Objetos de um mesmo conjunto podem ser organizados e agrupados de diferentes maneiras, enfatizando as características desejadas. A organização adequada pode facilitar a busca por um objeto específico dentro deste conjunto.",
+      "pagina": 38
+    },
+    {
+      "texto": "O professor pode pedir que os alunos organizem um conjunto de personagens por gênero, cor dos olhos, idade, tamanho, nacionalidade etc.",
+      "pagina": 38
+    },
+    {
+      "texto": "Também pode sugerir que os alunos organizem um conjunto de figuras geométricas por cor, por tipo de figura, por tamanho das figuras etc.",
+      "pagina": 38
+    },
+    {
+      "texto": "O objetivo é que os alunos possam identificar passos que fazem parte da execução de uma tarefa, bem como seguir uma sequência de passos para realizar uma tarefa (resolver um problema).",
+      "pagina": 38
+    },
+    {
+      "texto": "O professor pode fornecer sequências de passos para resolver problemas como construir origamis simples, seguir caminhos, executar uma receita, construir figuras com Tangram, entre outros, e solicitar que os alunos as executem.",
+      "pagina": 38
+    },
+    {
+      "texto": "Ao explicar para alguém como realizar uma tarefa (resolver um problema), se está criando um algoritmo.",
+      "pagina": 38
+    },
+    {
+      "texto": "Esses algoritmos podem ser construídos a partir de um conjunto de passos desordenados, onde o aluno deve identificar a sequência em que esses passos devem ser executados, ou podem ser construídos partindo do zero, na qual esses passos também devem ser determinados, além da sequência desses. Pode-se usar linguagem textual, oral ou pictográfica para descrever os passos de um algoritmo.",
+      "pagina": 38
+    },
+    {
+      "texto": "O professor pode fornecer imagens que descrevem os passos para construir um objeto usando peças do tipo 'Lego' e solicitar que os alunos as organizem em uma sequência que permita construir o objeto. Ou ainda, o professor pode solicitar que os alunos expliquem, oralmente ou através de sequências de desenhos, como se joga esconde-esconde ou qualquer outro tipo de jogo.",
+      "pagina": 38
+    },
+    {
+      "texto": "As sentenças lógicas são sentenças declarativas que representam a constatação de um fato pelo emissor, podendo ser afirmativas ou negativas. Quando se faz uma declaração, ela pode ser \"verdadeira\" ou \"falsa\".",
+      "pagina": 38
+    },
+    {
+      "texto": "Esses termos definem os possíveis valores (verdade) para as sentenças lógicas. Comparações de tamanho, peso ou cor de objetos tem como resultado um valor lógico (\"verdadeiro\" ou \"falso\"). O valor de uma sentença lógica pode ser modificado usando a operação de negação, indicada por termos como NÃO e NÃO É VERDADE QUE.",
+      "pagina": 38
+    },
+    {
+      "texto": "O professor pode apresentar diferentes sentenças lógicas e solicitar que os alunos determinem seus valores verdade, como por exemplo: • Cinco é maior que seis. (Falso) • Cinco NÃO é maior que seis. (Verdadeiro) • A raiz é uma das partes de uma planta. (Verdadeiro) • A raiz NÃO é uma das partes de uma planta. (Falso) Decomposição é uma das principais técnicas de resolução de problemas, na qual um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: - permitir uma melhor organização e visualização do problema e da solução; - facilitar o trabalho em grupo; - permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.",
+      "pagina": 38
+    },
+    {
+      "texto": "Criar uma receita (algoritmo) que descreva a tarefa (problema) de preparar o café da manhã, pode-se dividir essa tarefa em duas etapas (subproblemas): preparar o café e fazer um sanduíche. Cada etapa pode ser descrita por receitas independentes, criadas pela mesma pessoa ou pessoas diferentes. A solução do problema inicial é obtida combinando as duas receitas (algoritmos). Uma possível combinação é realizar todos os passos da receita do sanduíche e depois todos os passos da receita do café.",
+      "pagina": 38
+    },
+    {
+      "texto": "Outra combinação poderia intercalar os passos das duas receitas, podendo, por exemplo, iniciar aquecendo a água para o café, após preparar o sanduíche e por fim terminar o café. 35 ENSINO FUNDAMENTAL",
+      "pagina": 38
+    },
+    {
+      "texto": "36 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE MUNDO DIGITAL Codificação da informação (EF15CO05) Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+      "pagina": 39,
+      "habilidades": [
+        "EF15CO05"
+      ]
+    },
+    {
+      "texto": "Funcionamento de dispositivos computacionais (EF15CO06) Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+      "pagina": 39,
+      "habilidades": [
+        "EF15CO06"
+      ]
+    },
+    {
+      "texto": "Sistema Operacional (EF15CO07) Conhecer o conceito de Sistema Operacional e sua importância na integração entre software e hardware.",
+      "pagina": 39,
+      "habilidades": [
+        "EF15CO07"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Uso de artefatos computacionais (EF15CO08) Reconhecer e utilizar tecnologias computacionais para pesquisar e acessar informações, expressar-se crítica e criativamente e resolver problemas.",
+      "pagina": 39,
+      "habilidades": [
+        "EF15CO08"
+      ]
+    },
+    {
+      "texto": "Segurança e responsabilidade no uso da tecnologia computacional (EF15CO09) Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+      "pagina": 39,
+      "habilidades": [
+        "EF15CO09"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO / POR ETAPA - 1º ao 5º ANO (CONTINUAÇÃO)",
+      "pagina": 39
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso processá-la e representá-la como um conjunto de dados (símbolos). A habilidade trabalha a diferença entre esses dois conceitos.",
+      "pagina": 40
+    },
+    {
+      "texto": "Pode-se mostrar exemplos de dados que individualmente não possuem significado relevante, mas que, em conjunto, definem alguma informação.",
+      "pagina": 40
+    },
+    {
+      "texto": "Por exemplo, cada um dos dados de um endereço (tipo e nome do logradouro, CEP, município etc.), em conjunto, definem a informação de um endereço específico, os dados de dia, mês e ano definem uma data específica, as cores de cada pixel, juntas, definem uma imagem etc.",
+      "pagina": 40
+    },
+    {
+      "texto": "A Computação emprega diferentes técnicas para organizar dados de forma estruturada para representar informação. Cada tipo de informação possui uma estratégia de representação. Textos podem ser representados como uma sequência de números decimais, onde cada número representa um caractere (como é feito com o uso da tabela ASCII), uma imagem pode ser representada como uma sequência de números decimais que definem a cor de cada elemento de um reticulado uniforme que divide a imagem (pixel) etc.",
+      "pagina": 40
+    },
+    {
+      "texto": "Mostrar que para representar informação às vezes é necessário combinar diferentes tipos de dados. A informação sobre uma data pode ser recuperada pelo processamento de uma composição de dados de um dia, de um mês e de um ano em uma determinada ordem. Imagens podem ser representados por composições de cores em determinados pontos (pixels) etc.",
+      "pagina": 40
+    },
+    {
+      "texto": "Para compreender o funcionamento dos computadores, é importante entender que uma máquina disponibiliza um conjunto de instruções (as operações) que, se realizadas em uma dada sequência (algoritmo), produzem algum resultado.",
+      "pagina": 40
+    },
+    {
+      "texto": "Nesta etapa, o aluno poderia começar a identificar que alguns conjuntos de instruções bem definidos (operações aritméticas simples de uma calculadora, operações de dobradura etc.) podem ser usados em sequências bem definidas para produzir coisas (o cálculo de uma expressão simples, um origami etc.).",
+      "pagina": 40
+    },
+    {
+      "texto": "O objetivo da habilidade é mostrar aos alunos que em seu cotidiano existem dispositivos físicos (celulares, computadores, calculadoras, máquinas de costura etc.) que são controlados por algo que segue uma sequência de passos lógicos (um app do celular, uma pessoa com a calculadora, uma costureira) etc.",
+      "pagina": 40
+    },
+    {
+      "texto": "Utilizar dispositivos do cotidiano do aluno para diferenciar o dispositivo físico (hardware) daquilo que o controla (software).",
+      "pagina": 40
+    },
+    {
+      "texto": "A proposta nessa habilidade é que o aluno verifique as diferentes características das tecnologias de informação e comunicação, identificando como funcionam, principais aspectos, bem como reconhecendo os diferentes usos no dia a dia das pessoas dentro e fora da escola.",
+      "pagina": 40
+    },
+    {
+      "texto": "Apresentar imagens de diferentes tecnologias (celular, tablets, computador, dentre outros) destacando características de cada uma delas como tamanho, tipos, bem como diferentes usos do no seu cotidiano, celular para ligações, acessar informações, computador para trabalhar com documentos, produzir conteúdo, dentre outros.",
+      "pagina": 40
+    },
+    {
+      "texto": "Criar um portfólio de tecnologias com imagens de tecnologias; Nesta habilidade temos a perspectiva de trazer um panorama sobre os cuidados com a segurança ao usar dispositivos como celular, tablets, computadores dentre outros (roubo de dados em dispositivos físicos, rastro de dados online quando da utilização de jogos por exemplo etc.). Temos também a perspectiva da responsabilidade ao usar as tecnologias, principalmente quanto aos direitos e deveres como cuidado com propriedade intelectual dentre outros.",
+      "pagina": 40
+    },
+    {
+      "texto": "O professor poderá propor atividades de comparação entre a segurança que temos em nossas casas como fechaduras, nos carros com os alarmes, nos cuidados com nossos itens pessoais, comparando com a necessidade de cuidados quando estamos na internet, ao conversar com pessoas desconhecidas, fornecendo informação pessoais. Além disso, é possível trabalhar com atividades de criação de pinturas ou desenhos que demonstrem de quem é cada um deles, apresentando os princípios de direitos autorias e da propriedade intelectual. 37 ENSINO FUNDAMENTAL",
+      "pagina": 40
+    },
+    {
+      "texto": "38 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Programação Tipos de dados Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares. (EF06CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dados’ Linguagem de programação (EF06CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação. (EF06CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",
+      "pagina": 41,
+      "habilidades": [
+        "EF06CO01",
+        "EF06CO02",
+        "EF06CO03"
+      ]
+    },
+    {
+      "texto": "Estratégias de solução de problemas Decomposição Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas. (EF06CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.",
+      "pagina": 41,
+      "habilidades": [
+        "EF06CO04"
+      ]
+    },
+    {
+      "texto": "Generalização (EF06CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída. (EF06CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",
+      "pagina": 41,
+      "habilidades": [
+        "EF06CO05",
+        "EF06CO06"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 6º ANO",
+      "pagina": 41
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS As informações são armazenadas de diferentes maneiras, dependendo do tipo de dado que ela representa. Basicamente existem três tipos primitivos de dados: inteiros, real e string.",
+      "pagina": 42
+    },
+    {
+      "texto": "Encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número.",
+      "pagina": 42
+    },
+    {
+      "texto": "Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras. Uma ou mais linguagens podem ser escolhidas para serem adotadas.",
+      "pagina": 42
+    },
+    {
+      "texto": "Calcular a média de notas de uma turma em uma dada disciplina e informar se o resultado está acima da média do colégio.",
+      "pagina": 42
+    },
+    {
+      "texto": "É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação. O aluno precisa entender que o mais importante é a construção do algoritmo. Notem que a ideia aqui não é apenas descrever as linhas de código em português, mas sim descrever em um alto nível de abstração como o problema é resolvido.",
+      "pagina": 42
+    },
+    {
+      "texto": "Desenvolver um programa que: (1) \"Se o ponteiro do mouse tocar no animal então o animal andará 10 passos, 10 vezes seguidas.\" (2) \"Dada uma pilha de cartas, se a pilha estiver vazia, dizer que não há ás; se a primeira carta for um ás, dizer que há ás na pilha, senão, remover a primeira carta e verificar se há ás no resto da pilha.\" Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: permitir uma melhor organização e visualização do problema e da solução; facilitar o trabalho em grupo; permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.",
+      "pagina": 42
+    },
+    {
+      "texto": "Decompor o problema de desenhar imagens em subproblemas de desenhar formas básicas, compondo as subsoluções por meio de operações sobre imagens (sobrepor, posicionar ao lado etc.).",
+      "pagina": 42
+    },
+    {
+      "texto": "Decompor o problema de desenhar uma casa em subproblemas de desenhar polígonos regulares (retângulos, quadrados, triângulos), compondo essas formas com as operações sobre imagens (rotação, sobreposição etc.).",
+      "pagina": 42
+    },
+    {
+      "texto": "Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias (insumos/ informações) e qual o tipo da saída. Como a solução (algoritmo) deve ser genérica, se define um problema em termos dos tipos das entradas e saída.",
+      "pagina": 42
+    },
+    {
+      "texto": "O objetivo aqui NÃO é propor soluções de problemas, e sim definir o que é necessário para resolvê-los e qual será o resultado esperado.",
+      "pagina": 42
+    },
+    {
+      "texto": "Encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número.",
+      "pagina": 42
+    },
+    {
+      "texto": "Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Por exemplo, um algoritmo que calcula a média aritmética de 2 números resolve este problema para qualquer par de números (que são as instâncias do problema). Para descrever um algoritmo de forma genérica, é necessário dar nomes às entradas do algoritmo. Esses nomes são chamados de variáveis ou parâmetros do algoritmo.",
+      "pagina": 42
+    },
+    {
+      "texto": "Comparar diferentes instâncias do problema de calcular a área de um retângulo, identificando que o que varia entre elas são as medidas da base e da altura e, por fim, criar um algoritmo para calcular a área de qualquer retângulo. 39 ENSINO FUNDAMENTAL",
+      "pagina": 42
+    },
+    {
+      "texto": "40 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE MUNDO DIGITAL Armazenamento e Transmissão de dados Fundamentos de transmissão de dados Entender como os dados são armazenados, processados e transmitidos usando dispositivos computacionais, considerando aspectos da segurança cibernética. (EF06CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+      "pagina": 43,
+      "habilidades": [
+        "EF06CO07"
+      ]
+    },
+    {
+      "texto": "Gestão de dados (EF06CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",
+      "pagina": 43,
+      "habilidades": [
+        "EF06CO08"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Segurança e responsabilidade no uso da tecnologia Tecnologia digital e sociedade Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes. (EF06CO09) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",
+      "pagina": 43,
+      "habilidades": [
+        "EF06CO09"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais Tecnologia digital e sustentabilidade Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade. (EF06CO10) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.",
+      "pagina": 43,
+      "habilidades": [
+        "EF06CO10"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO - 6º ANO (CONTINUAÇÃO)",
+      "pagina": 43
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS O processo de transmissão de dados envolve em dividir a informação em pedaços para que ela seja mais facilmente enviada através da rede de comunicação. Esses pedaços são transmitidos através de caminhos compostos por diferentes equipamentos. Finalmente, a informação é remontada no destino. Ao ser dividida, problemas que ocorram na transmissão em alguns pedaços da informação podem ser solucionados pelo reenvio de pedaços faltantes, corrompidos, ou fora de ordem.",
+      "pagina": 44
+    },
+    {
+      "texto": "Utilizar os alunos como equipamentos de transmissão, passar uma frase em pedaços de papel e orientar alguns deles inicialmente a entregarem sempre seu pedaço de papel e em um segundo momento a não entregar o pedaço. Depois pode ser avaliado como a mensagem chega no destino nestas diferentes condições.",
+      "pagina": 44
+    },
+    {
+      "texto": "O gerenciamento de dados é frequentemente realizado através do conceito de arquivo. Neste contexto, os arquivos são criados considerando alguma lógica interna e armazenados em memória secundária. Posteriormente, esses arquivos podem ser recarregados a fim de seus dados serem utilizados ou mesmo editados. Finalmente, os arquivos podem ser compactados para diminuir o espaço ocupado na memória secundária.",
+      "pagina": 44
+    },
+    {
+      "texto": "Utilizar um arquivo físico para simular um sistema de arquivos e realizar ações de manipulações das diversas pastas, realizando analogias com os arquivos.",
+      "pagina": 44
+    },
+    {
+      "texto": "Nesta habilidade é importante que os alunos possam vivenciar, discutir e refletir sobre o comportamento ao se comunicar em ambiente digital, principalmente na internet mas não limitada a ela(por exemplo também em aplicativos de conversa).",
+      "pagina": 44
+    },
+    {
+      "texto": "Identificando e refletindo sobre conduta on- line, por exemplo, propondo regras de conduta que colaborem para o debate de questões éticas em evidência.",
+      "pagina": 44
+    },
+    {
+      "texto": "Importante nesta habilidade considerar a reflexão sobre as perspectivas do ser humano e o consumo de tecnologia, como quando compramos novos celulares em substituição a aparelhos mais antigos, ou uma televisão, dentre outros, ou seja, nossos hábitos. Quantos recursos são necessários para se produzir uma tecnologia?",
+      "pagina": 44
+    },
+    {
+      "texto": "Refletindo e discutindo sobre sustentabilidade e tecnologia, por exemplo, identificando formas de economizar energia e outros recursos, como desligando os dispositivos ou deixando-os em modo de economia de energia. 41 ENSINO FUNDAMENTAL",
+      "pagina": 44
+    },
+    {
+      "texto": "42 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 7º ANO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Programação Programação usando registros e matrizes Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares. (EF07CO01) Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.",
+      "pagina": 45,
+      "habilidades": [
+        "EF07CO01"
+      ]
+    },
+    {
+      "texto": "Análise de programas (EF07CO02) Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",
+      "pagina": 45,
+      "habilidades": [
+        "EF07CO02"
+      ]
+    },
+    {
+      "texto": "Projetos com programação (EF07CO03) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+      "pagina": 45,
+      "habilidades": [
+        "EF07CO03"
+      ]
+    },
+    {
+      "texto": "Propriedades de grafos (EF07CO04) Explorar propriedades básicas de grafos.",
+      "pagina": 45,
+      "habilidades": [
+        "EF07CO04"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Para automatizar a solução de um problema através da construção de um programa de computador, normalmente é necessário definir as estruturas de dados que serão usadas para representar a informação relacionada ao problema, e depois descrever o algoritmo usando as construções disponíveis na linguagem de programação escolhida. Uma das estruturas mais usadas é o registro, que permite descrever objetos identificando atributos destes objetos, permitindo assim que se trabalhe em um nível de abstração maior: ao invés de receber vários dados de um aluno separados, um programa pode receber o 'registro' de um aluno ( que seria um dado que engloba as várias informações sobre um aluno) Desenvolver um programa que leia os dados de um documento de identidade, calcule a idade e mostre todas as informações na tela. Ou um programa que armazene um cadastro de grupos de pessoas com os seguintes dados: nome, telefone e data de nascimento (dia, mês, ano) e realize consultas (como pessoas que fazem aniversário em um determinado mês).",
+      "pagina": 46
+    },
+    {
+      "texto": "Matrizes unidimensionais (ou vetores) podem ser usados quando temos situações nas quais queremos representar que um determinado objeto é composto por vários elementos similares, por exemplo, uma turma pode ter vários alunos; um tabuleiro de xadrez pode ter várias peças, um armário possui várias gavetas etc. A ideia é que cada elemento em uma matriz/vetor ocupa uma posição. Matrizes podem ter uma ou mais dimensões.",
+      "pagina": 46
+    },
+    {
+      "texto": "Desenvolver um programa que lê os cartões de resposta do vestibular e um gabarito, verificando para cada candidato o seu número de acertos.",
+      "pagina": 46
+    },
+    {
+      "texto": "Deve-se estimular a análise crítica do programa construído. Uma das formas é através da depuração, que consiste em uma análise detalhada do código e realização de testes para identificar erros. Depuração é uma das formas de desenvolver a habilidade do pensamento crítico.",
+      "pagina": 46
+    },
+    {
+      "texto": "Usar aplicativos disponíveis que permitem ao programador monitorar a execução de um programa, pará-lo e reiniciá-lo, ativar pontos de parada, entre outros.",
+      "pagina": 46
+    },
+    {
+      "texto": "Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.",
+      "pagina": 46
+    },
+    {
+      "texto": "Analisar a proposição e os requisitos de um programa e identificar qual a estrutura de dados adequada a ser empregada: um programa que manipula imagens pode manipular os pixels dessa imagem a partir de um vetor ou uma matriz, um jogo no Scratch pode armazenar a pontuação dos usuários numa lista e salvar esses dados na nuvem, dentre outros.",
+      "pagina": 46
+    },
+    {
+      "texto": "Grafos possuem muitas propriedades que podem ser úteis para a descoberta de conhecimento. Por exemplo, comunidades virtuais são caracterizadas por uma propriedade que se chama clique de um grafo. Algumas propriedades de grafos são: coloração, cliques, graus de vértices, diâmetro, pontes.",
+      "pagina": 46
+    },
+    {
+      "texto": "Analisar a estrutura de conexão entre os usuários de uma rede social ou solucionar um problema de entregas de mercadorias num mapa de cidade. 43 ENSINO FUNDAMENTAL",
+      "pagina": 46
+    },
+    {
+      "texto": "44 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 7º ANO (CONTINUAÇÃO) EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Estratégias de solução de problemas Reúso Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas. (EF07CO05) Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma colaborativa e cooperativa e automatizá-los usando uma linguagem de programação.",
+      "pagina": 47,
+      "habilidades": [
+        "EF07CO05"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Armazenamento e Transmissão de dados Protocolos de comunicação em redes Entender como os dados são armazenados, processados e transmitidos usando dispositivos computacionais, considerando aspectos da segurança cibernética. (EF07CO06) Compreender o papel de protocolos para a transmissão de dados.",
+      "pagina": 47,
+      "habilidades": [
+        "EF07CO06"
+      ]
+    },
+    {
+      "texto": "Fundamentos de Segurança Cibernética (EF07CO07) Identificar problemas de segurança cibernética e experimentar formas de proteção.",
+      "pagina": 47,
+      "habilidades": [
+        "EF07CO07"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS A decomposição facilita o trabalho cooperativo, pois auxilia na identificação clara de cada subtarefa (subproblema), que pode ser realizada por diferentes equipes, bem como da forma como os resultados das tarefas devem ser combinados. A identificação precisa das interfaces das tarefas (entradas e saídas) é essencial para viabilizar a combinação das soluções dessas tarefas, bem como o reúso das mesmas.",
+      "pagina": 48
+    },
+    {
+      "texto": "Criar um algoritmo para organizar um baralho por naipe e numeração, seguindo as etapas: (1) Coletivamente, dividir o problema em separar os naipes, ordenar as cartas de cada um dos naipes e juntar os naipes ordenados. (2) Identificar que o subproblema de ordenar é comum aos 4 naipes. (3) Estabelecer a seguinte forma de interação entre os subproblemas (interfaces): (a) o subproblema de separar os naipes tem como entrada o baralho inteiro (vetor de 52 posições) e como resultado quatro montes (vetores de 13 posições) do baralho, um para cada naipe; (b) os subproblemas de ordenar os naipes recebem como entrada um monte de cartas do mesmo naipe e retorna como saída esse monte ordenado; (c) o subproblema de juntar nos naipes ordenados tem como entrada 4 montes de cartas e como saída o baralho organizado. (4) Dividir a equipe em três grupos menores, atribuindo a cada uma um dos subproblemas distintos (separação dos naipes, ordenação de um monte do mesmo naipe e junção dos montes). (5) Coletivamente, compor as soluções dos subproblemas de modo a obter o baralho organizado.",
+      "pagina": 48
+    },
+    {
+      "texto": "A transmissão de dados precisa ser realizada considerando um conjunto de regras para sua execução correta. Esse conjunto de regras é chamado de protocolo e permite que a transmissão de dados seja realizada de forma consistente por diferentes equipamentos.",
+      "pagina": 48
+    },
+    {
+      "texto": "É possível definir regras de encaminhamento de mensagens entre os alunos em uma brincadeira do tipo \"telefone sem fio\". Em um segundo momento, alguns alunos podem ser instruídos a não cumprir tais regras a fim de ressaltar a importância de protocolos.",
+      "pagina": 48
+    },
+    {
+      "texto": "A utilização de sistemas e redes de computadores precisa respeitar algumas propriedades fundamentos da segurança da informação, como confidencialidade, integridade e disponibilidade. No entanto, essas propriedades podem ser ameaçadas por eventos maliciosos ou não-maliciosos. A fim de diminuir a ocorrência desses eventos, mecanismos de proteção podem ser empregados Histórias como \"Todo melhor amigo tem um melhor amigo também\" podem ser utilizadas para demonstrar como segredos compartilhados podem ser espalhados.",
+      "pagina": 48
+    },
+    {
+      "texto": "Esquemas de criptografia através de um dicionário de códigos também podem ser utilizados. 45 ENSINO FUNDAMENTAL",
+      "pagina": 48
+    },
+    {
+      "texto": "46 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 7º ANO (CONTINUAÇÃO) EIXO OBJETO DE CONHECIMENTO HABILIDADE CULTURA DIGITAL Segurança e responsabilidade no uso da tecnologia Cyberbullying Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes. (EF07CO08) Demonstrar empatia sobre opiniões divergentes na web. (EF07CO09) Reconhecer e debater sobre cyberbullying.",
+      "pagina": 49,
+      "habilidades": [
+        "EF07CO08",
+        "EF07CO09"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais Impactos da tecnologia digital Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade. (EF07CO10) Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade.",
+      "pagina": 49,
+      "habilidades": [
+        "EF07CO10"
+      ]
+    },
+    {
+      "texto": "Produção Digital (EF07CO11) Criar, documentar e publicar, de forma individual ou colaborativa, produtos (vídeos, podcasts, web sites) usando recursos de tecnologia.",
+      "pagina": 49,
+      "habilidades": [
+        "EF07CO11"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Nesta habilidade considera-se a discussão e reflexão de colocar-se em posição do outro e respeito em relação as opiniões divergentes na internet, como opiniões de estilos de música, de filmes, de roupas, dentre outros. Espera-se que o aluno possa ser capaz de reconhecer a importância de respeitar as opiniões diferentes da sua.",
+      "pagina": 50
+    },
+    {
+      "texto": "Demonstrando respeito a diferentes opiniões, por exemplo, em um debate sobre escolhas musicais, política, dentre outros O contexto desta habilidade é a de proporcionar ao aluno a reflexão e discussão sobre cyberbullying, trazendo sua definição. Além disso, espera-se que o aluno reflita sobre a importância de se combater o cyberbullying (essa prática de intimidação, humilhação, exposição, dentre outros em meio digital) Abordando e refletindo sobre as características do cyberbullying, por exemplo, em um debate a partir de um estudo de caso real, e propondo ações para solucionar o problema Esta habilidade sugere a reflexão e discussão sobre a relação da sustentabilidade e o impacto na produção e descarte de lixo eletrônico.",
+      "pagina": 50
+    },
+    {
+      "texto": "Considera-se importante enfatizar o descarte de material tecnológico e as diferenças para outros tipos de lixo. Como localidade, tipos de reciclagem.",
+      "pagina": 50
+    },
+    {
+      "texto": "Refletindo sobre o descarte de computadores e suas peças, por exemplo, realizando estudo sobre o impacto das toxinas químicas quando os hardwares dos computadores são expostos e descartados de forma indevida.",
+      "pagina": 50
+    },
+    {
+      "texto": "Nesta habilidade espera-se que o aluno utilize recursos e ferramentas digitais como editores de vídeo, editor de áudio, de blogs, para produzir um vídeo, um áudio, uma página na internet, criando e publicando conteúdo, individualmente e colaborativamente. Nesse sentido, experimentar diferentes recursos e ferramentas, inclusive integrando um recurso de vídeo e um blog por exemplo!",
+      "pagina": 50
+    },
+    {
+      "texto": "Detalhando o processo de documentação de um projeto/ atividade, por exemplo, organizando uma linha do tempo do projeto. 47 ENSINO FUNDAMENTAL",
+      "pagina": 50
+    },
+    {
+      "texto": "48 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 8º ANO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Programação Programação com listas e recursão Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares. (EF08CO01) Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação. (EF08CO02) Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",
+      "pagina": 51,
+      "habilidades": [
+        "EF08CO01",
+        "EF08CO02"
+      ]
+    },
+    {
+      "texto": "Algoritmos clássicos (EF08CO03) Utilizar algoritmos clássicos de manipulação sobre listas.",
+      "pagina": 51,
+      "habilidades": [
+        "EF08CO03"
+      ]
+    },
+    {
+      "texto": "Projetos com programação (EF08CO04) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+      "pagina": 51,
+      "habilidades": [
+        "EF08CO04"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Sistemas distribuídos e internet Fundamentos de sistemas distribuídos Entender os fundamentos de sistemas distribuídos e da internet. (EF08CO05) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",
+      "pagina": 51,
+      "habilidades": [
+        "EF08CO05"
+      ]
+    },
+    {
+      "texto": "Internet (EF08CO06) Entender como é a estrutura e funcionamento da internet.",
+      "pagina": 51,
+      "habilidades": [
+        "EF08CO06"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS O conceito de recursão permite exercitar o pensamento indutivo na resolução de problemas, ou seja, recursão não deve ser entendida como uma questão sintática e sim como uma forma poderosa de resolver problemas. O raciocínio indutivo é muito útil na resolução de problemas, pois permite que se trabalhe em um nível de abstração mais elevado do que usando raciocínio dedutivo, o que em muitas situações facilita encontrar soluções (grande parte dos algoritmos clássicos da Computação são bem mais fáceis de compreender nas suas versões recursivas). (1) Solução recursiva para definir o tamanho de uma lista: \"se a lista for vazia, o tamanho é zero, senão o tamanho é um mais o tamanho do resto da lista.\" (2) Solução recursiva para encontrar o número de ascendentes de olhos azuis em uma árvore genealógica: Se a árvore estiver vazia, o resultado é zero, senão se a pessoa da raiz da árvore tiver olhos azuis, soma 1 ao número de ascendentes de olhos azuis por parte de pai e de mãe desta pessoa, se ela não tiver olhos azuis, o resultado é o número de ascendentes de olhos azuis (por parte de pai e mãe) desta pessoa.",
+      "pagina": 52
+    },
+    {
+      "texto": "Fazer projetos e construir soluções usando listas e recursão.",
+      "pagina": 52
+    },
+    {
+      "texto": "É importante salientar a importância da análise crítica de programas recursivos identificando a existência de um caso base (fim) e de chamadas recursivas que fazem o programa convergir (se aproximar do fim) - caso contrário os programas podem não terminar.",
+      "pagina": 52
+    },
+    {
+      "texto": "Fazer um programa que junte as duas pilhas de cartas ordenadas de forma que o baralho todo continue ordenado.",
+      "pagina": 52
+    },
+    {
+      "texto": "Compreender algoritmos de manipulação de listas. Para isso, os alunos podem simular os algoritmos ou mesmo implementá-los.",
+      "pagina": 52
+    },
+    {
+      "texto": "Simular ou programar algoritmos de ordenação (Bubblesort, Mergesort, Quicksort etc.), inserção, remoção, busca (linear, binária etc.), entre outros.",
+      "pagina": 52
+    },
+    {
+      "texto": "Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.",
+      "pagina": 52
+    },
+    {
+      "texto": "Analisar a proposição e os requisitos de um programa e identificar qual a estrutura de dados adequada a ser empregada: um programa que manipula imagens pode manipular os pixels dessa imagem a partir de um vetor ou uma matriz, um jogo no Scratch pode armazenar a pontuação dos usuários numa lista e salvar esses dados na nuvem, dentre outros.",
+      "pagina": 52
+    },
+    {
+      "texto": "O aluno deve compreender que o paralelismo permite a utilização de diferentes recursos para executar partes de uma tarefa que podem ser realizadas simultaneamente.",
+      "pagina": 52
+    },
+    {
+      "texto": "Paralelismo ocorre quando mais de uma tarefa é executada ao mesmo tempo. Normalmente, se usa paralelismo para melhorar o tempo de execução de uma solução, mas também para que o processo possa ser executado por várias pessoas trabalhando concomitantemente. Para construir uma solução usando paralelismo, deve-se identificar quais partes da solução são independentes, podendo ser executadas simultaneamente. Pode-se também replicar a mesma tarefa para otimizar a execução.",
+      "pagina": 52
+    },
+    {
+      "texto": "A partir da especificação de um sistema web não implementado ou real, os estudantes podem analisar quais as funcionalidades que dependem de concorrência ou armazenamento distribuídos. A própria Internet é considerada um sistema distribuído, além de Aplicações e serviços baseados na Computação em Nuvem.",
+      "pagina": 52
+    },
+    {
+      "texto": "A internet é uma rede composta por muitas redes, as quais compartilham o protocolo Internet. Essas redes são agrupadas em sistemas autônomos, conjuntos de redes que possuem uma política de operação comum. A definição desses sistemas autônomos é realizada por entidades que operam na organização dos recursos da Internet.",
+      "pagina": 52
+    },
+    {
+      "texto": "Usar a lógica de um modelo em camadas e mostrar como uma língua comum pode ser utilizada para traduzir comunicações entre 2 línguas que não possuem tradutores (ex: tradutores português-inglês e inglês-Espanhol -> português-espanhol). 49 ENSINO FUNDAMENTAL",
+      "pagina": 52
+    },
+    {
+      "texto": "50 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 8º ANO (CONTINUAÇÃO) EIXO OBJETO DE CONHECIMENTO HABILIDADE CULTURA DIGITAL Segurança e responsabilidade no uso da tecnologia Redes sociais e segurança da informação Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes. (EF08CO07) Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética. (EF08CO08) Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados. (EF08CO09) Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.",
+      "pagina": 53,
+      "habilidades": [
+        "EF08CO07",
+        "EF08CO08",
+        "EF08CO09"
+      ]
+    },
+    {
+      "texto": "Segurança em ambientes virtuais (EF08CO10) Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.",
+      "pagina": 53,
+      "habilidades": [
+        "EF08CO10"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais Uso crítico das mídias digitais Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade. (EF08CO11) Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica.",
+      "pagina": 53,
+      "habilidades": [
+        "EF08CO11"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS A perspectiva desta habilidade é que o aluno tenha a vivência das redes sociais, identifique seu funcionamento como regras, cadastro, dentre outros aspectos operacionais. Além disso, espera-se que o aluno possa refletir sobre o uso responsável das redes sociais, discutindo ética e respeito ao interagir com o outro em meio digital.",
+      "pagina": 54
+    },
+    {
+      "texto": "Utilizando as redes sociais para compartilhar informações, por exemplo, compartilhando com outros colegas um evento ou acontecimento.",
+      "pagina": 54
+    },
+    {
+      "texto": "Nesta habilidade importante que o aluno identifique os tipos de dados pessoais (nome, endereço, documento de identidade) que são exigidos em diferentes espaços como jogos online, redes sociais, bem como refletir sobre os riscos de de compartilhar esses dados em espaços digitais como a internet.",
+      "pagina": 54
+    },
+    {
+      "texto": "Identificando as informações pessoais que podem ser tornadas públicas, por exemplo, criando uma lista de sites elencando os tipos de dados pessoais solicitados (ex: sites de compras, jogos on-line, redes sociais) e avaliando os riscos envolvidos.",
+      "pagina": 54
+    },
+    {
+      "texto": "Espera-se que o aluno possa discutir e analisar os termos e políticas de uso das redes sociais e demais plataformas, refletindo sobre suas implicações, como por exemplo em nossos dados pessoais que ficam armazenados.",
+      "pagina": 54
+    },
+    {
+      "texto": "Identificando elementos \"polêmicos\" dessas políticas, por exemplo, identificando aspectos que podem ser melhorados para garantir a proteção dos indivíduos.",
+      "pagina": 54
+    },
+    {
+      "texto": "Destaca-se nessa habilidade a reflexão sobre aspectos de segurança e privacidade que são importantes quando utilizamos ambientes virtuais, como jogos online, compras online, interação em salas de conversa online, interação em redes sociais. assim, destaca-se o compartilhamento de informações, acesso a sites da internet que não são seguros e desconhecidos, dentre outros.",
+      "pagina": 54
+    },
+    {
+      "texto": "Analisando dados de segurança, por exemplo, verificando as configurações-padrão de privacidade para garantir máxima proteção e tomando consciência das técnicas e filtros utilizados na escola e em casa A perspectiva desta habilidade é que o aluno tenha a vivência e faça análise crítica de fontes de informações, como em jornais, blogs, canais de comunicação como YouTube, verificando suas características e como a informação é veiculada. (1) Realizando pesquisa na internet utilizando palavras- chave, por exemplo, pesquisando sobre os rios do município da escola. (2) Identificando a relação entre as palavras pesquisadas e as respostas listadas pelo buscador, por exemplo, acessando as páginas indicadas e observando a presença das palavras nos resultados do buscador. (3) Identificando a existência de uma ordenação (ranqueamento) nos resultados da pesquisa, por exemplo, comparando os primeiros dez resultados com os dez consecutivos e discutindo o critério de relevância dos resultados. 51 ENSINO FUNDAMENTAL",
+      "pagina": 54
+    },
+    {
+      "texto": "52 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 9º ANO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Programação Programação usando grafos e árvores Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares. (EF09CO01) Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para descrever suas informações e automatizá-las usando uma linguagem de programação.",
+      "pagina": 55,
+      "habilidades": [
+        "EF09CO01"
+      ]
+    },
+    {
+      "texto": "Projetos com programação (EF09CO02) Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+      "pagina": 55,
+      "habilidades": [
+        "EF09CO02"
+      ]
+    },
+    {
+      "texto": "Autômatos e linguagens baseadas em eventos (EF09CO03) Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.",
+      "pagina": 55,
+      "habilidades": [
+        "EF09CO03"
+      ]
+    },
+    {
+      "texto": "MUNDO DIGITAL Sistemas distribuídos e internet Segurança cibernética Entender os fundamentos de sistemas distribuídos e da internet. (EF09CO04) Compreender o funcionamento de malwares e outros ataques cibernéticos.",
+      "pagina": 55,
+      "habilidades": [
+        "EF09CO04"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Grafos e árvores podem ser usados para representar uma gama enorme de informações.",
+      "pagina": 56
+    },
+    {
+      "texto": "Para que possamos construir programas de computador, essas estruturas precisam ser formalizadas e descritas em linguagens de programação. Grafos são estruturas que permitem representar objetos e relacionamentos entre esses objetos (como redes sociais, mapas de cidades, a internet etc.). Uma árvore é um grafo com elementos organizados hierarquicamente. Exemplos de árvores são árvores genealógicas, organogramas, mapas mentais, chaveamento de times etc.",
+      "pagina": 56
+    },
+    {
+      "texto": "Construir um algoritmo para encontrar um caminho em um mapa (grafo), partindo de uma cidade e chegando em outra. Ou então, construir um algoritmo para encontrar os filhos de uma pessoa numa árvore genealógica.",
+      "pagina": 56
+    },
+    {
+      "texto": "Uma estrutura de dados em ciência da computação, é uma coleção tanto de valores (e seus relacionamentos) quanto de operações (sobre os valores e estruturas decorrentes). É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.",
+      "pagina": 56
+    },
+    {
+      "texto": "Analisar a proposição e os requisitos de um programa e identificar qual a estrutura de dados adequada a ser empregada: um programa que manipula imagens pode manipular os pixels dessa imagem a partir de um vetor ou uma matriz, um jogo no Scratch pode armazenar a pontuação dos usuários numa lista e salvar esses dados na nuvem, dentre outros.",
+      "pagina": 56
+    },
+    {
+      "texto": "Linguagens baseadas em eventos permitem descrever sistemas que são orientados pela ocorrência de eventos (como cliques de mouse, pressionamento de alguma tecla, sinal de algum sensor). Este tipo de linguagem tem muitas aplicações como por exemplo, o projeto de interfaces ou aplicações de robótica. Para se desenvolver um programa orientado a eventos, é muito útil construir como primeiro passo uma especificação abstrata do sistema usando autômatos (ou sistemas de transição), que são modelos que representam os estados do sistema e as transições possíveis dependendo dos eventos que ocorrerem.",
+      "pagina": 56
+    },
+    {
+      "texto": "Modelar o comportamento de um robô utilizando autômatos, descrevendo eventos acionados a partir da leitura de seus sensores.",
+      "pagina": 56
+    },
+    {
+      "texto": "Software malicioso, ou malware, são programas nocivos que obtêm acesso ilegal a dispositivos digitais. Eles podem acessar um computador ou dispositivo por meio de anexos de e-mail, pendrives ou sites desprotegidos. O malware pode invadir um computador e causar estragos.",
+      "pagina": 56
+    },
+    {
+      "texto": "Esses programas podem desacelerar um dispositivo, enviar e-mails de spam ou até mesmo roubar ou excluir dados pessoais. O malware é classificado com base em como entra no computador e no que faz quando está lá.",
+      "pagina": 56
+    },
+    {
+      "texto": "Alguns exemplos de malware são: vírus, worms, rootkits, spyware, trojans, backdoors, ransomware, entre outros.",
+      "pagina": 56
+    },
+    {
+      "texto": "Analisar cada um dos tipos de malware a partir de exemplos conhecidos, como o Brain em 1986, Worm Morris em 1988, miniDuck em 2013, Kevin Mitnik em 1990, dentre outros casos emblemáticos. 53 ENSINO FUNDAMENTAL",
+      "pagina": 56
+    },
+    {
+      "texto": "54 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - 9º ANO (CONTINUAÇÃO) EIXO OBJETO DE CONHECIMENTO HABILIDADE MUNDO DIGITAL Sistemas distribuídos e internet (cont.) Segurança cibernética (cont.) Entender os fundamentos de sistemas distribuídos e da internet. (cont.) (EF09CO05) Analisar técnicas de criptografia para armazenamento e transmissão de dados.",
+      "pagina": 57,
+      "habilidades": [
+        "EF09CO05"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Segurança e responsabilidad e no uso da tecnologia Tecnologia digital e sociedade Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes. (EF09CO06) Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções. (EF09CO07) Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo, incluindo aqueles relativos ao mundo do trabalho. (EF09CO08) Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.",
+      "pagina": 57,
+      "habilidades": [
+        "EF09CO06",
+        "EF09CO07",
+        "EF09CO08"
+      ]
+    },
+    {
+      "texto": "Autoria em meio digital (EF09CO09) Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.",
+      "pagina": 57,
+      "habilidades": [
+        "EF09CO09"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais Qualidade da informação Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade. (EF09CO10) Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.",
+      "pagina": 57,
+      "habilidades": [
+        "EF09CO10"
+      ]
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS A criptografia é o processo de pegar uma mensagem e torná-la ilegível para todos, exceto para a pessoa a quem se destina.",
+      "pagina": 58
+    },
+    {
+      "texto": "Historicamente, a razão mais popular para criptografar informações era permitir a comunicação entre líderes militares, espiões ou chefes de estado. Mais recentemente, com o advento da internet e das compras online, a criptografia está se tornando cada vez mais importante. Por exemplo, é usado para manter o dinheiro dos clientes seguro durante as transações. (1) Apresentando o conceito de criptografia, por exemplo, usando algoritmos simples de criptografia para que os estudantes codifiquem textos e frases e troquem mensagens criptografadas com os colegas. (2) Discutindo a importância do tráfego de informações criptografadas nas redes, por exemplo, em relação a dados como senhas e informações bancárias das pessoas. (3) Discutindo o papel histórico da criptografia, por exemplo, na comunicação de informações sigilosas durante a Segunda Guerra Mundial.",
+      "pagina": 58
+    },
+    {
+      "texto": "Espera-se que o aluno utilize recursos digitais para analisar problemas sociais de seu cotidiano, como por exemplo em pesquisa, comparação de informação, documentação da pesquisa, seja em sua cidade ou estado, propondo soluções a esses problemas.",
+      "pagina": 58
+    },
+    {
+      "texto": "Apresentando propostas/soluções para problemas de sua cidade ou bairro, por exemplo, usando um fórum ou um recurso digital aberto para expressar suas ideias.",
+      "pagina": 58
+    },
+    {
+      "texto": "Importante nessa habilidade que o aluno possa refletir, discutir as diversas aplicações das tecnologias em nosso cotidiano, considerando propor soluções aos desafios da atualidade do ser humano em qualquer área, como por exemplo no meio ambiente, na saúde, na economia, acessibilidade, transporte, dentre outros.",
+      "pagina": 58
+    },
+    {
+      "texto": "Analisando o surgimento de novas profissões a partir dos avanços tecnológicos e os impactos socioeconômicos derivados, por exemplo, realizando um estudo sobre as profissões que existiram no passado e as que existem hoje, e criando conjecturas sobre profissões que deverão se extinguir devido à automatização, além de novas profissões que poderão surgir no futuro.",
+      "pagina": 58
+    },
+    {
+      "texto": "Nesta habilidade espera-se que o aluno possa refletir sobre o acesso as tecnologias pelas pessoas e seus impactos na igualdade, desenvolvimento sustentável, e poder, como por exemplo sobre os custos de determinada tecnologia e quem pode comprá-la, trazendo assim questões como pobreza, acesso ao poder, dentre outros.",
+      "pagina": 58
+    },
+    {
+      "texto": "Pode-se organizar um painel online que compare diferentes tecnologias, seus custos e seus impactos no cotidiano do ser humano.",
+      "pagina": 58
+    },
+    {
+      "texto": "Espera-se que o aluno possa utilizar recursos como editores de texto, planilha, apresentações, editores de vídeo, blogs, programas de animação, linguagens de programação, para criar conteúdos diversos considerando o cuidado com direitos autorais. (1) Apresentando a definição de direito autoral e explorando questões relacionadas a esse tema, por exemplo, discutindo sobre download de músicas e filmes na web. (2) Discutindo sobre direito autoral de músicas e filmes e sobre a prática de pirataria Nesta habilidade o aluno terá a perspectiva de refletir e discutir sobre o papel da informação que circula em diferentes formatos (físico ou digital), analisando se é verídico, se tem credibilidade, sua importância e relevância, bem como relacionando a intenção dessa informação e sua circulação.",
+      "pagina": 58
+    },
+    {
+      "texto": "Propondo a reflexão de valores e atitudes responsáveis relacionadas ao uso de dados em ambiente digital, por exemplo, trabalhando com fake news, diferenciando informações falsas e verdadeiras 55 ENSINO FUNDAMENTAL",
+      "pagina": 58
+    },
+    {
+      "texto": "56 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE PENSAMENTO COMPUTACIONAL Programação Tipos de dados Construir e analisar soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual ou colaborativa, selecionando as estruturas de dados adequadas (registros, matrizes, listas e grafos), aperfeiçoando e articulando saberes escolares. (EF69CO01) Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",
+      "pagina": 59,
+      "habilidades": [
+        "EF69CO01"
+      ]
+    },
+    {
+      "texto": "Linguagem de Programação (EF69CO02) Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação. (EF69CO03) Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",
+      "pagina": 59,
+      "habilidades": [
+        "EF69CO02",
+        "EF69CO03"
+      ]
+    },
+    {
+      "texto": "Estratégias de solução de problemas Decomposição Empregar diferentes estratégias da Computação (decomposição, generalização e reúso) para construir a solução de problemas. (EF69CO04) Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.",
+      "pagina": 59,
+      "habilidades": [
+        "EF69CO04"
+      ]
+    },
+    {
+      "texto": "Generalização (EF69CO05) Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída. (EF69CO06) Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",
+      "pagina": 59,
+      "habilidades": [
+        "EF69CO05",
+        "EF69CO06"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO / POR ETAPA - 6º ao 9º ANO",
+      "pagina": 59
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa- se da lista de provas dos alunos, e o resultado é um número.",
+      "pagina": 60
+    },
+    {
+      "texto": "Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número.",
+      "pagina": 60
+    },
+    {
+      "texto": "Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras. Uma ou mais linguagens podem ser escolhidas para serem adotadas.",
+      "pagina": 60
+    },
+    {
+      "texto": "Calcular a média de notas de uma turma em uma dada disciplina e informar se o resultado está acima da média do colégio.",
+      "pagina": 60
+    },
+    {
+      "texto": "É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação. O aluno precisa entender que o mais importante é a construção do algoritmo. Notem que a ideia aqui não é apenas descrever as linhas de código em português, mas sim descrever em um alto nível de abstração como o problema é resolvido.",
+      "pagina": 60
+    },
+    {
+      "texto": "Desenvolver um programa que: (1) \"Se o ponteiro do mouse tocar no animal então o animal andará 10 passos, 10 vezes seguidas.\" (2) \"Dada uma pilha de cartas, se a pilha estiver vazia, dizer que não há ás; se a primeira carta for um ás, dizer que há ás na pilha, senão, remover a primeira carta e verificar se há ás no resto da pilha.\" Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original.",
+      "pagina": 60
+    },
+    {
+      "texto": "Algumas vantagens da decomposição são: permitir uma melhor organização e visualização do problema e da solução; facilitar o trabalho em grupo; permitir que possamos reutilizar as soluções dos subproblemas em outros problemas.",
+      "pagina": 60
+    },
+    {
+      "texto": "Decompor o problema de desenhar imagens em subproblemas de desenhar formas básicas, compondo as subsoluções por meio de operações sobre imagens (sobrepor, posicionar ao lado, etc.).",
+      "pagina": 60
+    },
+    {
+      "texto": "Decompor o problema de desenhar uma casa em subproblemas de desenhar polígonos regulares (retângulos, quadrados, triângulos), compondo essas formas com as operações sobre imagens (rotação, sobreposição etc.).",
+      "pagina": 60
+    },
+    {
+      "texto": "Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias (insumos/informações) e qual o tipo da saída. Como a solução (algoritmo) deve ser genérica, se define um problema em termos dos tipos das entradas e saída. O objetivo aqui NÃO é propor soluções de problemas, e sim definir o que é necessário para resolvê-los e qual será o resultado esperado.",
+      "pagina": 60
+    },
+    {
+      "texto": "Para encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número.",
+      "pagina": 60
+    },
+    {
+      "texto": "Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Por exemplo, um algoritmo que calcula a média aritmética de 2 números resolve este problema para qualquer par de números (que são as instâncias do problema). Para descrever um algoritmo de forma genérica, é necessário dar nomes às entradas do algoritmo. Esses nomes são chamados de variáveis ou parâmetros do algoritmo.",
+      "pagina": 60
+    },
+    {
+      "texto": "Comparar diferentes instâncias do problema de calcular a área de um retângulo, identificando que o que varia entre elas são as medidas da base e da altura e, por fim, criar um algoritmo para calcular a área de qualquer retângulo. 57 ENSINO FUNDAMENTAL",
+      "pagina": 60
+    },
+    {
+      "texto": "58 COMPUTAÇÃO COMPUTAÇÃO EIXO OBJETO DE CONHECIMENTO HABILIDADE MUNDO DIGITAL Armazenamento e Transmissão de dados Fundamentos de transmissão de dados Entender como os dados são armazenados, processados e transmitidos usando dispositivos computacionais, considerando aspectos da segurança cibernética. (EF69CO07) Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO07"
+      ]
+    },
+    {
+      "texto": "Gestão de dados (EF69CO08) Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO08"
+      ]
+    },
+    {
+      "texto": "Sistemas distribuídos e internet Fundamentos de sistemas distribuídos Entender os fundamentos de sistemas distribuídos e da internet. (EF69CO09) Compreender os conceitos de paralelismo, concorrência e armazenamento/ processamento distribuídos.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO09"
+      ]
+    },
+    {
+      "texto": "Internet (EF69CO10) Entender como é a estrutura e funcionamento da internet.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO10"
+      ]
+    },
+    {
+      "texto": "CULTURA DIGITAL Segurança e responsabilidade no uso da tecnologia Tecnologia digital e sociedade Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes. (EF69CO11) Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO11"
+      ]
+    },
+    {
+      "texto": "Uso de tecnologias computacionais Tecnologia digital e sustentabilidade Selecionar e utilizar tecnologias computacionais para se expressar e resolver problemas, analisando criticamente os diferentes impactos na sociedade. (EF69CO12) Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.",
+      "pagina": 61,
+      "habilidades": [
+        "EF69CO12"
+      ]
+    },
+    {
+      "texto": "COMPUTAÇÃO / POR ETAPA - 6º ao 9º ANO (CONTINUAÇÃO)",
+      "pagina": 61
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS O processo de transmissão de dados envolve em dividir a informação em pedaços para que ela seja mais facilmente enviada através da rede de comunicação. Esses pedaços são transmitidos através de caminhos compostos por diferentes equipamentos. Finalmente, a informação é remontada no destino. Ao ser dividida, problemas que ocorram na transmissão em alguns pedaços da informação, podem ser solucionados pelo reenvio de pedaços faltantes, corrompidos, ou fora de ordem.",
+      "pagina": 62
+    },
+    {
+      "texto": "Utilizar os alunos como eles fossem equipamentos de transmissão, passar uma frase em pedaços de papel e orientar alguns deles inicialmente a entregarem sempre seu pedaço de papel e em um segundo momento a não entregar o pedaço. Depois pode ser avaliado como a mensagem chega no destino nestas diferentes condições.",
+      "pagina": 62
+    },
+    {
+      "texto": "O gerenciamento de dados é frequentemente realizado através do conceito de arquivo. Neste contexto, os arquivos são criados considerando alguma lógica interna e armazenados em memória secundária. Posteriormente, esses arquivos podem ser recarregados a fim de seus dados serem utilizados ou mesmo editados. Finalmente, os arquivos podem ser compactados para diminuir o espaço ocupado na memória secundária.",
+      "pagina": 62
+    },
+    {
+      "texto": "Utilizar um arquivo físico para simular um sistema de arquivos e realizar ações de manipulações das diversas pastas, realizando analogias com os arquivos.",
+      "pagina": 62
+    },
+    {
+      "texto": "O aluno deve compreender que o paralelismo permite a utilização de diferentes recursos para executar partes de uma tarefa que podem ser realizadas simultaneamente.",
+      "pagina": 62
+    },
+    {
+      "texto": "Paralelismo ocorre quando mais de uma tarefa é executada ao mesmo tempo. Normalmente, se usa paralelismo para melhorar o tempo de execução de uma solução, mas também para que o processo possa ser executado por várias pessoas trabalhando concomitantemente. Para construir uma solução usando paralelismo, deve-se identificar quais partes da solução são independentes, podendo ser executadas simultaneamente.",
+      "pagina": 62
+    },
+    {
+      "texto": "Pode-se também replicar a mesma tarefa para otimizar a execução.",
+      "pagina": 62
+    },
+    {
+      "texto": "A partir da especificação de um sistema web não implementado ou real, os estudantes podem analisar quais as funcionalidades que dependem de concorrência ou armazenamento distribuídos. A própria Internet é considerada um sistema distribuído, além de Aplicações e serviços baseados na Computação em Nuvem.",
+      "pagina": 62
+    },
+    {
+      "texto": "A internet é uma rede composta por muitas redes, as quais compartilham o protocolo Internet. Essas redes são agrupadas em sistemas autônomos, conjuntos de redes que possuem uma política de operação comum. A definição desses sistemas autônomos é realizada por entidades que operam na organização dos recursos da Internet.",
+      "pagina": 62
+    },
+    {
+      "texto": "Usar a lógica de um modelo em camadas e mostrar como uma língua comum pode ser utilizada para traduzir comunicações entre 2 línguas que não possuem tradutores (ex: tradutores português-inglês e inglês- espanhol -> português-espanhol).",
+      "pagina": 62
+    },
+    {
+      "texto": "Nesta habilidade é importante destacar as formas de comunicação na internet, em fóruns, em sites, em redes sociais, considerando a empatia, os direitos e deveres, as leis como o marco civil. Importante que o aluno possa refletir sobre as consequências de sua conduta online.",
+      "pagina": 62
+    },
+    {
+      "texto": "Como exemplo o professor poderá organizar um “Escape Room”, em que são apresentadas situações de condutas inapropriadas em ambiente digital, e os alunos precisam criar saídas baseadas na ética e mudanças nas atitudes para conseguir escapar da sala.",
+      "pagina": 62
+    },
+    {
+      "texto": "Importante aqui o aluno identificar e refletir sobre o caminho e impactos em que a produção da tecnologia tem em nossa sociedade. Assim, espera-se que o aluno reconheça a cadeia de produção da tecnologia, seus usos no cotidiano do ser humano e os impactos no meio ambiente.",
+      "pagina": 62
+    },
+    {
+      "texto": "O professor poderá elaborar um jogo que demonstre os caminhos da tecnologia, sua produção e seu descarte, considerando tomadas de decisão pelo aluno do que fazer durante o jogo. 59 ENSINO FUNDAMENTAL",
+      "pagina": 62
+    },
+    {
+      "texto": "60 COMPUTAÇÃO",
+      "pagina": 63
+    },
+    {
+      "texto": "61 COMPETÊNCIAS 1.",
+      "pagina": 64
+    },
+    {
+      "texto": "Compreender as possibilidades e os limites da Computação para resolver problemas, tanto em termos de viabilidade quanto de eficiência, propondo e analisando soluções computacionais para diversos domínios do conhecimento, considerando diferentes aspectos. 2.",
+      "pagina": 64
+    },
+    {
+      "texto": "Analisar criticamente artefatos computacionais, sendo capaz de identificar as vulnerabilidades dos ambientes e das soluções computacionais buscando garantir a integridade, privacidade, sigilo e segurança das informações. 3.",
+      "pagina": 64
+    },
+    {
+      "texto": "Analisar situações do mundo contemporâneo, selecionando técnicas computacionais apropriadas para a solução de problemas. 4.",
+      "pagina": 64
+    },
+    {
+      "texto": "Construir conhecimento usando técnicas e tecnologias computacionais, produzindo conteúdos e artefatos de forma criativa, com respeito às questões éticas e legais, que proporcionem experiências para si e os demais. 5.",
+      "pagina": 64
+    },
+    {
+      "texto": "Desenvolver projetos para investigar desafios do mundo contemporâneo, construir soluções e tomar decisões éticas, democráticas e socialmente responsáveis, articulando conceitos, procedimentos e linguagens próprias da Computação preferencialmente de maneira colaborativa. 6.",
+      "pagina": 64
+    },
+    {
+      "texto": "Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes plataformas, ferramentas, linguagens e tecnologias da Computação de forma fluente, criativa, crítica, significativa, reflexiva e ética. 7.",
+      "pagina": 64
+    },
+    {
+      "texto": "Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias frente às questões de diferentes naturezas.",
+      "pagina": 64
+    },
+    {
+      "texto": "A ETAPA DO ENSINO MÉDIO",
+      "pagina": 64
+    },
+    {
+      "texto": "62 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - ENSINO MÉDIO COMPETÊNCIA ESPECÍFICA HABILIDADE Compreender as possibilidades e os limites da Computação para resolver problemas, tanto em termos de viabilidade quanto de eficiência, propondo e analisando soluções computacionais para diversos domínios do conhecimento, considerando diferentes aspectos. (EM13CO01) Explorar e construir a solução de problemas por meio da reutilização de partes de soluções existentes. (EM13CO02) Explorar e construir a solução de problemas por meio de refinamentos, utilizando diversos níveis de abstração desde a especificação até a implementação. (EM13CO03) Identificar o comportamento dos algoritmos no que diz respeito ao consumo de recursos como tempo de execução, espaço de memória e energia, entre outros. (EM13CO04) Reconhecer o conceito de metaprogramação como uma forma de generalização na construção de programas, permitindo que algoritmos sejam entrada ou saída para outros algoritmos. (EM13CO05) Identificar os limites da Computação para diferenciar o que pode ou não ser automatizado, buscando uma compreensão mais ampla dos limites dos processos mentais envolvidos na resolução de problemas. (EM13CO06) Avaliar software levando em consideração diferentes características e métricas associadas.",
+      "pagina": 65
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Considerando que esta habilidade já vem sendo trabalhada desde o Ensino Fundamental, nesta etapa serão trabalhados principalmente dois tópicos (i) pelo lado mais prático, deve ser enfatizado o reuso de códigos de bibliotecas, (ii) pelo lado conceitual, deve-se trabalhar a construção da solução através da comparação (transformando) do problema a ser resolvido com outros problemas já solucionados, e assim reusando (e eventualmente adaptando) as soluções existentes.",
+      "pagina": 66
+    },
+    {
+      "texto": "Utilização de bibliotecas de código com linguagens de programação textuais, uso de GitHub para elaborar soluções colaborativamente.",
+      "pagina": 66
+    },
+    {
+      "texto": "Aplicar boas práticas da Engenharia de Software, tanto para construir uma solução usando níveis de abstração diferentes partindo da definição dos requisitos, especificação, projeto e implementação (refinamento vertical), quanto para fazer a evolução do sistema partindo de um protótipo e inserindo gradualmente as funcionalidades desejadas até chegar ao sistema completo (refinamento horizontal).",
+      "pagina": 66
+    },
+    {
+      "texto": "Representar problemas delimitados em conjunto com outras áreas, como na Biologia, e partir de esboço geral para níveis crescentes de detalhamento.",
+      "pagina": 66
+    },
+    {
+      "texto": "Conhecer os princípios da complexidade de algoritmos, identificando as principais classes de funções que descrevem o consumo de recursos (tempo, espaço, energia) por algoritmos. Essas classes são caracterizadas por funções estudadas na Matemática no Ensino Média (polinomiais, logarítmicas, exponenciais). É importante compreender, por exemplo, que um algoritmo que executa em tempo polinomial é mais eficiente que um que executa em tempo exponencial. Esse tema é relevante na prática, pois várias técnicas de criptografia usadas em bancos, sistemas de eleição etc., se baseiam no fato de que determinados problemas não têm solução algorítmica eficiente conhecida.",
+      "pagina": 66
+    },
+    {
+      "texto": "Testes de programas com soluções corretas, mas que geram tempo inviável de execução, ou utilizam memória em quantidade maior do que disponível na máquina. Exemplificar programas com tempo de execução exponencial, linear, quadrático e logarítmico. Mostrar esquemas de criptografia reais que usam fatoração de números grandes (produto de dois números primos grandes), ou seja, com mais de 30 dígitos.",
+      "pagina": 66
+    },
+    {
+      "texto": "Pode-se construir programas que manipulam ou geram outros programas. Isto se chama metaprogramação. Com isto, se pode obter programas muito mais flexíveis, que podem ser utilizados em diversos contextos. Do ponto de vista teórico, o conceito é importante para analisarmos os limites do que pode ser resolvido com programas de computador (teoria da Computabilidade).",
+      "pagina": 66
+    },
+    {
+      "texto": "Construção de scripts em um sistema operacional capazes de gerar outros scripts de execução. Outro exemplo seria um programa que aplica um outro programa (calcular tamanho, trocar nome etc.) em vários arquivos de uma mesma pasta.",
+      "pagina": 66
+    },
+    {
+      "texto": "Existem problemas que não têm solução computacional, o exemplo clássico é o Problema da Parada. A existência de uma solução para este problema levaria a um paradoxo.",
+      "pagina": 66
+    },
+    {
+      "texto": "Isso mostra que os computadores não são (e nunca serão) capazes de resolver qualquer tipo de problema. Vários problemas chamados não-computáveis têm relação com programas que analisam outros programas (e, portanto, se forem analisar eles próprios, pode-se chegar a paradoxos).",
+      "pagina": 66
+    },
+    {
+      "texto": "Possui relação direta com (EM13MAT315).",
+      "pagina": 66
+    },
+    {
+      "texto": "Mostrar paradoxos como o Paradoxo de Mentiroso, para explicar o que é um paradoxo e relacionar com o problema da Parada (que gera o paradoxo que um programa para se somente se ele próprio não parar). Uma consequência da não existência de solução computacional para o problema da parada é que não é possível construir um programa que faz análise de programas para determinar se a execução destes programas necessariamente termina. Pode-se então discutir se há limites para a inteligência humana, a exemplo dos limites da computação.",
+      "pagina": 66
+    },
+    {
+      "texto": "A ideia desta habilidade é fazer com que os estudantes possam realizar avaliação de software, através da adoção de características (eficiência, usabilidade, portabilidade, correção, segurança, privacidade, referenciais éticas, entre outras) e métricas associadas, embasando cientificamente as suas escolhas, em contextos diversos de uso dessas ferramentas computacionais.",
+      "pagina": 66
+    },
+    {
+      "texto": "Dados sistemas desenvolvidos para um mesmo propósito por diferentes grupos de uma turma de estudantes do Ensino Médio, definir critérios relevantes, classificá-los em níveis de importância, avaliar os sistemas e fazer uma discussão crítica comparando os resultados das avaliações dos sistemas. 63 ENSINO MÉDIO",
+      "pagina": 66
+    },
+    {
+      "texto": "64 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - ENSINO MÉDIO (CONTINUAÇÃO) COMPETÊNCIA ESPECÍFICA HABILIDADE Analisar criticamente artefatos computacionais, sendo capaz de identificar as vulnerabilidades dos ambientes e das soluções computacionais buscando garantir a integridade, privacidade, sigilo e segurança das informações. (EM13CO07) Compreender as diferentes tecnologias, bem como equipamentos, protocolos e serviços envolvidos no funcionamento de redes de computadores, identificando suas possibilidades de escala e confiabilidade. (EM13CO08) Entender como mudanças na tecnologia afetam a segurança, incluindo novas maneiras de preservar sua privacidade e dados pessoais on-line, reportando suspeitas e buscando ajuda em situações de risco.",
+      "pagina": 67
+    },
+    {
+      "texto": "Analisar situações do mundo contemporâneo, selecionando técnicas computacionais apropriadas para a solução de problemas. (EM13CO09) Identificar tecnologias digitais, sua presença e formas de uso, nas diferentes atividades no mundo do trabalho. (EM13CO10) Conhecer os fundamentos da Inteligência Artificial, comparando-a com a inteligência humana, analisando suas potencialidades, riscos e limites. (EM13CO11) Criar e explorar modelos computacionais simples para simular e fazer previsões, identificando sua importância no desenvolvimento científico.",
+      "pagina": 67
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Redes de Computadores como a Internet funcionam a partir de um conjunto de equipamentos (ex: bases Wi-Fi, switches, roteadores, firewalls) que realizam operações específicas e complementares. A comunicação entre os equipamentos de rede entre si e com os equipamentos dos usuários (ex: computadores, smart TVs, smartphones, tablets, consoles de videogame) acontece através de protocolos de comunicação que regem quais informações devem ser trocadas de forma que a rede funcione de forma adequada. Além dos aplicativos que são executados nos equipamentos dos usuários (ex: jogos online, navegadores Web), existem outros softwares que são executados dentro da rede para oferecer serviços aos usuários (ex: tradução dos nomes de máquinas para endereços IP, bloqueio de ataques). Esta diversidade de equipamentos, protocolos e serviços cria um ambiente sofisticado pela quantidade de elementos, e que precisa ser apropriadamente administrado para que as redes de computadores apresentem um comportamento suficientemente confiável aos olhos dos usuários.",
+      "pagina": 68
+    },
+    {
+      "texto": "Estudo sobre como equipamentos de rede são fisicamente interconectados, formando diferentes topologias de rede. Observação através de analisadores de pacotes do tráfego de rede gerado pela comunicação entre equipamentos de rede, para observar exemplos de diversos protocolos. Habilitar e desabilitar serviços de rede para observar, no equipamento dos usuários, como as aplicações se comportam diante da ausência de serviços de rede importantes. Nos equipamentos do usuário, mostrar como são formados os endereços IP e como eles são traduzidos para nomes de máquinas (ex: www.google.com). Emular um ataque na Internet e demonstrar como a existência de um firewall permite bloquear o ataque e proteger o usuário.",
+      "pagina": 68
+    },
+    {
+      "texto": "Esta habilidade visa a preparar os estudantes para fazer análise crítica sobre as tecnologias a que têm acesso (redes sociais, e- mails, ferramentas de e-commerce, formulários para cadastro em médio digital etc), sendo capaz de identificar, a cada atualização, os riscos a que estão expostos, seja por meio do compartilhamento de informações pessoais desnecessárias ou sensíveis ou na interação com pessoas ou grupos desconhecidos e saber como se proteger e denunciar situações suspeitas.",
+      "pagina": 68
+    },
+    {
+      "texto": "Estudo de casos de perfis falsos de conhecidos para coleta de informações pessoais Esta habilidade visa a conduzir os estudantes à percepção de quais são as ferramentas disponíveis no universo laboral e como cada uma delas pode ser utilizada para resolver determinado problema. Saber utilizar, por exemplo, ferramentas de produtividade para entender o fluxo de um projeto ou para organizar processos, compreender como uma planilha eletrônica pode otimizar determinados controles e gerar gráficos para melhor compreender cenários, saber utilizar software ou impressora 3D para produzir protótipos, recursos para editoração gráfica, organização de banco de dados etc.",
+      "pagina": 68
+    },
+    {
+      "texto": "No contexto desta habilidade também deve-se trabalhar para que os estudantes sejam capazes de identificar os diferentes hardwares disponíveis, sua necessidade e efetividade para diferentes contextos laborais, analisando questões de custo X benefício, condições de instalação, acessibilidade etc.",
+      "pagina": 68
+    },
+    {
+      "texto": "Ser capaz de identificar quais ferramentas resolveriam cada problema; exemplo do trator, impressora 3D, ferramentas de produtividade, mapa mental A Inteligência Artificial (IA) refere-se a sistemas ou máquinas que imitam a inteligência humana para executar tarefas e tomar decisões. A grande contribuição da IA é a automatização de diversas tarefas cognitivas. Porém, o uso indiscriminado e irresponsável dessas tecnologias pode ter consequências graves.",
+      "pagina": 68
+    },
+    {
+      "texto": "Algoritmos de recomendação de plataformas de streaming e outras são normalmente implementados usando técnicas de inteligência artificial. Analisar criticamente como esses algoritmos podem influenciar o usuário dessas plataformas. Após, construir e avaliar pequenos sistemas de recomendação.",
+      "pagina": 68
+    },
+    {
+      "texto": "Usar diferentes ferramentas de modelagem e simulação computacional para analisar sistemas simples e fazer previsões.",
+      "pagina": 68
+    },
+    {
+      "texto": "Este tipo de modelagem envolve conceitos de probabilidade e estatística.",
+      "pagina": 68
+    },
+    {
+      "texto": "Construir modelos de simulação simples para avaliar consumo de energia de uma casa ao longo do tempo; envelhecimento da população; crescimento da população; valorização de cripto moedas. 65 ENSINO MÉDIO",
+      "pagina": 68
+    },
+    {
+      "texto": "66 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - ENSINO MÉDIO (CONTINUAÇÃO) COMPETÊNCIA ESPECÍFICA HABILIDADE Construir conhecimento usando técnicas e tecnologias computacionais, produzindo informação e/ou artefatos de forma criativa, com respeito às questões legais, que proporcionem experiências para si e os demais. (EM13CO12) Produzir, analisar, gerir e compartilhar informações a partir de dados, utilizando princípios de ciência de dados. (EM13CO13) Analisar e utilizar as diferentes formas de representação e consulta a dados em formato digital para pesquisas científicas. (EM13CO14) Avaliar a confiabilidade das informações encontradas em meio digital, investigando seus modos de construção e considerando a autoria, a estrutura e o propósito da mensagem. (EM13CO15) Analisar a interação entre usuários e artefatos computacionais, abordando aspectos da experiência do usuário e promovendo reflexão sobre a qualidade do uso dos artefatos nas esferas do trabalho, do lazer e do estudo. (EM13CO16) Desenvolver projetos com robótica, utilizando artefatos físicos ou simuladores.",
+      "pagina": 69
+    },
+    {
+      "texto": "Desenvolver projetos para investigar desafios do mundo contemporâneo, construir soluções e tomar decisões éticas, democráticas e socialmente responsáveis, articulando conceitos, procedimentos e linguagens próprias da Computação de maneira colaborativa. (EM13CO17) Construir redes virtuais de interação e colaboração, favorecendo o desenvolvimento de projetos de forma segura, legal e ética. (EM13CO18) Planejar e gerenciar projetos integrados às áreas de conhecimento de forma colaborativa, solucionando problemas, usando diversos artefatos computacionais.",
+      "pagina": 69
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Ciência de dados é uma área visa a extração de conhecimento a partir de dados. Isso pode ser feito por diferentes processos apoiados por ferramentas computacionais, por exemplo planilhas, bancos de dados, ferramentas estatísticas, ferramentas baseadas em padrões e técnicas de aprendizado de máquina, entre outras.",
+      "pagina": 70
+    },
+    {
+      "texto": "Análise e previsão de comportamento de compra de clientes a partir de perfis de compras passadas.",
+      "pagina": 70
+    },
+    {
+      "texto": "Esta habilidade visa a preparar os estudantes para fazer pesquisas eficazes, em bases de dados digitais, sendo capaz de criar e utilizar palavras-chave, fazer uso de filtros em buscadores avançados e identificar a origem da informação (por qual instituição e/ou sujeito ela foi publicada). Analisar também como essas informações aparecem em ambientes para consulta, sendo capaz de identificar o modus operandis dos sistemas que determinam a sua relevância ou prioridade.",
+      "pagina": 70
+    },
+    {
+      "texto": "Estudo de metadados em documentos digitais e gerenciadores de referências bibliográficas Esta habilidade visa a preparar os estudantes para analisar as informações encontradas em meio digital sendo capaz de identificar a confiabilidade da informação, o quanto ela é atual, por quem ela foi produzida (instituição e/ou sujeito), qual a relação da mensagem com a visão deste(s) autor(es) e a originalidade do texto.",
+      "pagina": 70
+    },
+    {
+      "texto": "Avaliação sobre a origem da postagem de \"fake news\" por meio de busca dos locais originais de publicação Esta habilidade visa a preparar os estudantes para analisar a interação entre usuários e artefatos computacionais (plataformas, softwares, aplicativos, jogos, sites etc.), sendo capaz de verificar a experiência do usuário no que tange as condições de acessibilidade (infraestrutura necessária, condições para pessoas com deficiência etc.), correlação com os objetivos de usabilidade apresentados por cada artefato, adequação dos objetivos ao público-alvo, perfil do público- alvo, inovação, aspectos organizacionais, velocidade etc.",
+      "pagina": 70
+    },
+    {
+      "texto": "Estudo de interfaces em aplicativos de smartphones usados por pessoas da melhor idade.",
+      "pagina": 70
+    },
+    {
+      "texto": "É possível desenvolver essa habilidade tanto usando kits físicos de robótica, quanto simuladores instalados em dispositivos computacionais ou online.",
+      "pagina": 70
+    },
+    {
+      "texto": "Projetos de trabalho com plataforma Arduino ou MakeCode Esta habilidade visa a fazer com que os estudantes sejam capazes de mobilizarem-se por meio de redes sociais, criando comunidades que possam articular propostas e projetos sociais ou científicos. Com isso espera-se que os jovens possam entender necessidades coletivas, organizar ideias, conduzir iniciativas de crowdfunding (vaquinhas virtuais e captações de recursos financeiros) e utilizarem-se dessas estratégias para resolver problemas reais. Exemplos de resultados alcançados com iniciativas desta natureza podem ser a construção de uma biblioteca na comunidade, a reforma de uma praça, reivindicar melhoria na prestação de serviços públicos, denunciar abusos e injustiças que eventualmente afetem comunidades ou grupos sociais específicos, captar recursos para algum projeto ou pesquisa de iniciação científica etc.",
+      "pagina": 70
+    },
+    {
+      "texto": "Exemplos de iniciativas dessa natureza:",
+      "pagina": 70
+    },
+    {
+      "texto": "Sleeping Giants, crowdfunding para projetos Esta habilidade visa a preparar os estudantes para utilizar artefatos computacionais para planejar e gerenciar projetos sendo capaz de integrar, por exemplo, recursos para gestão de cronogramas, riscos e equipes, espaços compartilhados para armazenamento de arquivos, uso de ferramentas para videoconferência, artefatos para discussão assíncrona, ferramentas para gestão de dados etc Utilizar ferramentas de produtividade para gerenciar projetos, organizar informações em drives virtuais, configurar permissões de compartilhamento de arquivos de forma consciente e adequada às necessidades de cada momento, produzir fluxogramas para comunicar processos, organizar reuniões virtuais e videoconferências, criar e aplicar pesquisas por meio de formulários digitais etc. 67 ENSINO MÉDIO",
+      "pagina": 70
+    },
+    {
+      "texto": "68 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - ENSINO MÉDIO (CONTINUAÇÃO) COMPETÊNCIA ESPECÍFICA HABILIDADE Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes plataformas, ferramentas, linguagens e tecnologias da Computação de forma fluente, criativa, crítica, significativa, reflexiva e ética. (EM13CO19) Expor, argumentar e negociar propostas, produtos e serviços, utilizando diferentes mídias e ferramentas digitais. (EM13CO20) Criar conteúdos, disponibilizando-os em ambientes virtuais para publicação e compartilhamento, avaliando a confiabilidade e as consequências da disseminação dessas informações. (EM13CO21) Comunicar ideias complexas de forma clara por meio de objetos digitais como mapas conceituais, infográficos, hipertextos e outros. (EM13CO22) Produzir e publicar conteúdo como textos, imagens, áudios, vídeos e suas associações, bem como ferramentas para sua integração, organização e apresentação, utilizando diferentes mídias digitais.",
+      "pagina": 71
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Esta habilidade visa a preparar os estudantes para vender uma ideia fazendo uso de diferentes recursos tecnológicos tais como produção de um vídeo promocional, construção de um site, cards para as redes sociais, e-mail marketing, apresentação de slides, criação de storytelling para uma apresentação por videoconferência etc., além de entender o comportamento das ferramentas de marketing digital sendo capaz de analisar a performance de cada campanha.",
+      "pagina": 72
+    },
+    {
+      "texto": "Aqui os estudantes podem ser orientados a organizarem-se em grupos para pensarem em soluções para problemas pré-definidos pelos professores ou estimulados a criarem produtos para serem apresentados e defendidos perante uma banca avaliadora (que pode ser formada por professores, gestores e funcionários da escola, pais, convidados da comunidade e profissionais convidados). Os alunos também devem ser estimulados por exemplo, a realizarem pesquisas para entender como seus produtos são aceitos (ex. Formulários digitais) e a criarem perfis em redes sociais para divulgar essas ideias como fariam em uma situação profissional real. Dessa forma espera-se que possam simular ainda na escola, futuras experiências profissionais.",
+      "pagina": 72
+    },
+    {
+      "texto": "Esta habilidade visa a preparar os estudantes para criarem conteúdos, de diversas naturezas, para serem disseminados em ambientes virtuais, tais como podcasts e vídeos para canais em redes digitais de divulgação de vídeos (ex. YouTube, Twitch, Vimeo etc.), microvídeos (ex. Instagram, TikTok etc.), textos jornalísticos e crônicas (ex. Blogs, Facebook etc.), fotografias (ex.",
+      "pagina": 72
+    },
+    {
+      "texto": "Instagram, Facebook etc.), refletindo sobre seus alcances e como o teor da mensagem que é veiculada pode influenciar uma comunidade local ou até mesmo global.",
+      "pagina": 72
+    },
+    {
+      "texto": "Criação e postagens de vídeos no TikTok sobre conteúdos de Química Esta habilidade visa a preparar os estudantes para utilizar recursos digitais que os ajudem a fazer sínteses e correlações entre ideias, sendo capazes de traduzir e sintetizar informações complexas em ideias mais simples. Por exemplo: ler e interpretar um artigo científico e representar suas principais ideias por meio de um mapa conceitual, fazer a leitura de um relatório de pesquisa e transformá-lo em um infográfico, criar correlação entre textos, imagens e outros recursos por meio da linguagem hipertextual etc.",
+      "pagina": 72
+    },
+    {
+      "texto": "Comunicação de temática com infográfico por meio da ferramenta Canva Esta habilidade visa a preparar os estudantes para escolher e utilizar a ferramenta digital mais adequada de acordo com o propósito da mensagem e público-alvo que se pretende atingir.",
+      "pagina": 72
+    },
+    {
+      "texto": "Os estudantes deverão ter a oportunidade de produzir, por exemplo, textos para blogs, gravar vídeos e podcast, construir gráficos, apresentações em slides etc., além de serem capazes de integrar recursos (inserir um vídeo em um blog, por exemplo), desenvolver o senso estético (cores, fontes, estilos etc.) e valorizar a inclusão (uso de ferramentas para acessibilidade visual, auditiva, motora etc.).",
+      "pagina": 72
+    },
+    {
+      "texto": "Construção de conteúdo multimídia de História com a ferramenta ActivePresenter 69 ENSINO MÉDIO",
+      "pagina": 72
+    },
+    {
+      "texto": "70 COMPUTAÇÃO COMPUTAÇÃO COMPUTAÇÃO - ENSINO MÉDIO (CONTINUAÇÃO) COMPETÊNCIA ESPECÍFICA HABILIDADE Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias para tomar decisões frente às questões de diferentes naturezas. (EM13CO23) Analisar criticamente as experiências em comunidades virtuais e as relações advindas da interação e comunicação com outras pessoas, bem como seus impactos na sociedade. (EM13CO24) Identificar e reconhecer como as redes sociais e artefatos computacionais em geral interferem na saúde física e mental de seus usuários. (EM13CO25) Dialogar em ambientes virtuais com segurança e respeito às diferenças culturais e pessoais, reconhecendo e denunciando atitudes abusivas. (EM13CO26) Aplicar os conceitos e pressupostos do direito digital em sua conduta e experiências com o cotidiano da cultura digital, bem como na produção e uso de artefatos computacionais.",
+      "pagina": 73
+    },
+    {
+      "texto": "EXPLICAÇÃO DA HABILIDADE EXEMPLOS Esta habilidade visa a criar oportunidades de reflexão com os estudantes sobre as oportunidades de diálogo e alcance da mensagem que se configuram na formação de comunidades virtuais, tanto relacionado a aspectos positivos como negativos, em contextos pessoais ou profissionais. Como exemplo, é possível discutir sobre a organização de comunidades virtuais para produzir pesquisa científica e colaborar com o desenvolvimento da ciência, para busca de soluções para problemas locais, defesa de uma causa etc.",
+      "pagina": 74
+    },
+    {
+      "texto": "Uso de emojis para representação de emoções em comunidades virtuais baseadas em texto, como grupos de WhatsApp Esta habilidade visa a sensibilizar os estudantes sobre o impacto do uso excessivo das tecnologias para sua saúde, seja relacionado a aspectos físicos, sociais ou emocionais. Neste contexto, é possível trabalhar questões relacionadas à depressão, fobia, baixa autoestima, lesões por movimentos repetitivos, isolamento social etc.",
+      "pagina": 74
+    },
+    {
+      "texto": "Estudo de tempos de uso em aparelhos eletrônicos de tela por parte de crianças Esta habilidade visa a preparar os estudantes para interagir e se comunicar em ambientes virtuais, como por exemplo, participar de um grupo de WhatsApp, interagir em um fórum de discussão online em um curso a distância, participar de uma videoconferência, postar uma crítica em um blog etc), com respeito aos sujeitos envolvidos, buscando entender o contexto destas pessoas (sociais, políticos, religiosos, étnicos etc.), além de ser capaz de preservar sua imagem e privacidade em prol da sua segurança pessoal ou mesmo coletiva.",
+      "pagina": 74
+    },
+    {
+      "texto": "Diálogo estabelecido entre equipes durante uma partida em game multiplayer.",
+      "pagina": 74
+    },
+    {
+      "texto": "Esta habilidade visa a orientar os estudantes sobre questões que se referem ao respeito a Lei Geral de Proteção de Dados e outras correlacionadas, seja nas oportunidades de interação e colaboração online (navegação nas redes sociais, organização de grupos de trabalho etc.), seja na produção de uma pesquisa científica (autoria na produção de materiais, por exemplo) ou mesmo no desenvolvimento de um software, onde é necessário avaliar que tipo de informação é possível coletar de um usuário e o que pode ser feito com ela.",
+      "pagina": 74
+    },
+    {
+      "texto": "Licenças de uso de imagens digitais baixadas da Internet; Marco Civil da Internet, Lei Geral de Proteção de Dados (LGPD), licenças Creative Commons, Direitos Autorais etc. 71 ENSINO MÉDIO Diagramação: Christian Brackmann",
+      "pagina": 74
+    }
+  ]
+}
