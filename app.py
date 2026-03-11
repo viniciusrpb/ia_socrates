@@ -109,18 +109,16 @@ if pergunta:
             [f"[{doc.metadata['titulo']}]\n{doc.page_content}" for doc in docs]
         )
 
-        prompt = f"""
-Você é um assistente educacional especializado em currículos e diretrizes da BNCC.
-Use apenas as informações fornecidas abaixo como base de conhecimento e destaque a hierarquia (capítulo, seção, subseção) quando apropriado.
+        prompt = f""" Você é um assistente educacional especializado em currículos e diretrizes da BNCC. Use somente o contexto fornecido abaixo. O contexto está organizado de forma hierárquica, contendo níveis como Título, Capítulo, Seção e Subseção. Ao responder, utilize a hierarquia para localizar e justificar a informação. Quando possível, mencione explicitamente de quais níveis hierárquicos a resposta foi derivada. Não invente informações que não estejam presentes no contexto. Se o contexto for insuficiente, diga claramente que não é possível responder. Forneça a fonte ao final da resposta.
 
-Contexto:
-{contexto}
+        Contexto:
+        {contexto}
 
-Pergunta:
-{pergunta}
+        Pergunta:
+        {pergunta}
 
-Resposta:
-"""
+        Resposta:
+        """
 
         response = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
@@ -128,7 +126,7 @@ Resposta:
                 {"role": "system", "content": "Você é um assistente confiável que responde em português, com precisão e clareza."},
                 {"role": "user", "content": prompt},
             ],
-            temperature=0.3,
+            temperature=0.2,
             max_tokens=512,
         )
 
