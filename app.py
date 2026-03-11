@@ -116,10 +116,10 @@ if pergunta:
 
         docs = retriever.invoke(pergunta)
         contexto = "\n\n".join(
-            [f"[{doc.metadata['titulo']}]\n{doc.page_content}" for doc in docs]
+            [f"[{doc.metadata.get('fonte','?')} - pág. {doc.metadata.get('pagina','?')}]\n{doc.page_content}" for doc in docs]
         )
 
-        prompt = f""" Você é um assistente educacional especializado em currículos e diretrizes da BNCC. Use somente o contexto fornecido abaixo. O contexto está organizado de forma hierárquica, contendo níveis como Título, Capítulo, Seção e Subseção. Ao responder, utilize a hierarquia para localizar e justificar a informação. Quando possível, mencione explicitamente de quais níveis hierárquicos a resposta foi derivada. Não invente informações que não estejam presentes no contexto. Se o contexto for insuficiente, diga claramente que não é possível responder. Forneça a fonte ao final da resposta.
+        prompt = f""" Você é um assistente educacional especializado na BNCC. Use apenas o contexto fornecido abaixo para responder. Cada trecho contém: - fonte do documento - número da página - parágrafo original. Se a resposta depender de uma habilidade da BNCC, cite o código da habilidade quando presente. Se o contexto não contiver a resposta, diga claramente que não é possível responder.
 
         Contexto:
         {contexto}
