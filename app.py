@@ -12,13 +12,15 @@ st.title("IAssistente Sócrates - IAgora Brasil")
 
 client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
 
-def flatten_hierarchy(obj, path=""):
+def flatten_hierarchy(obj, path="", pagina_atual=None):
     chunks = []
 
     if isinstance(obj, dict):
 
         titulo_atual = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
         caminho = f"{path} > {titulo_atual}" if path else titulo_atual
+
+        pagina = obj.get("página", pagina_atual)
 
         textos = []
 
@@ -36,16 +38,20 @@ def flatten_hierarchy(obj, path=""):
             textos.extend(obj["direitos"])
 
         if textos:
-            chunks.append({"titulo": caminho, "texto": " ".join(textos)})
+            chunks.append({
+                "titulo": caminho,
+                "texto": " ".join(textos),
+                "pagina": pagina
+            })
 
         for chave in ["capítulos", "seções", "subseções", "subsubseções", "eixos"]:
             if chave in obj:
                 for sub in obj[chave]:
-                    chunks.extend(flatten_hierarchy(sub, caminho))
+                    chunks.extend(flatten_hierarchy(sub, caminho, pagina))
 
     elif isinstance(obj, list):
         for item in obj:
-            chunks.extend(flatten_hierarchy(item, path))
+            chunks.extend(flatten_hierarchy(item, path, pagina_atual))
 
     return chunks
 
