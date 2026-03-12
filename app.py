@@ -1,6 +1,7 @@
 import os
 import json
 import streamlit as st
+import uuid
 from groq import Groq
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
