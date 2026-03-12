@@ -12,54 +12,10 @@ st.title("IAssistente Sócrates - IAgora Brasil")
 
 client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
 
-def flatten_hierarchy(obj, path="", pagina_atual=None):
-    chunks = []
-
-    if isinstance(obj, dict):
-
-        titulo_atual = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
-        caminho = f"{path} > {titulo_atual}" if path else titulo_atual
-
-        pagina = obj.get("página", pagina_atual)
-
-        textos = []
-
-        if "parágrafos" in obj:
-            textos.extend(obj["parágrafos"])
-
-        if "descrição" in obj:
-            textos.append(obj["descrição"])
-
-        if "habilidades" in obj:
-            for h in obj["habilidades"]:
-                textos.append(h.get("descrição") or h.get("texto") or "")
-
-        if "direitos" in obj:
-            textos.extend(obj["direitos"])
-
-        if textos:
-            chunks.append({
-                "titulo": caminho,
-                "texto": " ".join(textos),
-                "pagina": pagina
-            })
-
-        for chave in ["capítulos", "seções", "subseções", "subsubseções", "eixos"]:
-            if chave in obj:
-                for sub in obj[chave]:
-                    chunks.extend(flatten_hierarchy(sub, caminho, pagina))
-
-    elif isinstance(obj, list):
-        for item in obj:
-            chunks.extend(flatten_hierarchy(item, path, pagina_atual))
-
-    return chunks
-
-
 @st.cache_data(show_spinner=False)
 def load_jsons(fpath):
 
-    documentos = []
+    sections = []
 
     arquivos = [f for f in os.listdir(fpath) if f.endswith(".json")]
 
@@ -76,59 +32,91 @@ def load_jsons(fpath):
                 if not texto:
                     continue
 
-                documentos.append(
-                    Document(
-                        page_content=texto,
-                        metadata={
-                            "fonte": filename,
-                            "pagina": p.get("pagina"),
-                            "habilidades": p.get("habilidades", [])
-                        },
-                    )
-                )
+                section_id = str(uuid.uuid4())
 
-    return documentos
+                sections.append(Document(
+                    page_content=texto,
+                    metadata={
+                        "section_id": section_id,
+                        "fonte": filename,
+                        "pagina": p.get("pagina"),
+                        "habilidades": p.get("habilidades", [])
+                    }
+                ))
+
+    return sections
 
 @st.cache_resource(show_spinner=True)
-def setup_retriever():
+def setup_hierarchical_retriever():
 
-    SOURCE_DIR = 'source'
+    SOURCE_DIR = "source"
 
-    docs = load_jsons(SOURCE_DIR)
+    sections = load_jsons(SOURCE_DIR)
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=150)
-    split_docs = splitter.split_documents(docs)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=400,chunk_overlap=120)
 
-    embeddings = HuggingFaceEmbeddings(
-        model_name="neuralmind/bert-base-portuguese-cased" # atualizei aqui par ao BERTimbau, mas fiquem a vontade para alterar
-    )
+    chunks = []
 
-    db = FAISS.from_documents(split_docs, embedding=embeddings)
-    #st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
-    return db.as_retriever(search_kwargs={"k": 7})
+    for section in sections:
 
-retriever = setup_retriever()
+        section_id = section.metadata["section_id"]
+
+        split_docs = splitter.split_documents([section])
+
+        for c in split_docs:
+
+            c.metadata["section_id"] = section_id
+            chunks.append(c)
+
+    embeddings = HuggingFaceEmbeddings(model_name="neuralmind/bert-base-portuguese-cased")
+
+    section_index = FAISS.from_documents(sections, embeddings)
+
+    chunk_index = FAISS.from_documents(chunks, embeddings)
+
+    return section_index, chunk_index
+
+
+def hierarchicalRetrieve(query):
+
+    section_docs = section_index.similarity_search(query, k=5)
+
+    temp = []
+    for d in section_docs:
+        temp.append(d.metadata["section_id"])
+
+    section_ids = set(temp)
+
+    chunk_docs = chunk_index.similarity_search(query, k=25)
+
+    filtered = []
+    for c in chunk_docs:
+        if c.metadata["section_id"] in section_ids:
+            filtered.append(c)
+
+    return filtered[:8]
+
+
+section_index, chunk_index = setup_hierarchical_retriever()
 
 pergunta = st.text_input("Digite sua pergunta:")
 
 if pergunta:
     with st.spinner("Buscando resposta..."):
 
-        docs = retriever.invoke(pergunta)
-        contexto = "\n\n".join(
-            [f"[{doc.metadata.get('fonte','?')} - pág. {doc.metadata.get('pagina','?')}]\n{doc.page_content}" for doc in docs]
-        )
+        docs = hierarchicalRetrieve(pergunta)
+        contexto = "\n\n".join([f"[{doc.metadata.get('fonte','?')} - pág. {doc.metadata.get('pagina','?')}]\n{doc.page_content}" for doc in docs])
 
-        prompt = f""" Você é um assistente educacional especializado na BNCC. Use apenas o contexto fornecido abaixo para responder. Cada trecho contém: - fonte do documento - número da página - parágrafo original. Se a resposta depender de uma habilidade da BNCC, cite o código da habilidade quando presente. Se o contexto não contiver a resposta, diga claramente que não é possível responder.
+        prompt = f"""
+            Você é um assistente educacional que responde com base em documentos da BNCC, da BNCC na Computação e da Educação no Brasil. Use o seguinte contexto para responder com precisão à pergunta.
 
-        Contexto:
-        {contexto}
+            Contexto:
+            {contexto}
 
-        Pergunta:
-        {pergunta}
+            Pergunta:
+            {pergunta}
 
-        Resposta:
-        """
+            Resposta:"""
 
         response = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
@@ -137,7 +125,7 @@ if pergunta:
                 {"role": "user", "content": prompt},
             ],
             temperature=0.2,
-            max_tokens=512,
+            max_tokens=512
         )
 
         resposta = response.choices[0].message.content

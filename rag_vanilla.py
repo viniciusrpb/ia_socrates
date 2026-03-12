@@ -1,66 +1,146 @@
+import os
+import json
 import streamlit as st
-import pandas as pd
 from groq import Groq
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain.text_splitter import CharacterTextSplitter
-from langchain.schema import Document
-import requests
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
 
-st.set_page_config(page_title="IAssistente Sócrates", layout="centered")
-st.title("IAssistente Sócrates")
+st.set_page_config(page_title="IAssistente Sócrates - IAgora Brasil", layout="centered")
+st.title("IAssistente Sócrates - IAgora Brasil")
 
-client = Groq(api_key=st.secrets["GROQ_API"])
+client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
+
+def flatten_hierarchy(obj, path="", pagina_atual=None):
+    chunks = []
+
+    if isinstance(obj, dict):
+
+        titulo_atual = obj.get("título") or obj.get("capítulo") or obj.get("nome") or path
+        caminho = f"{path} > {titulo_atual}" if path else titulo_atual
+
+        pagina = obj.get("página", pagina_atual)
+
+        textos = []
+
+        if "parágrafos" in obj:
+            textos.extend(obj["parágrafos"])
+
+        if "descrição" in obj:
+            textos.append(obj["descrição"])
+
+        if "habilidades" in obj:
+            for h in obj["habilidades"]:
+                textos.append(h.get("descrição") or h.get("texto") or "")
+
+        if "direitos" in obj:
+            textos.extend(obj["direitos"])
+
+        if textos:
+            chunks.append({
+                "titulo": caminho,
+                "texto": " ".join(textos),
+                "pagina": pagina
+            })
+
+        for chave in ["capítulos", "seções", "subseções", "subsubseções", "eixos"]:
+            if chave in obj:
+                for sub in obj[chave]:
+                    chunks.extend(flatten_hierarchy(sub, caminho, pagina))
+
+    elif isinstance(obj, list):
+        for item in obj:
+            chunks.extend(flatten_hierarchy(item, path, pagina_atual))
+
+    return chunks
+
 
 @st.cache_data(show_spinner=False)
-def load_documents(csv_path="bncc.csv"):
-    df = pd.read_csv(csv_path,sep=',')
-    return [
-        Document(page_content=row["context"], metadata={"question": row.get("question", "")})
-        for _, row in df.iterrows()
-    ]
+def load_jsons(fpath):
 
-@st.cache_resource(show_spinner=False)
+    documentos = []
+
+    arquivos = [f for f in os.listdir(fpath) if f.endswith(".json")]
+
+    for filename in arquivos:
+
+        with open(os.path.join(fpath, filename), "r", encoding="utf-8") as f:
+
+            data = json.load(f)
+
+            for p in data.get("paragrafos", []):
+
+                texto = p.get("texto", "").strip()
+
+                if not texto:
+                    continue
+
+                documentos.append(
+                    Document(
+                        page_content=texto,
+                        metadata={
+                            "fonte": filename,
+                            "pagina": p.get("pagina"),
+                            "habilidades": p.get("habilidades", [])
+                        },
+                    )
+                )
+
+    return documentos
+
+@st.cache_resource(show_spinner=True)
 def setup_retriever():
-    docs = load_documents()
-    splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-    chunks = splitter.split_documents(docs)
 
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-    db = FAISS.from_documents(chunks, embedding=embeddings)
-    return db.as_retriever()
+    SOURCE_DIR = 'source'
+
+    docs = load_jsons(SOURCE_DIR)
+
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=150)
+    split_docs = splitter.split_documents(docs)
+
+    embeddings = HuggingFaceEmbeddings(
+        model_name="neuralmind/bert-base-portuguese-cased" # atualizei aqui par ao BERTimbau, mas fiquem a vontade para alterar
+    )
+
+    db = FAISS.from_documents(split_docs, embedding=embeddings)
+    #st.success(f"{len(split_docs)} chunks indexados a partir de {len(docs)} seções da BNCC.")
+    return db.as_retriever(search_kwargs={"k": 7})
 
 retriever = setup_retriever()
 
 pergunta = st.text_input("Digite sua pergunta:")
 
 if pergunta:
-    with st.spinner("Buscando resposta... aguarde..."):
-        documentos = retriever.invoke(pergunta)
-        contexto = "\n".join([doc.page_content for doc in documentos])
+    with st.spinner("Buscando resposta..."):
+
+        docs = retriever.invoke(pergunta)
+        contexto = "\n\n".join(
+            [f"[{doc.metadata.get('fonte','?')} - pág. {doc.metadata.get('pagina','?')}]\n{doc.page_content}" for doc in docs]
+        )
 
         prompt = f"""
-Você é um assistente educacional que responde com base em documentos da BNCC, da BNCC na Computação e da Educação no Brasil. Use o seguinte contexto para responder com precisão à pergunta.
+            Você é um assistente educacional que responde com base em documentos da BNCC, da BNCC na Computação e da Educação no Brasil. Use o seguinte contexto para responder com precisão à pergunta.
 
-Contexto:
-{contexto}
+            Contexto:
+            {contexto}
 
-Pergunta:
-{pergunta}
+            Pergunta:
+            {pergunta}
 
-Resposta:"""
+            Resposta:"""
 
         response = client.chat.completions.create(
-            model="llama3-70b-8192",
+            model="llama-3.3-70b-versatile",
             messages=[
-                {"role": "system", "content": "Você é um assistente útil que responde em português."},
-                {"role": "user", "content": prompt}
+                {"role": "system", "content": "Você é um assistente confiável que responde em português, com precisão e clareza."},
+                {"role": "user", "content": prompt},
             ],
-            temperature=0.4,
-            max_tokens=512
+            temperature=0.2,
+            max_tokens=512,
         )
 
         resposta = response.choices[0].message.content
 
-        st.subheader("📌 Resposta:")
+        st.subheader("Resposta:")
         st.write(resposta)
