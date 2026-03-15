@@ -17,86 +17,133 @@ client = Groq(api_key=st.secrets["GROQ_API"] or os.getenv("GROQ_API"))
 def load_jsons(fpath):
 
     sections = []
+    current_chapter = "unknown"
 
-    arquivos = [f for f in os.listdir(fpath) if f.endswith(".json")]
+    arquivos = []
+
+    for f in os.listdir(fpath):
+        if f.endswith(".json"):
+            arquivos.append(f)
 
     for filename in arquivos:
 
-        with open(os.path.join(fpath, filename), "r", encoding="utf-8") as f:
+        full_path = os.path.join(fpath, filename)
+
+        with open(full_path, "r", encoding="utf-8") as f:
 
             data = json.load(f)
 
-            for p in data.get("paragrafos", []):
+            paragrafos = data.get("paragrafos", [])
+
+            for p in paragrafos:
 
                 texto = p.get("texto", "").strip()
 
-                if not texto:
+                if texto == "":
                     continue
+
+                chap = re.match(r'^\d+(\.\d+)+', texto)
+
+                if chap:
+                    current_chapter = chap.group()
 
                 section_id = str(uuid.uuid4())
 
-                sections.append(Document(
-                    page_content=texto,
+                doc = Document(page_content=texto,
                     metadata={
                         "section_id": section_id,
+                        "chapter": current_chapter,
                         "fonte": filename,
                         "pagina": p.get("pagina"),
                         "habilidades": p.get("habilidades", [])
                     }
-                ))
+                )
+
+                sections.append(doc)
 
     return sections
 
 @st.cache_resource(show_spinner=True)
 def setup_hierarchical_retriever():
 
-    SOURCE_DIR = "source"
+    sections = load_jsons(source_dir)
 
-    sections = load_jsons(SOURCE_DIR)
-
-    splitter = RecursiveCharacterTextSplitter(chunk_size=400,chunk_overlap=120)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500,chunk_overlap=100)
 
     chunks = []
 
     for section in sections:
 
         section_id = section.metadata["section_id"]
+        chapter = section.metadata["chapter"]
+        skills = section.metadata.get("habilidades", [])
 
         split_docs = splitter.split_documents([section])
 
         for c in split_docs:
 
             c.metadata["section_id"] = section_id
+            c.metadata["chapter"] = chapter
+            c.metadata["habilidades"] = skills
+
             chunks.append(c)
 
     embeddings = HuggingFaceEmbeddings(model_name="neuralmind/bert-base-portuguese-cased")
 
-    section_index = FAISS.from_documents(sections, embeddings)
+    chapter_docs = []
+    seen = set()
 
+    for s in sections:
+
+        ch = s.metadata["chapter"]
+
+        if ch not in seen:
+
+            doc = Document(page_content=ch,metadata={"chapter": ch})
+
+            chapter_docs.append(doc)
+
+            seen.add(ch)
+
+    chapter_index = FAISS.from_documents(chapter_docs, embeddings)
+    section_index = FAISS.from_documents(sections, embeddings)
     chunk_index = FAISS.from_documents(chunks, embeddings)
 
-    return section_index, chunk_index
+    return chapter_index, section_index, chunk_index
 
 
 def hierarchicalRetrieve(query):
 
-    section_docs = section_index.similarity_search(query, k=5)
+    chapter_docs = chapter_index.similarity_search(query, k=3)
 
-    temp = []
+    chapters = set()
+
+    for d in chapter_docs:
+        chapters.add(d.metadata["chapter"])
+
+    section_docs = section_index.similarity_search(query, k=10)
+
+    section_ids = set()
+
     for d in section_docs:
-        temp.append(d.metadata["section_id"])
+        chapter = d.metadata["chapter"]
+        if chapter in chapters:
+            section_ids.add(d.metadata["section_id"])
 
-    section_ids = set(temp)
-
-    chunk_docs = chunk_index.similarity_search(query, k=25)
+    chunk_docs = chunk_index.similarity_search(query, k=80)
 
     filtered = []
+
     for c in chunk_docs:
-        if c.metadata["section_id"] in section_ids:
+        sid = c.metadata["section_id"]
+        if sid in section_ids:
             filtered.append(c)
 
-    return filtered[:8]
+    return filtered[:N]
 
+N = 8
+
+source_dir = "knowledgeBase"
 
 section_index, chunk_index = setup_hierarchical_retriever()
 
