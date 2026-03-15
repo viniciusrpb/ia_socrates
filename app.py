@@ -146,7 +146,7 @@ N = 8
 
 source_dir = "knowledgeBase"
 
-section_index, chunk_index = setup_hierarchical_retriever()
+chapter_index, section_index, chunk_index = setup_hierarchical_retriever()
 
 pergunta = st.text_input("Digite sua pergunta:")
 
